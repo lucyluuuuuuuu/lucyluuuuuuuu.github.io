@@ -1,0 +1,13 @@
+{
+  "id": "introduction",
+  "heading": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/about/01-introduction.jpg",
+      "alt": "About — Introduction",
+      "width": 4200,
+      "height": 4480
+    }
+  ]
+}

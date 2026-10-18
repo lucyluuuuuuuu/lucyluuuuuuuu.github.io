@@ -1,0 +1,50 @@
+{
+  "id": "solution-2-3",
+  "heading": "Different levels of NUDGE are presented in different ways on the receivers' page, allowing various reaction.",
+  "eyebrow": "💡 Solution 2",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Cannot get co-workers’ feedback ASAP</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the.gif",
+      "alt": "Fleet Ai — Different levels of NUDGE are presented in different ways on the receivers' page, allowing various reaction.",
+      "width": 2488,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>How to RECEIVE? </strong>(Simple response - Positive , Neutral , Negative Reaction)</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>ALERT : Top-pinned message</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Simple response: Different emojis to quick indicate whether they accept or have some ambiguity.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>➡️ Next Step</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>More user test</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Due to time and budget constraints in this self-directed project, we were only able to interview users during the research phase. These interviews helped us identify critical pain points for our design direction. To enhance the user-centered approach in future iterations of the project, it would be beneficial to conduct usability tests for our design. By engaging more users to test our products, we can gather crucial feedback. If users disengage partway through or struggle to locate specific functions, we will interview them to better understand their needs and reasons. This feedback loop will help refine our product to better meet user expectations.</p>"
+    }
+  ]
+}

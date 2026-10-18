@@ -1,0 +1,22 @@
+{
+  "id": "product-opportunity",
+  "heading": "Find inspiration and gaps among existing products to identify opportunities for our product.",
+  "eyebrow": "🔍 Product opportunity",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I learned from our competitors, and I also want to do something different:</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp.png",
+      "alt": "Fleet Ai — Find inspiration and gaps among existing products to identify opportunities for our product.",
+      "width": 1800,
+      "height": 670
+    },
+    {
+      "type": "richText",
+      "html": "<p>REFRAMED HMW...</p>"
+    }
+  ]
+}

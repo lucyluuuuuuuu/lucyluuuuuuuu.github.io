@@ -1,0 +1,18 @@
+{
+  "id": "understand-the-business-goal",
+  "heading": "Display token balance in real-time during the conversions can motivate users to purchase more tokens.",
+  "eyebrow": "💼 Understand the business goal",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/48-display-token-balance-in-real-time-during-the-conversions-can-mot.png",
+      "alt": "Conch Ai — Display token balance in real-time during the conversions can motivate users to purchase more tokens.",
+      "width": 670,
+      "height": 664
+    },
+    {
+      "type": "richText",
+      "html": "<p>Iteration 1</p>"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lucy Lu",
+  "title": "Lucy Lu — Product Designer",
+  "description": "Lucy Lu is a multidisciplinary product designer creating playful and effective experiences.",
+  "url": "https://lucyluuuuuuuu.github.io",
+  "email": "lusiyi1994@outlook.com",
+  "instagram": "https://www.instagram.com/siyi_lu.ul/",
+  "resume": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+  "navigation": [
+    {
+      "label": "Works",
+      "href": "/#works"
+    },
+    {
+      "label": "About",
+      "href": "/About-lucy-lu/"
+    }
+  ],
+  "footer": {
+    "title": "Thank you for your scrolling ☻",
+    "subtitle": "Open to interesting challenges!",
+    "credit": "© 2024 BUILT WITH 🧠 + 💜 BY LUCY LU 🤹🏻‍♀️"
+  }
+}

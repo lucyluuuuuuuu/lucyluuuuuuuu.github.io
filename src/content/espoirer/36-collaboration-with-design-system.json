@@ -1,0 +1,81 @@
+{
+  "id": "collaboration-with-design-system",
+  "heading": "Designed for internal designers to make our team faster.",
+  "eyebrow": "🛠️ Collaboration with design system",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>My designs have been added to the component library, which can be reused in the future. <strong>This saves time for other designers working for Espoirer staff end and courier managers end.</strong> It helped other designers avoid similar problems.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/48-designed-for-internal-designers-to-make-our-team-faster.png",
+      "alt": "Espoirer — Designed for internal designers to make our team faster.",
+      "width": 1800,
+      "height": 1041
+    },
+    {
+      "type": "richText",
+      "html": "<p>🤝 Feedbacks</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Driver<span> struggle to </span>manage the task list</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/49-designed-for-internal-designers-to-make-our-team-faster.png",
+      "alt": "Espoirer — Designed for internal designers to make our team faster.",
+      "width": 1104,
+      "height": 664
+    },
+    {
+      "type": "richText",
+      "html": "<p>“Every day, I have to deliver a bunch of packages and require manually typing the package ID on the small screen, really inefficient!”</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>“I'm not quite sure how to plan routes more effectively, often ending up working overtime and spending more on fuel. ”</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The scanning feature is a big help. It'll save me a ton of time. Getting packages ready before my daily deliveries will be so much easier now!</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>-</span>Kenji Yamamoto, 6 years of delivery experience.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Lucy not only excels in every details but also has a holistic perspective on a project, informing rational decision-making with. She can deliver high-quality design solutions efficiently, even under tight deadlines.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>-</span>Shuyu, Product Manager</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Working with Lucy is extremely efficient. She provides multiple alternative solutions based on backend limitations for selection and use.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>-</span>Fuli, Engineer</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>📝 Takeaway</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Addressing complexity and variability in B2B product design: </strong>When designing the B2B product, we faced challenges due to the complex internal business logic and numerous intersection points of the system. The package status and features evolve at each stage of the delivery process, leading to variations in the appearance of package cards. This complexity underscores the importance of thoroughly considering edge cases to ensure accurate data processing across all scenarios. </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Adjust designs based on language, culture, devices, and user habits: </strong>The focus on localization emphasized adapting to regional culture and user habits, particularly in Japan, where our team's understanding of local preferences and language nuances was initially limited. Throughout the design process, we consulted local experts and actively engaged with Japanese users to learn about typical user behaviors and adjusted our designs to match Japanese device specifications and text styles. This thorough localization process ensured that our design met the specific requirements of the Japanese market, making the product more effective and user-friendly.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Propose design assumptions and drive the design process in the face of business uncertainty: </p><p>During the internal and external meetings, we refined our design processes and guided clients to articulate their new requirements, some of which were initially undiscovered and emerged as the project progressed. This often led to new requirements with many uncertainties related to business operations. We needed to propose various assumptions and develop multiple design scenarios to determine which options were most effective. Looking forward, we hope to support these design assumptions with more user-centric data, enhancing the reliability and effectiveness of our design solutions.</p>"
+    }
+  ]
+}

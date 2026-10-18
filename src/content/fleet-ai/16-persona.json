@@ -1,0 +1,18 @@
+{
+  "id": "persona",
+  "heading": "Let’s meet Nix and Andy!",
+  "eyebrow": "👤 Persona",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>We created 2 personas for our design. Each of them play different role in a meeting. One persona is for project manager who often plays a meeting host role, and the other one is for product designer, who always be a meeting note taker.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/21-lets-meet-nix-and-andy.png",
+      "alt": "Fleet Ai — Let’s meet Nix and Andy!",
+      "width": 1800,
+      "height": 1162
+    }
+  ]
+}

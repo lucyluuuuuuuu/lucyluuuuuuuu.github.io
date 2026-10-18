@@ -1,0 +1,59 @@
+{
+  "id": "outcome",
+  "heading": "Woohoo! The delivery rate has reached 96% !",
+  "eyebrow": "🚀 Outcome",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>This delivery system has already launched in Dec 2023. Since the implementation of this application, the delivery rate has increased from <strong>80% to 96%</strong>, has <strong>more than DOUBLED </strong><strong>🎉</strong> Espoirer's order volume, marking a substantial and positive impact on the company's overall business performance.</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>95</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>%</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Delivery Rate</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The delivery rate has increased <strong>from 79% to 95%.</strong></p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>30</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>x</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>PAckAGE ENROLLMENT</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Single package enrollment time has been reduced from <strong>over 30S to 1S.</strong></p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>2</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>x</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>ORDER VOLUMN</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The order volume of Espoirer has increased by<strong> </strong><strong>more than doubled.</strong></p>"
+    }
+  ]
+}

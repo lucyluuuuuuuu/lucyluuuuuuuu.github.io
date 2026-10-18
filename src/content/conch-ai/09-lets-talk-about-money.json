@@ -1,0 +1,11 @@
+{
+  "id": "lets-talk-about-money",
+  "heading": "Let‘s talk about money!",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>A comprehensive system to manage the in-app finance, characters, and referrals. The obvious incentives encourage users to stay active,  continue to contribute, and advocate.</p>"
+    }
+  ]
+}

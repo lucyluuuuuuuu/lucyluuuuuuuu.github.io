@@ -1,0 +1,14 @@
+{
+  "name": "lucy-lu-portfolio",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Lucy Lu's portfolio, migrated from Framer into editable static pages.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}

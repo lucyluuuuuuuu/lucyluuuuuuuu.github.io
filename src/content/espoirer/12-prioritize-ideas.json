@@ -1,0 +1,18 @@
+{
+  "id": "prioritize-ideas",
+  "heading": "Organize ideas within the user flow framework",
+  "eyebrow": "🙆🏻‍♀️ Prioritize ideas",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>We began developing concepts and ideas, framing them within a process driven format with the core development team and some dependencies. Subsequently, we voted, organized, and discussed the ideas on which we reached the highest consensus.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/21-organize-ideas-within-the-user-flow-framework.png",
+      "alt": "Espoirer — Organize ideas within the user flow framework",
+      "width": 1800,
+      "height": 856
+    }
+  ]
+}

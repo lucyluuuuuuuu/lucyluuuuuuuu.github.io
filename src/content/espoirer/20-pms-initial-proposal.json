@@ -1,0 +1,18 @@
+{
+  "id": "pms-initial-proposal",
+  "heading": "Focused on AI Smart Sorting in Scan-to-Task Process",
+  "eyebrow": "🗣️ PM’s initial proposal",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After analyzing the features of mainstream competitors and users’ needs with <strong>the PM, he insisted on incorporating AI smart sorting into our scan-to-task process. </strong>He believed it could efficiently address user pain points, enabling them to quickly complete their daily tasks. I linked the wireframes in a flow to better understand interactions, bringing clarify and tangibility to the product decisions.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process.png",
+      "alt": "Espoirer — Focused on AI Smart Sorting in Scan-to-Task Process",
+      "width": 1800,
+      "height": 534
+    }
+  ]
+}

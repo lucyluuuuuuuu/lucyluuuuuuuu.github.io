@@ -1,0 +1,83 @@
+{
+  "id": "scan-to-enroll-packages",
+  "heading": "Scan to enroll Packages",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/07-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/08-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/09-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/10-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 2</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>Optimize Route</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 3</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>Manage Task</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/11-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/12-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/13-scan-to-enroll-packages.png",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 1064,
+      "height": 2144
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/14-scan-to-enroll-packages.png",
+      "alt": "Espoirer — Scan to enroll Packages",
+      "width": 1064,
+      "height": 2144
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 4</p>"
+    }
+  ]
+}

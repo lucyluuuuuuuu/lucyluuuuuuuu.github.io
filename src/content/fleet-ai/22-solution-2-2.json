@@ -1,0 +1,42 @@
+{
+  "id": "solution-2-2",
+  "heading": "Increase AI-human interaction to build trust",
+  "eyebrow": "💡 Solution 2",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users don’t really trust AI smart notes</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/32-increase-ai-human-interaction-to-build-trust.gif",
+      "alt": "Fleet Ai — Increase AI-human interaction to build trust",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Action items are editable, and can be regenerated if users think it’s not the right one</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>REGENERATE</strong> - Providing different options</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>MARK</strong> - Save for later consideration</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>EDIT</strong> - Support manual modification</p>"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "impact",
+  "heading": "User testing shows exciting results !",
+  "eyebrow": "🚀 Impact",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>The new version is still under development, and will be launched in Q2 2024. Based on our internal testing we can expect some major improvements. During our internal tests, 93% of users are looking forward to the official launch of our new version and can't wait to chat with the characters and create their own charactets. </p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p><strong>93</strong></p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>%</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Satisfaction Rate</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>93% of users are looking forward to the official launch and can't wait to use our product.</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p><strong>+</strong></p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>28</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>%</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>TASK SUCCESS RATE</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Enhance the task success rate to <strong>start a new conversion with AI characters</strong> from 62% to 90%.</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>-</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>31</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>%</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>DROP-OUT RATE</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The drop-out rates for <strong>the character creation process</strong> drop from  54% to 23%. </p>"
+    }
+  ]
+}

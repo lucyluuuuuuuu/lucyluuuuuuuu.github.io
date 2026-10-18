@@ -1,0 +1,18 @@
+{
+  "id": "ideation",
+  "heading": "Brainstorm for all opportunities",
+  "eyebrow": "🧠 Ideation",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>Based on the research, we </span>had a round of brainstorming with the core development team and some dependencies to list out all ideas.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/18-brainstorm-for-all-opportunities.png",
+      "alt": "Conch Ai — Brainstorm for all opportunities",
+      "width": 1803,
+      "height": 970
+    }
+  ]
+}

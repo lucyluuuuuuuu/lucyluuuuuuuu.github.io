@@ -1,0 +1,132 @@
+{
+  "id": "solution-3",
+  "heading": "Sort by projects - Within the Context of Projects",
+  "eyebrow": "💡 Solution 3",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Spend long time gathering and sorting information from previous meetings to get things done.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/28-sort-by-projects-within-the-context-of-projects.png",
+      "alt": "Fleet Ai — Sort by projects - Within the Context of Projects",
+      "width": 1440,
+      "height": 936
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Organize, categorize, and generate insights on meetings and action items related to a specific project.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Customized Folder: </span>Project -&gt; Meeting -&gt; Action Items &amp; Meeting notes.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Based on users’ search preference and usage habits.</p>"
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "richText",
+          "html": "<p>03. After meetings: Soft Reminder - “ Nudge ”</p>"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 1:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>During the meeting, everyone tries to focus on the key points and take notes.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/29-sort-by-projects-within-the-context-of-projects.png",
+      "alt": "Fleet Ai — Sort by projects - Within the Context of Projects",
+      "width": 1800,
+      "height": 552
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — Sort by projects - Within the Context of Projects",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users don’t really trust AI smart notes.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Manually extract action items from meeting notes is painful</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Have more interactions between human and AI during the meeting</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>AI help automatically extract action items</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 2:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Towards the end of the meeting, the meeting host conducts a quick re-cap for agreement.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/30-sort-by-projects-within-the-context-of-projects.png",
+      "alt": "Fleet Ai — Sort by projects - Within the Context of Projects",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — Sort by projects - Within the Context of Projects",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users need to combine their notes with AI notes, which spend them lots of time going back and forth.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users can edit AI generated contents whenever they want.</p>"
+    }
+  ]
+}

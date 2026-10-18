@@ -1,0 +1,11 @@
+{
+  "id": "manage-short-term-tasks-of-your-meeting-in-an-efficient-way",
+  "heading": "Manage short-term tasks of your meeting in an efficient way",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Feature 3. Progress nudge</p>"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hand-off",
+  "heading": "Collaborating with PM’s and engineering team to ensure feasibility and scalability, and smooth hand-off",
+  "eyebrow": "🛠️ Hand-off",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Do continuous feasibility checks with the engineering team and prepared files for hand-off on figma, with annotations, specs, user flows with demos and requirements.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility.png",
+      "alt": "Conch Ai — Collaborating with PM’s and engineering team to ensure feasibility and scalability, and smooth hand-off",
+      "width": 1800,
+      "height": 1650
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>📝</span> Takeaway</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Adapting roles and prioritizing goals in startup product development: </strong>Working in a startup gave more opportunities to do important design-decisions. Besides, it required me to be self-motivated and versatile in handling multiple roles. In complex scenarios, I learned to prioritize key objectives due to timeline constraints and evaluated the trade-offs between different options to make steady progress. To ensure our design efforts were focused and effective, it was crucial to narrow down the scope and establish short-term and long-term project goals according to different stages of product development.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Close collaboration with engineers team can push design exploration: </strong>I worked closely with engineers throughout the design process. Responsible for all design-related aspects, we updated each other in the weekly meet-ups and gave feedbacks to each others.The frequent updates helped me understand the constraints of certain proposed designs at early stages and pushed me to explore alternatives. Sometimes a wonderful solution but won't be approved by engineers due to technical limitations. In this case, we had to shift to more technically feasible solutions, but the older one could be the inspiration for development.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Don't make users think: </strong>Users don't want to take a lot of decisions on their own and appreciate simplicity in the design. Contrary to my intitial thoughts, I realized that the appliactions become far more intuitive and user-friendly if designers can empathize with users first, understading their preferences, and make decisions tailored for them. This approach minimizes the cognitive load on users and ehnahces their overall experience.</p>"
+    }
+  ]
+}

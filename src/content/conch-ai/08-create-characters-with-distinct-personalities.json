@@ -1,0 +1,43 @@
+{
+  "id": "create-characters-with-distinct-personalities",
+  "heading": "Create characters with distinct personalities.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Creators are very important to our community. A simple tool to create an AI character will certainly leverage our character market.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/09-create-characters-with-distinct-personalities.gif",
+      "alt": "Conch Ai — Create characters with distinct personalities.",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/10-create-characters-with-distinct-personalities.gif",
+      "alt": "Conch Ai — Create characters with distinct personalities.",
+      "width": 868,
+      "height": 1642
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/11-create-characters-with-distinct-personalities.gif",
+      "alt": "Conch Ai — Create characters with distinct personalities.",
+      "width": 868,
+      "height": 1642
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/12-create-characters-with-distinct-personalities.gif",
+      "alt": "Conch Ai — Create characters with distinct personalities.",
+      "width": 868,
+      "height": 1642
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 4. Monetization</p>"
+    }
+  ]
+}

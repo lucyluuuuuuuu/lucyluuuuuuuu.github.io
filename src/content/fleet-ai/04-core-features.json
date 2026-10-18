@@ -1,0 +1,11 @@
+{
+  "id": "core-features",
+  "heading": "Action item capture, short-term tasks management, and efficiency-boosting “Nudge” feature.",
+  "eyebrow": "👀 Core features...",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Feature 1. Trusted AI-generated tools</p>"
+    }
+  ]
+}

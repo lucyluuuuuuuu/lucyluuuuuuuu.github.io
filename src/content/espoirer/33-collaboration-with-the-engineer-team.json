@@ -1,0 +1,73 @@
+{
+  "id": "collaboration-with-the-engineer-team",
+  "heading": "Designed North Star ideal solution and then derived feasible plan after discussion with the engineer team.",
+  "eyebrow": "👨🏻‍💻 Collaboration with the engineer team",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After developing my initial solution, I invited the PM and engineers <span>to discuss the feasibility of the strategy for handling cross-month undelivered packages. During the workshop, </span>we collaboratively discussed and co-created a feasible solution.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>IDEATION 1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🌟 “North Star” ideal plan</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Seamlessly merge undelivered package data from the previous month into the current day's task list.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Achieve an integrated view for easier task management.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Eliminate the need for drivers to separately manage undelivered packages.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png",
+      "alt": "Espoirer — Designed North Star ideal solution and then derived feasible plan after discussion with the engineer team.",
+      "width": 1832,
+      "height": 910
+    },
+    {
+      "type": "richText",
+      "html": "<p>🧐 Technical limit</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The dimensions of the queries are separate, the backend system have to query two interfaces independently and then merge these two, which poses issues with backend data integration and modification.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Engineers want the current and previous months separate in the design to reduce backend operational complexity.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>FINAL VERSION</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>👍 Feasible plan</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Implement a &quot;Last Month&quot; tag to keep data separate.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Display a task list for the previous month, including numbers of undelivered packages, in a distinct section.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/45-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png",
+      "alt": "Espoirer — Designed North Star ideal solution and then derived feasible plan after discussion with the engineer team.",
+      "width": 1080,
+      "height": 910
+    }
+  ]
+}

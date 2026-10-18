@@ -1,0 +1,65 @@
+{
+  "id": "solution-1",
+  "heading": "Sort by action Items - Smart search and sorting",
+  "eyebrow": "💡 Solution 1",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Spend long time sorting information</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/25-sort-by-action-items-smart-search-and-sorting.gif",
+      "alt": "Fleet Ai — Sort by action Items - Smart search and sorting",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Switch between focusing on lists of action items and detailed contents of specific action items.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Present the</span> main meeting content <span>and</span> individual action items side by side</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Group and sort action items logically within the context of the meetings</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/26-sort-by-action-items-smart-search-and-sorting.gif",
+      "alt": "Fleet Ai — Sort by action Items - Smart search and sorting",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>2</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Action items group by status</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Action items can be extracted from various meetings, </strong>without having to search through the different meetings.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Arrange action items by task urgency.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Enable users to identify and prioritize the most pressing tasks.</p>"
+    }
+  ]
+}

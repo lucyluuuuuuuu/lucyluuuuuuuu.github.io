@@ -1,0 +1,34 @@
+{
+  "id": "engineering-capability",
+  "heading": "Evaluate ideas with PM and EM regarding of the visibility and feasibility for the chat interactions.",
+  "eyebrow": "🔒 Engineering Capability",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I initiated a team-wide discussion on the emotional expression methods of AI characters during voice and text chats. Considering the technical constraints, time, and budget limitations, we evaluated the feasibility of various solutions.<strong> </strong><strong>In collaboration with the development team, we arrived at a practical implementation plan.</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Constrains:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>⚙️ Technical: </strong>During the call interactions, it is technically challenging for AI characters to determine if the user has finished talking. There are technical response delays.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>⏰ Time: </strong>The project development timeline is tight, and the product needs to be launched quickly in the short term.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>👤 System: </strong>Our app is not one-figure based, this should affect the design in a way.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea.png",
+      "alt": "Conch Ai — Evaluate ideas with PM and EM regarding of the visibility and feasibility for the chat interactions.",
+      "width": 1800,
+      "height": 1356
+    }
+  ]
+}

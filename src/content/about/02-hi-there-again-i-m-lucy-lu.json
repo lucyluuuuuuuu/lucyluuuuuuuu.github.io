@@ -1,0 +1,31 @@
+{
+  "id": "hi-there-again-i-m-lucy-lu",
+  "heading": "Hi there again, I'm Lucy Lu! 👀",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>As a designer deeply passionate about emerging technology and creative problem-solving, I have explored both digital and tangible space, and I enjoy bringing order and meanings to the experience crafted. </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>After working in the architectural filed for several years, I decided to expand my focus from architectural design to UX design to develop products that satisfy people’s needs without geographical constraints.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Now, as a product designer, I am excited to be working in a field where I can combine my passion for creating enjoyable experiences with my skills in design and problem-solving. I look forward to collaborating with other professionals in the industry to build meaningful experiences, continuing my role as a creative thinker and effective problem-solver.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🎓 Master of Landscape Architecture @ The University of Hongkong</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>💟 My MBTI personality: INFP</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🥰 Recent obsession: Film photography!</p>"
+    }
+  ]
+}

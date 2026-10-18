@@ -1,0 +1,30 @@
+{
+  "id": "project-vision",
+  "heading": "AI-powered task management tools to enhance efficiency for small and medium-sized business.",
+  "eyebrow": "🎯 Project Vision",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small.png",
+      "alt": "Fleet Ai — AI-powered task management tools to enhance efficiency for small and medium-sized business.",
+      "width": 1800,
+      "height": 508
+    },
+    {
+      "type": "richText",
+      "html": "<p>Our target users are...</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>💼 Small to mid-size business professionals and teams engaged in frequent virtual meeting.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>👥 People who work in collaborative office setting.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>📅 Companies that want to manage tasks, organize meetings efficiently.</p>"
+    }
+  ]
+}

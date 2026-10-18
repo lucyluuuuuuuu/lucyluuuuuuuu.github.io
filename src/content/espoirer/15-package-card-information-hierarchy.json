@@ -1,0 +1,18 @@
+{
+  "id": "package-card-information-hierarchy",
+  "heading": "Reorganize card information to make it easier for delivery drivers to understand.",
+  "eyebrow": "📦 Package card information hierarchy",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I regard one package card as the fundamental unit. The primary objective is to display the package information on one single card concisely. Based on insights from our research, I <strong>sorted out the key information required at each stage of the delivery process. </strong>This help me <strong>identify the primary and secondary information </strong>for each package card.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver.png",
+      "alt": "Espoirer — Reorganize card information to make it easier for delivery drivers to understand.",
+      "width": 2700,
+      "height": 1020
+    }
+  ]
+}

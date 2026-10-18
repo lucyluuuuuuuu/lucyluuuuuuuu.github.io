@@ -1,0 +1,100 @@
+{
+  "id": "call-chat-facial-expression-oceanwave-sound",
+  "heading": "Call Chat: Facial Expression + OceanWave Sound",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>To evoke the concept of the magic conch, creating a sense of users landing on a mysterious bay, I incorporate elements such as bubbles and curvy lines to convey the oceanic vibe. I also use ocean-related blue as the theme color to simulate the character's eye expressions and designed multiple sets of emotional animations.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/40-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 964,
+      "height": 1678
+    },
+    {
+      "type": "richText",
+      "html": "<p>Background wave sound with the option for users to turn it on or off.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Different facial expressions to provide users with immediate emotional feedbacks. </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Edge Case: Interrupting AI to stop it from talking and listen to the user instead.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>When AI characters express joy during call chats.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>We have 27 animations to support each emotion and some basic states of the characters. <br>And I design different interactive patterns. Here are six of them.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/41-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>(generating response)</span></p><p><span>Thinking</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/42-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>(generating response)</span></p><p><span>Thinking</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/43-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p>(regular state)</p><p>Talking</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/44-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p>(1/24 emotion)</p><p>Sadness</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/45-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p>(1/24 emotion)</p><p>Anger</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/46-call-chat-facial-expression-oceanwave-sound.gif",
+      "alt": "Conch Ai — Call Chat: Facial Expression + OceanWave Sound",
+      "width": 852,
+      "height": 1718
+    }
+  ]
+}

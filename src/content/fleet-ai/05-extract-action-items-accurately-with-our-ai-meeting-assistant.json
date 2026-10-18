@@ -1,0 +1,25 @@
+{
+  "id": "extract-action-items-accurately-with-our-ai-meeting-assistant",
+  "heading": "Extract action items accurately with our AI meeting assistant",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+      "alt": "Fleet Ai — Extract action items accurately with our AI meeting assistant",
+      "width": 2144,
+      "height": 1362
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+      "alt": "Fleet Ai — Extract action items accurately with our AI meeting assistant",
+      "width": 2416,
+      "height": 1538
+    },
+    {
+      "type": "richText",
+      "html": "<p>Feature 2. Improve efficiency</p>"
+    }
+  ]
+}

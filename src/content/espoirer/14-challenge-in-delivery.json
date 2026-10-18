@@ -1,0 +1,18 @@
+{
+  "id": "challenge-in-delivery",
+  "heading": "Complex Urban Layouts and High-Density Housing",
+  "eyebrow": "🚚 Challenge in delivery",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Based on user research, I found that delivery in urban areas of Japan is challenging due to the complex urban layout and high population density. <strong>These areas often feature buildings with multiple rooms, and several families often rent in the same residence. </strong>This situation makes delivery more difficult because<span> </span><strong>delivery drivers frequently handle multiple packages for similar address</strong><strong>, </strong>which can easily lead to delivery mistakes.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/24-complex-urban-layouts-and-high-density-housing.png",
+      "alt": "Espoirer — Complex Urban Layouts and High-Density Housing",
+      "width": 1800,
+      "height": 974
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "current-user-journey-amp-pain-points",
+  "heading": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+  "eyebrow": "💬 Current user journey & Pain points",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>We collected feedbacks for our current version and consolidated the common ones in the whole product journey. </p><p>😫 Pain points for Creators:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Complex and boring character creation process.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Uncertain about the value of creating characters.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Challenges in effectively managing their created characters.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>😫 Pain points for Users:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Difficult to discover the desired characters to chat with.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Don't know how to maintain a long-term emotional connection with the characters, because they are not perceiving a lot of useful feedbacks.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Unclear about the spend in the interactions.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "alt": "Conch Ai — Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+      "width": 2480,
+      "height": 1208
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/14-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "alt": "Conch Ai — Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+      "width": 1216,
+      "height": 2480
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/15-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "alt": "Conch Ai — Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+      "width": 1216,
+      "height": 2480
+    }
+  ]
+}

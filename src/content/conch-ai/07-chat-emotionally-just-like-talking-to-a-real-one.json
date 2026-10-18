@@ -1,0 +1,15 @@
+{
+  "id": "chat-emotionally-just-like-talking-to-a-real-one",
+  "heading": "Chat emotionally, just like talking to a real one.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>A familiar chat experience with emotional expressions from the machine, which bonds  the user and AI character together.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 3. Enjoyable creation</p>"
+    }
+  ]
+}

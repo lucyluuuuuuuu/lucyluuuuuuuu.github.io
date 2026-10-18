@@ -1,0 +1,14 @@
+{
+  "id": "style-guide",
+  "heading": "Brand Guidelines",
+  "eyebrow": "🎨 Style guide",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/46-brand-guidelines.png",
+      "alt": "Espoirer — Brand Guidelines",
+      "width": 1800,
+      "height": 760
+    }
+  ]
+}

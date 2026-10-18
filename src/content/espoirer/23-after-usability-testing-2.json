@@ -1,0 +1,29 @@
+{
+  "id": "after-usability-testing-2",
+  "heading": "Consider the edge case: unstable scan and scan errors",
+  "eyebrow": "👥 After usability testing...",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Edge case 1: Unstable scanning</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+      "alt": "Espoirer — Consider the edge case: unstable scan and scan errors",
+      "width": 2700,
+      "height": 1560
+    },
+    {
+      "type": "richText",
+      "html": "<p>Edge case 2: Scan error - Add manual barcode search</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+      "alt": "Espoirer — Consider the edge case: unstable scan and scan errors",
+      "width": 1799,
+      "height": 812
+    }
+  ]
+}

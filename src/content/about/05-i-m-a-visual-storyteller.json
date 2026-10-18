@@ -1,0 +1,112 @@
+{
+  "id": "i-m-a-visual-storyteller",
+  "heading": "I'm a visual storyteller.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>My passion for design is driven by curiosity, ability to think holistically, and a knack for visual craft. My passion for aesthetics shines through in both my professional work and hobbies, consistently focusing on delivering compelling visual narratives.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/10-i-m-a-visual-storyteller.png",
+      "alt": "About — I'm a visual storyteller.",
+      "width": 3196,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/11-i-m-a-visual-storyteller.png",
+      "alt": "About — I'm a visual storyteller.",
+      "width": 2884,
+      "height": 1970
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/12-i-m-a-visual-storyteller.png",
+      "alt": "About — I'm a visual storyteller.",
+      "width": 2328,
+      "height": 1586
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/13-i-m-a-visual-storyteller.png",
+      "alt": "About — I'm a visual storyteller.",
+      "width": 1856,
+      "height": 1404
+    },
+    {
+      "type": "richText",
+      "html": "<p>🎞️</p><p>I enjoy shooting film in my spare time. </p>"
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "image",
+          "src": "/assets/images/about/14-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/15-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/16-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/17-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/18-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/19-i-m-a-visual-storyteller.jpg",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/20-i-m-a-visual-storyteller.jpg",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/21-i-m-a-visual-storyteller.jpg",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/about/22-i-m-a-visual-storyteller.png",
+          "alt": "About — I'm a visual storyteller.",
+          "width": 2856,
+          "height": 2045
+        }
+      ]
+    }
+  ]
+}

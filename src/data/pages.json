@@ -1,0 +1,4 @@
+[
+  { "id": "home", "path": "/", "template": "home", "published": true, "title": "Lucy Lu — Product Designer" },
+  { "id": "about", "path": "/About-lucy-lu/", "template": "about", "published": true, "title": "About — Lucy Lu", "description": "Meet Lucy Lu, a multidisciplinary product designer, systematic thinker and visual storyteller." }
+]

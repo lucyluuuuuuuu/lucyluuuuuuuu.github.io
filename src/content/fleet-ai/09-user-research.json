@@ -1,0 +1,33 @@
+{
+  "id": "user-research",
+  "heading": "Users struggle with action item management and question AI note-taking accuracy.",
+  "eyebrow": "💬 User Research",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+      "alt": "Fleet Ai — Users struggle with action item management and question AI note-taking accuracy.",
+      "width": 1112,
+      "height": 1524
+    },
+    {
+      "type": "richText",
+      "html": "<p>I interviewed <strong>12 people</strong> from different industries who frequently take virtual and hybrid meetings. </p><p><br></p><p>And I constructed <strong>20 interview questions</strong> about their journey and experience before, during, after, and between meetings. </p><p>The goal is to find common pain points that lower their work efficiency and make them feel tedious. </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><a href=\"https://wwg57j84so2.feishu.cn/sheets/EYFwsMPn8hWe6btYSZXc6nC8nzh\" target=\"_blank\" rel=\"noopener noreferrer\">&lt;See detailed interview data&gt;</a></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+      "alt": "Fleet Ai — Users struggle with action item management and question AI note-taking accuracy.",
+      "width": 1800,
+      "height": 1232
+    },
+    {
+      "type": "richText",
+      "html": "<p>THUS, WE ASK...</p>"
+    }
+  ]
+}

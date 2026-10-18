@@ -1,0 +1,22 @@
+{
+  "id": "adapt-to-the-needs-of-different-delivery-drivers",
+  "heading": "Enhancing delivery flexibility with manual order adjustment and optimized route options",
+  "eyebrow": "🔄 Adapt to the needs of different delivery drivers",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After taking a deep dive into research data, <strong>I uncovered new insights into drivers' strategies, leading to a reassessment of our initial approach with the PM. </strong>Through cross-team collaboration, I brought the team onboard with the new proposal that aligns better with drivers' needs.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/34-enhancing-delivery-flexibility-with-manual-order-adjustment-and-o.png",
+      "alt": "Espoirer — Enhancing delivery flexibility with manual order adjustment and optimized route options",
+      "width": 1836,
+      "height": 1312
+    },
+    {
+      "type": "richText",
+      "html": "<p>Drivers have the option to use the optimize route feature or to plan their delivery routes based on their own habits, ensuring their arranged order sequence aligns with their personal delivery preferences.</p>"
+    }
+  ]
+}

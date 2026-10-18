@@ -1,0 +1,49 @@
+{
+  "id": "in-order-to-get-inspiration-i-conduct-the-competitive-analysis",
+  "heading": "Enhancing interactions through character design, motion solutions, paid features, and community engagement.",
+  "eyebrow": "👩‍💻 In order to get inspiration, I conduct the competitive analysis.",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Before brainstorming innovative solutions, I <strong>conducted an in-depth analysis of AI Companion Chatbots</strong> to identify how competitors are <strong>enhancing interactions between humans and AI chatbots</strong>, and <strong>stimulating the creation process</strong>. This analysis helped me to uncover our opportunities for future growth and also better understand the users' needs.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions.png",
+      "alt": "Conch Ai — Enhancing interactions through character design, motion solutions, paid features, and community engagement.",
+      "width": 1648,
+      "height": 756
+    },
+    {
+      "type": "richText",
+      "html": "<p>Key findings:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>👤 Characteristic figures could help reduce the user threshold and make the interaction more immersed.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>✨ Multiple motion solutions for the response delay are very important.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>💡 Positive guidance and feedback encourage creators to complete the creation process.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>💰 Well-implemented paid features and entrance aligns the business goal of the product.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🌍 The community feature fosters more creative uses of AI characters.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions.png",
+      "alt": "Conch Ai — Enhancing interactions through character design, motion solutions, paid features, and community engagement.",
+      "width": 1800,
+      "height": 436
+    }
+  ]
+}

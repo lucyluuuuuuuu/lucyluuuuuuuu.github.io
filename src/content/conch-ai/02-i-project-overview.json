@@ -1,0 +1,18 @@
+{
+  "id": "i-project-overview",
+  "heading": "Making AI more loving - AI characters co-creation platform integrating LLMs and affective computing.",
+  "eyebrow": "ℹ️ Project overview",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><strong>CONCH. AI ( </strong><a href=\"https://lonic.tech/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong> </strong><strong>Ionic tech  ↗︎</strong></a><strong> ) </strong>is a product based on Large Language Models (LLMs) and affective computing, designed</p><p>to offer users more emotional value beyond efficiency through AI. <strong>Creators can create personalized AI characters and earn income when other users interact with the characters they've created. </strong> When I joined the team, there was already an initial product. Before launching an overseas APP version, many features still require further refinement.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat.png",
+      "alt": "Conch Ai — Making AI more loving - AI characters co-creation platform integrating LLMs and affective computing.",
+      "width": 2700,
+      "height": 672
+    }
+  ]
+}

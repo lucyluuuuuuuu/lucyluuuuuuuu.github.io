@@ -1,0 +1,52 @@
+{
+  "id": "solution-4",
+  "heading": "Communicate the value prop, gather users’ interests to personalize their feed and create a high engagement rate.",
+  "eyebrow": "💡 Solution",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "alt": "Conch Ai — Communicate the value prop, gather users’ interests to personalize their feed and create a high engagement rate.",
+      "width": 972,
+      "height": 1756
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Create an onboarding experience that communicates the value prop and gathers users’ interests to personalize their feed.</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Value Prop</strong></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "alt": "Conch Ai — Communicate the value prop, gather users’ interests to personalize their feed and create a high engagement rate.",
+      "width": 972,
+      "height": 1756
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>To help users discover AI characters that interests them and increase conversion rate from exploration to starting a new conversion.</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Personalization</strong></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "alt": "Conch Ai — Communicate the value prop, gather users’ interests to personalize their feed and create a high engagement rate.",
+      "width": 972,
+      "height": 1756
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Onboard and educate new users step by step to make it easier to perceive and use, thus creating and maintaining a high engagement rate.</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Guidance</strong></p>"
+    }
+  ]
+}

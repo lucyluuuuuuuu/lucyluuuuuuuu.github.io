@@ -1,0 +1,11 @@
+{
+  "id": "my-solutions",
+  "heading": "A delivery system for seamless, real-time tracking, data management and performance insights.",
+  "eyebrow": "💡 My solutions",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Solution 1</p>"
+    }
+  ]
+}

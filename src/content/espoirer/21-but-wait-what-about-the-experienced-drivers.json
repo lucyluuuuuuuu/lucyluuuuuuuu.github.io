@@ -1,0 +1,22 @@
+{
+  "id": "but-wait-what-about-the-experienced-drivers",
+  "heading": "Supplementing PM's missing perspective: Experienced drivers have their own preference in the delivery process.",
+  "eyebrow": "🤔 But wait...what about the experienced drivers?",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Based on the user research, I found the <strong>delivery drivers at Espoirer are typically experienced drivers. </strong>They are often assigned to specific areas they are familiar with. These drivers <strong>have their own route plans</strong> and personalized delivery methods. <strong>The optimized route feature may not be effective for them.</strong></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/33-supplementing-pm-s-missing-perspective-experienced-drivers-have-t.png",
+      "alt": "Espoirer — Supplementing PM's missing perspective: Experienced drivers have their own preference in the delivery process.",
+      "width": 1800,
+      "height": 640
+    },
+    {
+      "type": "richText",
+      "html": "<p>In this working scenario, as the number of packages increases during the scanning process, <strong>drivers need to adjust the delivery order of some packages</strong> to ensure a smoother delivery flow later on.</p>"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "current-issue",
+  "heading": "53% bounce rate in character creation process due to the overwhelming information and heavy text input.",
+  "eyebrow": "❗️ Current Issue",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Why many creators likely <span>quitting</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>the creation</span> after filling out the</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>basic information? </p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p><span>“</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Too many questions that need to be </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>answered once on the same page!</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p>“</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The creation process is too complicated.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>I don’t know how? It Seems like I need to  </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>write many short essays.</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p><span>“</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>I lost my input content after accident </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>drop out. It’s really too troublesome to</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>fill it out again.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm.gif",
+      "alt": "Conch Ai — 53% bounce rate in character creation process due to the overwhelming information and heavy text input.",
+      "width": 884,
+      "height": 1754
+    },
+    {
+      "type": "richText",
+      "html": "<p>What was it like before</p>"
+    }
+  ]
+}

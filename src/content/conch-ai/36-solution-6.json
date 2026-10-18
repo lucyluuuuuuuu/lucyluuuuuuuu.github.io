@@ -1,0 +1,21 @@
+{
+  "id": "solution-6",
+  "heading": "Display purchase entry point to view token balance and provide recharge notification when balance is insufficient.",
+  "eyebrow": "💡 Solution",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/49-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
+      "alt": "Conch Ai — Display purchase entry point to view token balance and provide recharge notification when balance is insufficient.",
+      "width": 792,
+      "height": 1256
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
+      "alt": "Conch Ai — Display purchase entry point to view token balance and provide recharge notification when balance is insufficient.",
+      "width": 1584,
+      "height": 1256
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "feature-prioritization-for-mvp",
+  "heading": "User Needs & Design Impact Analysis",
+  "eyebrow": "🙆🏻‍♀️ Feature prioritization for MVP",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I ideated on possible product features and prioritized them based on what are must-haves to have a successful launch, nice-to-haves if time allows, and in-the-future for future product updates.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/20-user-needs-design-impact-analysis.png",
+      "alt": "Fleet Ai — User Needs & Design Impact Analysis",
+      "width": 1800,
+      "height": 1082
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "affinity-mapping",
+  "heading": "Users want streamlined action item management from pre to post-meeting.",
+  "eyebrow": "🔢 Affinity mapping",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>With these issues in mind, we adopted the method of observing the processes </span>before, during, and after meetings to further understand and analyze our interview data.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/11-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "alt": "Fleet Ai — Users want streamlined action item management from pre to post-meeting.",
+      "width": 1528,
+      "height": 1252
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/12-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "alt": "Fleet Ai — Users want streamlined action item management from pre to post-meeting.",
+      "width": 1380,
+      "height": 1212
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/13-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "alt": "Fleet Ai — Users want streamlined action item management from pre to post-meeting.",
+      "width": 1596,
+      "height": 1248
+    },
+    {
+      "type": "richText",
+      "html": "<p>2 Rounds of affinity mapping</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Reorganized according to meeting processes</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>After taking a closer look at our interview data and doing the affinity mapping, I found that...</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "alt": "Fleet Ai — Users want streamlined action item management from pre to post-meeting.",
+      "width": 1818,
+      "height": 1158
+    }
+  ]
+}

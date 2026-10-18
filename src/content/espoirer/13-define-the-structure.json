@@ -1,0 +1,25 @@
+{
+  "id": "define-the-structure",
+  "heading": "After two rounds of workshops, I streamlined the user flows for the delivery system with teams.",
+  "eyebrow": "⚙️ Define the structure",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>I generated the user flow for the part I was responsible for, then integrated the parts from other designers to form the complete user flow. </span>I presented the complete user flow to the team and iterated it during two workshops, bringing the team onboard with the complete structure that aligned with drivers' needs.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
+      "alt": "Espoirer — After two rounds of workshops, I streamlined the user flows for the delivery system with teams.",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
+      "alt": "Espoirer — After two rounds of workshops, I streamlined the user flows for the delivery system with teams.",
+      "width": 1800,
+      "height": 742
+    }
+  ]
+}

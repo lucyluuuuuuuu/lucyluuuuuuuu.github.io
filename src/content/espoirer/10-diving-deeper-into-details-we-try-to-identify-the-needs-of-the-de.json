@@ -1,0 +1,45 @@
+{
+  "id": "diving-deeper-into-details-we-try-to-identify-the-needs-of-the-de",
+  "heading": "Drivers hope to quickly and efficiently complete their daily delivery tasks.",
+  "eyebrow": "💬 Diving deeper into details, we try to identify the needs of the delivery drivers.",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>We interviewed 8 delivery drivers (6 experienced drivers, 2 new drivers) to learn more about their daily delivery routines,<strong> </strong><strong>identify the challenges and needs they face during the delivery process.</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>User Pain Points</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🤳🏻 Manually tab package ID one by one, which is very inefficient.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🗒 Unclear about which packages need to be delivered today.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🧭 Unaware of the most efficient delivery route.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>📊 Have no knowledge of their KPIs.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+      "alt": "Espoirer — Drivers hope to quickly and efficiently complete their daily delivery tasks.",
+      "width": 524,
+      "height": 406
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+      "alt": "Espoirer — Drivers hope to quickly and efficiently complete their daily delivery tasks.",
+      "width": 1800,
+      "height": 736
+    }
+  ]
+}

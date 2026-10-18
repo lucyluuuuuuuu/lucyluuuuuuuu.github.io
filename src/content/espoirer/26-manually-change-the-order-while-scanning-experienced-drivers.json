@@ -1,0 +1,22 @@
+{
+  "id": "manually-change-the-order-while-scanning-experienced-drivers",
+  "heading": "Manually change the order while scanning (experienced drivers)",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Slide up the bottom sheet to access movable order cards and rearrange them through long-press and drag actions.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Slide down the bottom sheet returns it to the default state for scanning functionality</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/09-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Manually change the order while scanning (experienced drivers)",
+      "width": 868,
+      "height": 1746
+    }
+  ]
+}

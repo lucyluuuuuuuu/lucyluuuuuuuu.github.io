@@ -1,0 +1,57 @@
+{
+  "id": "identify-opportunities-for-teams-with-journey-maps",
+  "heading": "Helping drivers deliver packages within two days holds the key to achieving optimal delivery goals!",
+  "eyebrow": "🔍 Identify opportunities for teams with Journey Maps.",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>To achieve the understanding of the whole delivery process, we conducted key interviews with SMEs, <span>focusing on four main objectives.</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Get familiar with the scenarios of <strong>delivery routine and duties.</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>The overall</span><span> </span>personnel structure of delivery drivers.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Understand <strong>package status circulations</strong><span> </span>in the whole delivery process.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Identify </span><span>the</span><span> </span>cultural context behavior<span> </span><span>of Japan.</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/15-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png",
+      "alt": "Espoirer — Helping drivers deliver packages within two days holds the key to achieving optimal delivery goals!",
+      "width": 712,
+      "height": 458
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/16-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png",
+      "alt": "Espoirer — Helping drivers deliver packages within two days holds the key to achieving optimal delivery goals!",
+      "width": 1800,
+      "height": 1148
+    },
+    {
+      "type": "richText",
+      "html": "<p>By mapping out the interaction points throughout the whole delivery process, we identified<span> </span><strong>the main direction and key points of the design for the next step.</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Key findings:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Prioritize monitoring</strong><span> </span>the delivery completion rates for packages labeled as<span> </span><strong>“ &lt; 1 Day” and “ &lt;2 Day”,</strong><span> </span>since these tasks <strong>are directly linked to KPIs</strong><span> </span>and lines up with achieving the ideal delivery rate.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The delivery drivers are all<strong> </strong><strong>full-time workers. More than 70% of the delivery drivers</strong><span> </span>at Espoirer are typically experienced drivers, and they are often assigned to specific areas.</p>"
+    }
+  ]
+}

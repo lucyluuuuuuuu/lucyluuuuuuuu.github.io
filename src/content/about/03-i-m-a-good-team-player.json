@@ -1,0 +1,39 @@
+{
+  "id": "i-m-a-good-team-player",
+  "heading": "I'm a good team player.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>4+ years of professional experience has transformed me into an effective problem solver who collaborates seamlessly with cross-functional teams to deliver the best user experience, from the initial conceptualization to final delivery.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/02-i-m-a-good-team-player.jpg",
+      "alt": "About — I'm a good team player.",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/03-i-m-a-good-team-player.jpg",
+      "alt": "About — I'm a good team player.",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/04-i-m-a-good-team-player.jpg",
+      "alt": "About — I'm a good team player.",
+      "width": 1620,
+      "height": 1080
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/05-i-m-a-good-team-player.jpg",
+      "alt": "About — I'm a good team player.",
+      "width": 1620,
+      "height": 1080
+    }
+  ]
+}

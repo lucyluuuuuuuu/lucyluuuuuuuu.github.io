@@ -1,0 +1,43 @@
+{
+  "id": "how-does-it-work",
+  "heading": "Empowering immediate action: the essential short-term companion to your long-term planning.",
+  "eyebrow": "💻 How does it work?",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Meeting notes is the best place to generate action items, and we want to make this process as smooth as possible. </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>We are not here to manage quarter milestones and yearly goals, but a small yet beautiful tool to help you jump start the tasks at hand - no matter how small they are. Day to day, we aim to help you focus on the meetings you participate and get productivity out of it. In the end, it’s the small achievements that add up to a big success.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Meetings are the places where the most action items are generated!</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>2</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Focused on the next 2 weeks, we are a great supplement to your long-term planners.  </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>🚀 </span>The impact</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>92%</strong><strong> </strong>successful task completion rate</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>100%</strong><strong> </strong>of participants would like to see this concept developed.</p>"
+    }
+  ]
+}

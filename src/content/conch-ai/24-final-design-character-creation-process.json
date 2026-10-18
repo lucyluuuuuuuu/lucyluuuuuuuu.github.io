@@ -1,0 +1,52 @@
+{
+  "id": "final-design-character-creation-process",
+  "heading": "Final Design - Character Creation process",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "gallery",
+      "layout": "carousel",
+      "items": [
+        {
+          "type": "image",
+          "src": "/assets/images/conch-ai/30-final-design-character-creation-process.png",
+          "alt": "Conch Ai — Final Design - Character Creation process",
+          "width": 2480,
+          "height": 1182
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/conch-ai/31-final-design-character-creation-process.png",
+          "alt": "Conch Ai — Final Design - Character Creation process",
+          "width": 2480,
+          "height": 1182
+        },
+        {
+          "type": "image",
+          "src": "/assets/images/conch-ai/32-final-design-character-creation-process.png",
+          "alt": "Conch Ai — Final Design - Character Creation process",
+          "width": 2480,
+          "height": 1182
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "richText",
+          "html": "<p>02. User - Facing</p>"
+        },
+        {
+          "type": "richText",
+          "html": "<p>02. User - Facing</p>"
+        },
+        {
+          "type": "richText",
+          "html": "<p>02. User - Facing</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "final-design-scan-to-task-process",
+  "heading": "Automated scanning for package entry and personalized order delivery sequence planning",
+  "eyebrow": "✅ Final Design: Scan-to-task process",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/07-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Automated scanning for package entry and personalized order delivery sequence planning",
+      "width": 868,
+      "height": 1746
+    }
+  ]
+}

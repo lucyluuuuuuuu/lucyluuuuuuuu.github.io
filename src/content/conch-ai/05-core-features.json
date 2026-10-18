@@ -1,0 +1,11 @@
+{
+  "id": "core-features",
+  "heading": "01 For users - Streamlining onboarding & Personalization",
+  "eyebrow": "👀 Core features...",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Solution 1. Streamlining Onboarding</p>"
+    }
+  ]
+}

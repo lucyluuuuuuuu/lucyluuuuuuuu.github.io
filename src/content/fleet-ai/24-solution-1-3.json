@@ -1,0 +1,42 @@
+{
+  "id": "solution-1-3",
+  "heading": "Apply soft reminder to “NUDGE” without overwhelming",
+  "eyebrow": "💡 Solution 1",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Push co-worker for working progress feels awkward.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming.gif",
+      "alt": "Fleet Ai — Apply soft reminder to “NUDGE” without overwhelming",
+      "width": 2488,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>How to SEND? </strong>(Quick action - emoji + text command)</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Express the sender’s emotions</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Convey different level of pressure</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Soft reminder to nudge team members without overwhelming others too much</p>"
+    }
+  ]
+}

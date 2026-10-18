@@ -1,0 +1,18 @@
+{
+  "id": "layout-exploration",
+  "heading": "Exploring homepage layouts based on the structure of the information hierarchy.",
+  "eyebrow": "📐 Layout exploration",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><strong>From stakeholder interviews, I discovered drivers often forget packages (&gt;1 Day) in their vehicle,</strong> impacting their delivery rates. The strategy involves aligning the layout with their visibility needs, <strong>prioritizing reminders for undelivered packages at the top,</strong> followed by task entries and other data, organized consistently from most to least important.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/39-exploring-homepage-layouts-based-on-the-structure-of-the-informat.png",
+      "alt": "Espoirer — Exploring homepage layouts based on the structure of the information hierarchy.",
+      "width": 944,
+      "height": 1158
+    }
+  ]
+}

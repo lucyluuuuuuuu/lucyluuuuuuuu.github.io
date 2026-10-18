@@ -1,0 +1,26 @@
+{
+  "id": "cross-team-collaboration",
+  "heading": "Propose motion designs that align with backend emotion categories for engineering efficiency.",
+  "eyebrow": "👨🏻‍💻 Cross-team collaboration",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Our backend integrates affective computing with Plutchik's Wheel of Emotions.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>For engineering efficiency, I proposed to<span> follow this same wheel of emotions and proposed to come up with 24 emotions, so that they can be </span>quickly captured and rooted into those backend categories.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories.png",
+      "alt": "Conch Ai — Propose motion designs that align with backend emotion categories for engineering efficiency.",
+      "width": 640,
+      "height": 624
+    },
+    {
+      "type": "richText",
+      "html": "<p>Plutchik’s Wheel of Emotions</p>"
+    }
+  ]
+}

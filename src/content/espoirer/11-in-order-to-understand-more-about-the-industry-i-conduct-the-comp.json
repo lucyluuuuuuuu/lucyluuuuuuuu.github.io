@@ -1,0 +1,45 @@
+{
+  "id": "in-order-to-understand-more-about-the-industry-i-conduct-the-comp",
+  "heading": "Streamline interface for quick access to delivery tasks and enhance data visualization for key performance metrics.",
+  "eyebrow": "👩‍💻 In order to understand more about the industry, I conduct the competitive analysis.",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>I conducted an analysis of the top courier apps in Japan and other countries, </span>taking into account the unique requirements of the Japanese market<span> to gain valuable insights and identify opportunities. We </span>explored various product concepts and business scenarios to understand the similarities and differences.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
+      "alt": "Espoirer — Streamline interface for quick access to delivery tasks and enhance data visualization for key performance metrics.",
+      "width": 1800,
+      "height": 280
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>I gather as many pieces of “inspiration”</strong> as possible and examine what our competitors and similar applications do. We conduct the feature research by consolidating screenshots and annotating key components.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
+      "alt": "Espoirer — Streamline interface for quick access to delivery tasks and enhance data visualization for key performance metrics.",
+      "width": 1800,
+      "height": 1204
+    },
+    {
+      "type": "richText",
+      "html": "<p>By identifying relevant features that our competitors are using to enhance delivery efficiency, <strong>we gained the insights.</strong></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>🔍 Scan: </strong>Enhance package scanning efficiency with actionable feedback, optimize routes through data analytics, and provide a search function for problematic barcodes.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>📦 Task: </strong>Organized package displays and map integration for task management, enable delivery tracking through filters and allow drivers to customize their routes.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>📊 Analytics:</strong> Enhance user efficiency by focusing on data visualization and visual hierarchy in dashboards for clear, accessible overviews and detailed metrics.</p>"
+    }
+  ]
+}

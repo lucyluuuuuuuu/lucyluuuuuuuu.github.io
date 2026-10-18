@@ -1,0 +1,26 @@
+{
+  "id": "prioritize-ideas",
+  "heading": "Evaluate the list with PM and EM regarding of the visibility and feasibility for both short-term and long-term planning.",
+  "eyebrow": "🙆🏻‍♀️ Prioritize ideas",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>We began developing concepts and ideas, framing them within a process driven format. Subsequently, we voted, organized, and discussed the ideas on which we reached the highest consensus.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Short - term:</strong><strong> </strong>We plan to <strong>maintain a pure one-on-one chat with AI</strong>, focusing on enhancing emotional interactions to increase the number of DAUs.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>Long - term:</strong><strong> </strong>After gaining popularity, we plan to <strong>introduce group chat and community functions</strong> to stimulate more creativity and playability in the product.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and.png",
+      "alt": "Conch Ai — Evaluate the list with PM and EM regarding of the visibility and feasibility for both short-term and long-term planning.",
+      "width": 2480,
+      "height": 1208
+    }
+  ]
+}

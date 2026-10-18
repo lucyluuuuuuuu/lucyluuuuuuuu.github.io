@@ -1,0 +1,42 @@
+{
+  "id": "project-goal",
+  "heading": "Automate the delivery workflows and streamline the task management.",
+  "eyebrow": "🎯 Project Goal",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>BUSINESS GOAL - Improve overall business performance</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Integrate information seamlessly with the admin interface for system-wide integrity and traceability.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Ensure the overall delivery rate meets the requirements from Alibaba, the partner company.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER GOAL - Enhance the delivery efficiency and accuracy</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Help drivers scan the deliveries before starting their daily work and plan for their deliveries.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Help drivers to manage their deliveries in a more organized manner and track order status.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Help drivers view my performance.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen.png",
+      "alt": "Espoirer — Automate the delivery workflows and streamline the task management.",
+      "width": 1800,
+      "height": 142
+    }
+  ]
+}

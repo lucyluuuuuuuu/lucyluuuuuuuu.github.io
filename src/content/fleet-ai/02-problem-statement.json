@@ -1,0 +1,25 @@
+{
+  "id": "problem-statement",
+  "heading": "Challenges in extracting key meeting information from meetings and trusting AI-generated summaries.",
+  "eyebrow": "⚠️ Problem Statement",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Since the pandemic, virtual and hybrid meetings have surged in popularity, leading to a rise in AI-powered smart meeting assistant products after 2020. However, many users still <strong>struggle with extracting and organizing key meeting information, such as action items. </strong>Others also complain that AI meeting summaries are inaccurate and sometimes<strong> do not trust AI-generated content.</strong></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+      "alt": "Fleet Ai — Challenges in extracting key meeting information from meetings and trusting AI-generated summaries.",
+      "width": 800,
+      "height": 784
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+      "alt": "Fleet Ai — Challenges in extracting key meeting information from meetings and trusting AI-generated summaries.",
+      "width": 1802,
+      "height": 802
+    }
+  ]
+}

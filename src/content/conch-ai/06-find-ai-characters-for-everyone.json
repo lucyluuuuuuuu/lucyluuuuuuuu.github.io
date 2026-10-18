@@ -1,0 +1,43 @@
+{
+  "id": "find-ai-characters-for-everyone",
+  "heading": "Find AI characters for everyone.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Create a series of onboarding experience that communicates the value prop and gathers users’ interests to personalize their feed.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/05-find-ai-characters-for-everyone.gif",
+      "alt": "Conch Ai — Find AI characters for everyone.",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/06-find-ai-characters-for-everyone.gif",
+      "alt": "Conch Ai — Find AI characters for everyone.",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
+      "alt": "Conch Ai — Find AI characters for everyone.",
+      "width": 868,
+      "height": 1746
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/08-find-ai-characters-for-everyone.gif",
+      "alt": "Conch Ai — Find AI characters for everyone.",
+      "width": 852,
+      "height": 1718
+    },
+    {
+      "type": "richText",
+      "html": "<p>Solution 2. Personalization</p>"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "final-design-home-page",
+  "heading": "Highlight task & call to action to ensure drivers can find the most critical tasks and the information they need.",
+  "eyebrow": "✅ Final design: Home page",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>SCENARIO 1: Achieve KPI, quickly navigate to different tasks</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/41-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "alt": "Espoirer — Highlight task & call to action to ensure drivers can find the most critical tasks and the information they need.",
+      "width": 1800,
+      "height": 862
+    },
+    {
+      "type": "richText",
+      "html": "<p>SCENARIO 2: Failed to achieve KPI - Need to improve delivery rate</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/42-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "alt": "Espoirer — Highlight task & call to action to ensure drivers can find the most critical tasks and the information they need.",
+      "width": 1800,
+      "height": 854
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "alt": "Espoirer — Highlight task & call to action to ensure drivers can find the most critical tasks and the information they need.",
+      "width": 1800,
+      "height": 454
+    }
+  ]
+}

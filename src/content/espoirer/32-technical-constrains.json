@@ -1,0 +1,11 @@
+{
+  "id": "technical-constrains",
+  "heading": "Undelivered packages data lose in monthly transition.",
+  "eyebrow": "🔒 Technical Constrains",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>The backend system aggregates data monthly, <span>which means the “Task List” on mobile devices only shows data for the current month. </span>Transitioning to a new month, would result in losing access to undelivered package data from the previous month.</p>"
+    }
+  ]
+}

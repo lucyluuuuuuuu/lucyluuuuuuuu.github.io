@@ -1,0 +1,39 @@
+{
+  "id": "i-m-a-systematic-thinker",
+  "heading": "I'm a systematic thinker.",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>My systematic thinking enables me to merge user insights, product metrics, stakeholder needs, and techinical capabilities, thus crafting resonant designs. Through feedback and research, I refine each iteration, effectively visualizing complex data to deliver clear, impactful solutions that enhance user experiences.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/06-i-m-a-systematic-thinker.png",
+      "alt": "About — I'm a systematic thinker.",
+      "width": 2868,
+      "height": 2024
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/07-i-m-a-systematic-thinker.jpg",
+      "alt": "About — I'm a systematic thinker.",
+      "width": 3029,
+      "height": 2061
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/08-i-m-a-systematic-thinker.jpg",
+      "alt": "About — I'm a systematic thinker.",
+      "width": 3114,
+      "height": 2152
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/about/09-i-m-a-systematic-thinker.jpg",
+      "alt": "About — I'm a systematic thinker.",
+      "width": 3130,
+      "height": 2120
+    }
+  ]
+}

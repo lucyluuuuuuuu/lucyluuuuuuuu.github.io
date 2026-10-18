@@ -1,0 +1,18 @@
+{
+  "id": "after-usability-testing",
+  "heading": "Develop package card final design & Status card system",
+  "eyebrow": "👥 After usability testing...",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>After finalizing the card and list layout through iterative design processes, I </span>improved the UI by incorporating the brand color and colored tags<span> for drivers to differentiate easily. I </span>refined it through usability testing,<span> making adjustments based on valuable feedback. </span>A comprehensive status card system was finally developed for various delivery results.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/27-develop-package-card-final-design-status-card-system.png",
+      "alt": "Espoirer — Develop package card final design & Status card system",
+      "width": 2700,
+      "height": 1392
+    }
+  ]
+}

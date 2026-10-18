@@ -1,0 +1,42 @@
+{
+  "id": "solution-1-2",
+  "heading": "AI-generated action items during the meetings",
+  "eyebrow": "💡 Solution 1",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Manually extract action items from meeting notes is painful</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/31-ai-generated-action-items-during-the-meetings.gif",
+      "alt": "Fleet Ai — AI-generated action items during the meetings",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>CATCH </strong>- Generate action Items from meeting transcript</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Automatically capture action items from meetings.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Switch view by expanding to see the full meeting transcript and collapsing to focus on the list of action items.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Enable users to manually generate action items from the meeting transcript.</p>"
+    }
+  ]
+}

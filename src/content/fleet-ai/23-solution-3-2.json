@@ -1,0 +1,114 @@
+{
+  "id": "solution-3-2",
+  "heading": "Switch between different views tailored for various roles during the meeting.",
+  "eyebrow": "💡 Solution 3",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users need to combine their notes with AI notes, which spend them lots of time going back and forth.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during.gif",
+      "alt": "Fleet Ai — Switch between different views tailored for various roles during the meeting.",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Meeting screen and AI-generated content page side by side</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Users can switch back and forth between different meeting view modes.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Focusing either on taking notes or on sharing the screen.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 1:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>This meeting is the last meeting on Friday afternoon. Everyone is looking forward for the weekend.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during.png",
+      "alt": "Fleet Ai — Switch between different views tailored for various roles during the meeting.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during.png",
+      "alt": "Fleet Ai — Switch between different views tailored for various roles during the meeting.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Cannot get co-workers’ feedback ASAP.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Have more interactions between colleagues.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 2:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Every 3 days, the design team needs to have an internal team work progress check-in with project manager.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during.png",
+      "alt": "Fleet Ai — Switch between different views tailored for various roles during the meeting.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during.png",
+      "alt": "Fleet Ai — Switch between different views tailored for various roles during the meeting.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Push co-worker for working progress feels awkward.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Send soft reminder and be nice.</p>"
+    }
+  ]
+}

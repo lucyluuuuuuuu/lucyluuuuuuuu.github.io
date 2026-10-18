@@ -1,0 +1,25 @@
+{
+  "id": "after-usability-testing",
+  "heading": "MBTI - The foundation for backend character modeling, however unknown to many users.",
+  "eyebrow": "👥 After usability testing...",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I created a low-fidelity prototype for the character creation process and conducted small-scale usability testing with 10 people. <strong>Creators got stuck in step 2 because they didn’t know what MBTI is. </strong></p><p><br></p><p><strong>However, due to the creation logic of the backend model, MBTI is a mandatory option that cannot be skipped!</strong><span>  </span>Our backend use MBTI personality types to create 16 sub-models that guide the general behavior of each chatbot category,<span>  </span>and further tailored with different prompts. </p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/25-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
+      "alt": "Conch Ai — MBTI - The foundation for backend character modeling, however unknown to many users.",
+      "width": 596,
+      "height": 340
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
+      "alt": "Conch Ai — MBTI - The foundation for backend character modeling, however unknown to many users.",
+      "width": 1800,
+      "height": 678
+    }
+  ]
+}

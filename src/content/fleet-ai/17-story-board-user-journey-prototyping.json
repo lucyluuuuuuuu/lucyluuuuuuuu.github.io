@@ -1,0 +1,130 @@
+{
+  "id": "story-board-user-journey-prototyping",
+  "heading": "In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+  "eyebrow": "🎨 Story board + User Journey + Prototyping",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After a short introduction of the homepage of Fleet.ai, I will introduce the features through the user journey &amp; pain points.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/22-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+      "width": 1800,
+      "height": 1170
+    },
+    {
+      "type": "richText",
+      "html": "<p>With Fleet.ai you can:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>📌 Manage short-term tasks of your meeting in an efficient way</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>✏️ Extract action items accurately with our AI meeting assistant</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>🔔 Keep your team on track for every meeting’s tasks</p>"
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "richText",
+          "html": "<p>02. During the meeting: Action items Generation</p>"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "richText",
+          "html": "<p>01. Between meetings: Action items management</p>"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 1:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Tomorrow morning the team is going to have a meeting with clients. Everyone is very busy.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Spend long time gathering and sorting information from previous meetings to get things done.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Sort and search action items in a logical and intuitive ways; help users get all the fragmented info from meetings to one place.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>USER SCENARIO 2:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>The team works very hard and they finally finish collecting all meeting materials.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "alt": "Fleet Ai — In order to understand how features can be realize, I create 3 story boards to think through user journey.",
+      "width": 1800,
+      "height": 584
+    },
+    {
+      "type": "richText",
+      "html": "<p>Pain Points 😫</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Cannot replay the action items as fresh and precise as in the meeting.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Opportunity 🌟</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Build action items in meeting context, bring back the original scenario.</p>"
+    }
+  ]
+}

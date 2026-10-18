@@ -1,0 +1,18 @@
+{
+  "id": "but-wait-do-we-need-to-put-all-the-data-on-the-homepage",
+  "heading": "Retain key information on the home screen, separate other data onto secondary page.",
+  "eyebrow": "🤔 But wait...Do we need to put all the data on the homepage?",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After analyzing the content drivers care about on the homepage, <strong>a question arose: Do we need to display all data information on the homepage? </strong>It seems to lack focus and can overwhelm drivers. So, instead of putting all the data on the homepage, <strong>I eventually decided to present only the most critical data,</strong> namely the delivery rate, <strong>and then distribute the other data to secondary pages.</strong></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont.png",
+      "alt": "Espoirer — Retain key information on the home screen, separate other data onto secondary page.",
+      "width": 1800,
+      "height": 994
+    }
+  ]
+}

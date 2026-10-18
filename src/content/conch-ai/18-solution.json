@@ -1,0 +1,34 @@
+{
+  "id": "solution",
+  "heading": "Make the creation process more intelligent!",
+  "eyebrow": "💡 Solution",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After understanding the backend logic of character creation model with the engineers and aligning with the PM on the necessary steps for creating a character, I created the wireframes.<span> </span><span>I divided the creation process into several stages, and each was followed by a complete page to provide creators with a sense of achievement psychologically.</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Design Decision:</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>➡️ EASY FIRST:</strong><strong> </strong>Break down the creation process into different steps to start with easier tasks.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>👆🏻 CLICK AND NEXT:</strong><strong> </strong>Increase the number of clickable options for users &amp; Reduce manual typing input.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>🥳 POSITIVE GUIDANCE:</strong> Give creators a clear outline of each step to guide them to easily create step by step.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/24-make-the-creation-process-more-intelligent.png",
+      "alt": "Conch Ai — Make the creation process more intelligent!",
+      "width": 1800,
+      "height": 1556
+    }
+  ]
+}

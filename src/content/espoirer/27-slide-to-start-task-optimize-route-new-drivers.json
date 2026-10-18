@@ -1,0 +1,26 @@
+{
+  "id": "slide-to-start-task-optimize-route-new-drivers",
+  "heading": "Slide to start task & Optimize route (new drivers)",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Slide-to-start task button to prevent accidental activation for instability during scanning.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Provide new drivers with smart planning for delivery sequencing and optimized routing.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Allows experienced drivers to skip optimized route options.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/37-slide-to-start-task-optimize-route-new-drivers.png",
+      "alt": "Espoirer — Slide to start task & Optimize route (new drivers)",
+      "width": 1800,
+      "height": 886
+    }
+  ]
+}

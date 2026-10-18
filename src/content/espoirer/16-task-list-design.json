@@ -1,0 +1,18 @@
+{
+  "id": "task-list-design",
+  "heading": "How to effectively display multiple packages for the samebuilding or unit in the task list?",
+  "eyebrow": "📋 Task list design",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Addressing <strong>the complex housing layout in Japan</strong> identified in our research, we face the challenge of<strong> informing drivers accurately about multiple packages for the same building or unit. </strong>To tackle this issue, it is not just about designing the information hierarchy of one single card, but also about how to <strong>better organize these cards by the recipient’s address </strong>to help drivers manage their task lists more easily.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/26-how-to-effectively-display-multiple-packages-for-the-samebuilding.png",
+      "alt": "Espoirer — How to effectively display multiple packages for the samebuilding or unit in the task list?",
+      "width": 1800,
+      "height": 1454
+    }
+  ]
+}

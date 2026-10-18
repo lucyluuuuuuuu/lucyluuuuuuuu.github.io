@@ -1,0 +1,44 @@
+{
+  "id": "final-design-map-view",
+  "heading": "Customized map view for enhanced delivery task management and efficient route prioritization.",
+  "eyebrow": "✅ Final design: Map view",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I also <strong>customized the map view to align with the task list view,</strong> providing a comprehensive package distribution map to help drivers manage tasks more effectively. <strong>Deliveries in a local area can be easily tracked and filtered through the map view. </strong>Keeping consistency with the list view makes it easier for drivers to switch between the two view modes. The visual representation of geographic areas enables drivers to efficiently prioritize deliveries.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
+      "alt": "Espoirer — Customized map view for enhanced delivery task management and efficient route prioritization.",
+      "width": 1800,
+      "height": 1094
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/30-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
+      "alt": "Espoirer — Customized map view for enhanced delivery task management and efficient route prioritization.",
+      "width": 1800,
+      "height": 742
+    },
+    {
+      "type": "richText",
+      "html": "<p>“Every day, I have to deliver a bunch of packages and require manually typing the package ID on the small screen, really inefficient!”</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>“I'm not quite sure how to plan routes more effectively, often ending up working overtime and spending more on fuel. ”</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Driver<span> </span><strong>struggle</strong><span> to </span>manage the task list</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff.gif",
+      "alt": "Espoirer — Customized map view for enhanced delivery task management and efficient route prioritization.",
+      "width": 1702,
+      "height": 804
+    }
+  ]
+}

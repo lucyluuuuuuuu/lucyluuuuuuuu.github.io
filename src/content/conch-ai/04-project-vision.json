@@ -1,0 +1,47 @@
+{
+  "id": "project-vision",
+  "heading": "Foster a good ecosystem for creators and users that encourages both the creation and adoption.",
+  "eyebrow": "🎯 Project Vision",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>FOR USERS - Enhance user experience and engagement</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>😀 </span>GOAL 1: </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Empower users to confidently interact with distinct AI characters.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>💙 </span>GOAL 2:<span> </span> </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Enable users to engage with their AI characters at various levels and capacities to maximize the quality of their interactions.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>FOR CREATORS - Boost creator motivation and profitability</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>💡 </span>GOAL 1: </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Educate and empower creators to understand the necessary steps to create diverse characters.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>💰 </span>GOAL 2:<span> </span> </p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Equip creators with the right tools to empower them quickly monetize from their creations.</p>"
+    }
+  ]
+}

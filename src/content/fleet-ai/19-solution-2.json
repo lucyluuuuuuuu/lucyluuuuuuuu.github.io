@@ -1,0 +1,42 @@
+{
+  "id": "solution-2",
+  "heading": "Sort by meetings - Within the Context of Meetings",
+  "eyebrow": "💡 Solution 2",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Pain Points Solved<span> ✅</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Cannot replay the action items as fresh and precise as in the meeting</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings.gif",
+      "alt": "Fleet Ai — Sort by meetings - Within the Context of Meetings",
+      "width": 2564,
+      "height": 1600
+    },
+    {
+      "type": "richText",
+      "html": "<p>1</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Maintain the coexistence of action items and meeting notes so that it’s easy for referring back.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>Always</span> “Action Item + Meeting”.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Click meeting for related meeting notes and action items for referring back.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Based on users’ search preference and usage habits.</p>"
+    }
+  ]
+}

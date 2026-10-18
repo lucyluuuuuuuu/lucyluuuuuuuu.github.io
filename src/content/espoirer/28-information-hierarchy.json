@@ -1,0 +1,34 @@
+{
+  "id": "information-hierarchy",
+  "heading": "Home navigation system to enhance driver performance awareness and streamline task navigation",
+  "eyebrow": "⬆️ Information hierarchy",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><span>The Home screen serves as a Navigation hub, being the first thing users see when opening the app. Therefore, </span>guiding drivers to their most critical tasks through the homepage, focusing their attention on the most important delivery data, is key to my design.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Three primary design questions informed my design strategy.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>How can I <strong>structure the homepage</strong> for easy access to functions and other pages for drivers?</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>What is <strong>the most important information for drivers?</strong><span> </span>The data information or navigation to other functions?</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>How to design the homepage to <strong>enhance drivers' performance awareness</strong>, thus improving the delivery rate?</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an.png",
+      "alt": "Espoirer — Home navigation system to enhance driver performance awareness and streamline task navigation",
+      "width": 1800,
+      "height": 1130
+    }
+  ]
+}

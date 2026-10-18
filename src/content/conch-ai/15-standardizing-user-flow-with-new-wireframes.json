@@ -1,0 +1,78 @@
+{
+  "id": "standardizing-user-flow-with-new-wireframes",
+  "heading": "Multiple iterations based on stakeholder review sessions",
+  "eyebrow": "⚙️ Standardizing user flow with new wireframes",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><strong>After aligning the prioritized ideas, I updated the entire user flow</strong> to enhance user engagement, foster character creation, and promote in-app payments. <strong>Once I had shared the user flow in the stakeholder review and received the green light, I guided the team in developing wireframes </strong>to visualize key scenarios to re-confirm that we were on the same page. I worked closely with the engineers to ensure the designs were feasible from a tech perspective.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "alt": "Conch Ai — Multiple iterations based on stakeholder review sessions",
+      "width": 1296,
+      "height": 1128
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>USER FLOW</span></p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/21-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "alt": "Conch Ai — Multiple iterations based on stakeholder review sessions",
+      "width": 888,
+      "height": 608
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "alt": "Conch Ai — Multiple iterations based on stakeholder review sessions",
+      "width": 1408,
+      "height": 600
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>LOG IN</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>PROFILE</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>EXPLORE</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>CHAT</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>CREATE</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><span>WIREFRAMES</span></p>"
+    },
+    {
+      "type": "gallery",
+      "layout": "strip",
+      "items": [
+        {
+          "type": "richText",
+          "html": "<p>01. Creator - Facing</p>"
+        },
+        {
+          "type": "richText",
+          "html": "<p>01. Creator - Facing</p>"
+        },
+        {
+          "type": "richText",
+          "html": "<p>01. Creator - Facing</p>"
+        }
+      ]
+    }
+  ]
+}

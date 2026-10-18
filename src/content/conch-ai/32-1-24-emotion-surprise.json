@@ -1,0 +1,25 @@
+{
+  "id": "1-24-emotion-surprise",
+  "heading": "Text Chat: GIF Emoji+Dialogue Box Effect",
+  "eyebrow": "(1/24 emotion)Surprise",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>During the text chats, using large emoji GIFs and interactive animations in the text box to express the AI character's different emotions in specific situations. It helps users chat with AI characters more enjoyable than mere text input, enjoying the fun of conversions.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect.png",
+      "alt": "Conch Ai — Text Chat: GIF Emoji+Dialogue Box Effect",
+      "width": 1056,
+      "height": 854
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
+      "alt": "Conch Ai — Text Chat: GIF Emoji+Dialogue Box Effect",
+      "width": 868,
+      "height": 1746
+    }
+  ]
+}

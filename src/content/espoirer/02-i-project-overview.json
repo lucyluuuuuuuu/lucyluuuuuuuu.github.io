@@ -1,0 +1,37 @@
+{
+  "id": "i-project-overview",
+  "heading": "We are taking care of the Last-Mile Delivery !",
+  "eyebrow": "ℹ️ Project overview",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p><strong>Espoirer ( </strong><a href=\"https://espoirer.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>espoirer.com  ↗︎</strong></a><strong> ) is a logistics company that leverages automation and digitalization to enhance the delivery process. </strong>With the rapid development of the smart logistics revolution, Espoirer is committed to solving the challenges of Japanese logistics industry by offering a one-stop global product distribution service, with a focus on cross-border e-commerce.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/03-we-are-taking-care-of-the-last-mile-delivery.png",
+      "alt": "Espoirer — We are taking care of the Last-Mile Delivery !",
+      "width": 1800,
+      "height": 396
+    },
+    {
+      "type": "richText",
+      "html": "<p>For the whole project, <strong>we designed an iOS and Android mobile application from 0 to 1 </strong>for Espoirer staff, courier managers and the delivery drivers.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>While several other designers focused on features related to Search, Out For Delivery, Ticket system and more. In the design process, I contributed by structuring and providing creative ideas.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>I am the design owner of two features in the whole delivery system 1.Scan - To - Task Process &amp; 2.Homepage on the driver end, </strong>aiming to streamline the task management and delivery workflows with an intuitive interface. <br>While several other designers focused on features related to Search, Out For Delivery, Ticket system and more. In the design process, I contributed by structuring and providing creative ideas.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/04-we-are-taking-care-of-the-last-mile-delivery.png",
+      "alt": "Espoirer — We are taking care of the Last-Mile Delivery !",
+      "width": 1800,
+      "height": 872
+    }
+  ]
+}

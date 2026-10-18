@@ -1,0 +1,34 @@
+{
+  "id": "final-design-task-list",
+  "heading": "Simplified delivery management with organized address categories and color-coded status filters",
+  "eyebrow": "✅ Final design: Task list",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>I integrated the final card design into the task list page, where <strong>broader address categories serve as folders to organize individual package details,</strong> simplifying delivery management with a clear hierarchy. The use of consistent colors for <strong>status pills</strong> in the status card system <strong>enhances ease for drivers in filtering options such as &quot;out for delivery&quot; </strong>and managing package statuses.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/28-simplified-delivery-management-with-organized-address-categories.png",
+      "alt": "Espoirer — Simplified delivery management with organized address categories and color-coded status filters",
+      "width": 2480,
+      "height": 1252
+    },
+    {
+      "type": "richText",
+      "html": "<p>👍 Aggregate the task lists by broader address.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Drivers are often assigned to specific areas they are familiar with.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Clear information hierarchy that organizes delivery information without overwhelming the driver.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Better achieve business objectives by enhancing drivers' delivery efficiency.</p>"
+    }
+  ]
+}

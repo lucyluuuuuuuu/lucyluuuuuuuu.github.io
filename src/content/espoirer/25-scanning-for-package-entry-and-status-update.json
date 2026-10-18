@@ -1,0 +1,26 @@
+{
+  "id": "scanning-for-package-entry-and-status-update",
+  "heading": "Scanning for package entry and status update",
+  "eyebrow": "",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>Displaying a clear package quantity count</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Package status change visibility with distinct labels</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Simplifying card design by focusing on the most important information while scanning like ID, address, and recipient's name</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/espoirer/10-scan-to-enroll-packages.gif",
+      "alt": "Espoirer — Scanning for package entry and status update",
+      "width": 868,
+      "height": 1746
+    }
+  ]
+}

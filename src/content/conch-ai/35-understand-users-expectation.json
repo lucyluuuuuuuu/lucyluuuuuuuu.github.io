@@ -1,0 +1,19 @@
+{
+  "id": "understand-users-expectation",
+  "heading": "Users want quick purchases within chats, but feel nervous when seeing their tokens decrease with every message.",
+  "eyebrow": "👤 Understand users’ expectation",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>During the initial low-fidelity prototype usability test, <strong>more than 50% of users</strong> complained that displaying the balance directly in the chat window leads to a poor chat experience.</p>"
+    },
+    {
+      "type": "metric",
+      "html": "<p><span>“</span></p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>Convenient to buy tokens, but watching my tokens were running out with each message added stress, ruining the fun of the chat.</p>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "solution-1",
+  "heading": "Optimize flow with empowering creators to realize they can monetize their creations at the early steps.",
+  "eyebrow": "💡 Solution 1",
+  "blocks": [
+    {
+      "type": "richText",
+      "html": "<p>After a thorough benchmarking analysis, I gained new insights into strategies for character creation. My goal is to <strong>make creators feel the creation process both easy and motivating,</strong> encouraging them to engage and invest effort willingly.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>🤩 MOTIVATE CREATOR FIRST: </strong>Place the character pricing page early motivates creators by highlighting earning potential, encouraging more effort in creating quality characters.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p><strong>🥳 POSITIVE FEEDBACK:</strong><span> </span>Provide inspiring animations after creators complete the character creation, to encourage to go for the advanced character settings.</p>"
+    },
+    {
+      "type": "richText",
+      "html": "<p>After syncing up with the PM and reassessing during our team's internal review, I advanced the flow iteration and got the team on board with the proposal.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/assets/images/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti.png",
+      "alt": "Conch Ai — Optimize flow with empowering creators to realize they can monetize their creations at the early steps.",
+      "width": 1800,
+      "height": 2476
+    }
+  ]
+}
