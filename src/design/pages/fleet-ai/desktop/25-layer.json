@@ -223,7 +223,8 @@
         "src": "/assets/images/fleet-ai/20-user-needs-design-impact-analysis.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "900px"
       }
     }
   ],

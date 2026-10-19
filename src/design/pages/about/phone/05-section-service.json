@@ -125,7 +125,8 @@
                     "src": "/assets/images/about/10-i-m-a-visual-storyteller.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "left center"
+                    "position": "left center",
+                    "sizes": "350px"
                   }
                 }
               ]
@@ -143,7 +144,8 @@
                     "src": "/assets/images/about/11-i-m-a-visual-storyteller.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "left top"
+                    "position": "left top",
+                    "sizes": "350px"
                   }
                 }
               ]
@@ -161,7 +163,8 @@
                     "src": "/assets/images/about/12-i-m-a-visual-storyteller.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "left center"
+                    "position": "left center",
+                    "sizes": "350px"
                   }
                 }
               ]
@@ -179,7 +182,8 @@
                     "src": "/assets/images/about/13-i-m-a-visual-storyteller.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "left top"
+                    "position": "left top",
+                    "sizes": "350px"
                   }
                 }
               ]

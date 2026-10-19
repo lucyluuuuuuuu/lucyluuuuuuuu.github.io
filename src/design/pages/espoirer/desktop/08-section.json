@@ -45,7 +45,8 @@
         "src": "/assets/images/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "1240px"
       }
     }
   ]

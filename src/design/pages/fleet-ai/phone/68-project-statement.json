@@ -15,7 +15,8 @@
             "src": "/assets/images/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the.gif",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "361px"
           }
         }
       ]

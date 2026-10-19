@@ -136,7 +136,8 @@
                     "src": "/assets/images/conch-ai/09-create-characters-with-distinct-personalities.gif",
                     "alt": "",
                     "fit": "cover",
-                    "position": "50% 50%"
+                    "position": "50% 50%",
+                    "sizes": "157px"
                   }
                 }
               ]
@@ -153,7 +154,8 @@
                     "src": "/assets/images/conch-ai/10-create-characters-with-distinct-personalities.gif",
                     "alt": "",
                     "fit": "cover",
-                    "position": "50% 50%"
+                    "position": "50% 50%",
+                    "sizes": "170px"
                   }
                 }
               ]

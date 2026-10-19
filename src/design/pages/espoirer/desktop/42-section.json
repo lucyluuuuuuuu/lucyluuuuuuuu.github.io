@@ -11,7 +11,8 @@
         "src": "/assets/images/espoirer/37-slide-to-start-task-optimize-route-new-drivers.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "900px"
       }
     }
   ]

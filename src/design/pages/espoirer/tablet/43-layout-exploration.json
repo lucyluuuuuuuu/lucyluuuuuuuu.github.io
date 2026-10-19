@@ -243,7 +243,8 @@
         "src": "/assets/images/espoirer/39-exploring-homepage-layouts-based-on-the-structure-of-the-informat.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "472px"
       }
     }
   ],

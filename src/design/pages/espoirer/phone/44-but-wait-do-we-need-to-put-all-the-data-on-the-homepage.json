@@ -155,7 +155,8 @@
         "src": "/assets/images/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     }
   ],

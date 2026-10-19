@@ -507,7 +507,8 @@
                     "src": "/assets/images/espoirer/15-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "50% 50%"
+                    "position": "50% 50%",
+                    "sizes": "257px"
                   }
                 }
               ]

@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/27-make-the-mbti-selection-easy-to-read-and-understand-design-for-di.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

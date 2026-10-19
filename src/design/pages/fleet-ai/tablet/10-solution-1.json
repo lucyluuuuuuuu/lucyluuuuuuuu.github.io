@@ -46,7 +46,8 @@
             "src": "/assets/images/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "457px"
           }
         }
       ]

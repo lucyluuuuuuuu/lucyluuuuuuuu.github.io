@@ -11,7 +11,8 @@
         "src": "/assets/images/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "900px"
       }
     }
   ]

@@ -227,7 +227,8 @@
         "src": "/assets/images/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

@@ -303,7 +303,8 @@
             "src": "/assets/images/espoirer/03-we-are-taking-care-of-the-last-mile-delivery.png",
             "alt": "",
             "fit": "fit",
-            "position": "center center"
+            "position": "center center",
+            "sizes": "900px"
           }
         }
       ]

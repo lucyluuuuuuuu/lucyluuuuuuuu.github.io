@@ -84,7 +84,8 @@
                 "src": "/assets/images/about/14-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -95,7 +96,8 @@
                 "src": "/assets/images/about/15-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -106,7 +108,8 @@
                 "src": "/assets/images/about/16-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -117,7 +120,8 @@
                 "src": "/assets/images/about/17-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -128,7 +132,8 @@
                 "src": "/assets/images/about/18-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -139,7 +144,8 @@
                 "src": "/assets/images/about/19-i-m-a-visual-storyteller.jpg",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -150,7 +156,8 @@
                 "src": "/assets/images/about/20-i-m-a-visual-storyteller.jpg",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -161,7 +168,8 @@
                 "src": "/assets/images/about/21-i-m-a-visual-storyteller.jpg",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             },
             {
@@ -172,7 +180,8 @@
                 "src": "/assets/images/about/22-i-m-a-visual-storyteller.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "356px"
               }
             }
           ]

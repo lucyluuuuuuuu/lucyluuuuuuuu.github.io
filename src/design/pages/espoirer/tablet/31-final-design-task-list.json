@@ -262,7 +262,8 @@
         "src": "/assets/images/espoirer/28-simplified-delivery-management-with-organized-address-categories.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "762px"
       }
     }
   ],

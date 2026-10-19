@@ -388,7 +388,8 @@
                         "src": "/assets/images/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm.gif",
                         "alt": "",
                         "fit": "cover",
-                        "position": "50% 50%"
+                        "position": "50% 50%",
+                        "sizes": "193px"
                       }
                     }
                   ]

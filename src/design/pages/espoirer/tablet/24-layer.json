@@ -226,7 +226,8 @@
         "src": "/assets/images/espoirer/21-organize-ideas-within-the-user-flow-framework.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

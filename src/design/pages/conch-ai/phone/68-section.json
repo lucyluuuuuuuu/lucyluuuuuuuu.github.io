@@ -15,7 +15,8 @@
             "src": "/assets/images/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "342px"
           }
         }
       ]

@@ -55,7 +55,8 @@
                 "src": "/assets/images/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "239px"
               }
             }
           ]
@@ -159,7 +160,8 @@
                 "src": "/assets/images/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "236px"
               }
             }
           ]
@@ -263,7 +265,8 @@
                 "src": "/assets/images/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "238px"
               }
             }
           ]

@@ -52,7 +52,8 @@
             "src": "/assets/images/about/01-introduction.jpg",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "340px"
           }
         },
         {

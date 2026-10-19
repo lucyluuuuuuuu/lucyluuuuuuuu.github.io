@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/49-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "396px"
       }
     },
     {
@@ -62,7 +63,8 @@
         "src": "/assets/images/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "792px"
       }
     }
   ]

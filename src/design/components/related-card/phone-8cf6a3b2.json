@@ -35,7 +35,8 @@
             "src": "/assets/images/details/nrWQXqqOr0fe6aw9cVMMgGmIFSk.png",
             "alt": "",
             "fit": "cover",
-            "position": "center top"
+            "position": "center top",
+            "sizes": "159.8333px"
           }
         }
       ]

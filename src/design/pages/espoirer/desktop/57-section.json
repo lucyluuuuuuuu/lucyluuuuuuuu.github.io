@@ -50,7 +50,8 @@
             "src": "/assets/images/espoirer/48-designed-for-internal-designers-to-make-our-team-faster.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "900px"
           }
         }
       ]

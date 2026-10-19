@@ -139,7 +139,8 @@
         "src": "/assets/images/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     },
     {
@@ -200,7 +201,8 @@
         "src": "/assets/images/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     }
   ],

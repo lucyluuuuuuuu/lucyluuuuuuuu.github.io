@@ -92,7 +92,8 @@
             "src": "/assets/images/conch-ai/36-hmw-build-emotional-engagement-with-ai-characters-during-the-chat.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "390px"
           }
         }
       ]

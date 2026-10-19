@@ -155,7 +155,8 @@
             "src": "/assets/images/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "157px"
           }
         },
         {
@@ -166,7 +167,8 @@
             "src": "/assets/images/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "342px"
           }
         }
       ]

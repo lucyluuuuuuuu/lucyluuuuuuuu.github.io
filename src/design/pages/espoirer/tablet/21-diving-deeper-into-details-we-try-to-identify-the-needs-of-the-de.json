@@ -499,7 +499,8 @@
                     "src": "/assets/images/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "50% 50%"
+                    "position": "50% 50%",
+                    "sizes": "262px"
                   }
                 }
               ]
@@ -551,7 +552,8 @@
         "src": "/assets/images/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

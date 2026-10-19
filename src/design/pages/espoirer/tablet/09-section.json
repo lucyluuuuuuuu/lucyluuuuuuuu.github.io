@@ -10,7 +10,8 @@
         "src": "/assets/images/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

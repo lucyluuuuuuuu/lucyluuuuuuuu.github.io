@@ -14,7 +14,8 @@
             "src": "/assets/images/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "342px"
           }
         }
       ]

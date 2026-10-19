@@ -45,7 +45,8 @@
                     "src": "/assets/images/conch-ai/01-project-cover.png",
                     "alt": "",
                     "fit": "cover",
-                    "position": "center top"
+                    "position": "center top",
+                    "sizes": "1000px"
                   }
                 }
               ]

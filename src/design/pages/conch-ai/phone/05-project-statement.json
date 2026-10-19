@@ -234,7 +234,8 @@
             "src": "/assets/images/conch-ai/04-low-user-engagement-and-decreasing-profitability.png",
             "alt": "",
             "fit": "fit",
-            "position": "center center"
+            "position": "center center",
+            "sizes": "900px"
           }
         }
       ]

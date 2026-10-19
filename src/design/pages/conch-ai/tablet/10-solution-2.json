@@ -51,7 +51,8 @@
                 "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "213px"
               }
             }
           ]
@@ -68,7 +69,8 @@
                 "src": "/assets/images/conch-ai/08-find-ai-characters-for-everyone.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "208px"
               }
             }
           ]

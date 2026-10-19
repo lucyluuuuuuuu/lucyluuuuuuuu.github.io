@@ -126,7 +126,8 @@
         "src": "/assets/images/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     }
   ],

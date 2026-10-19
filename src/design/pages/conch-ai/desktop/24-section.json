@@ -50,7 +50,8 @@
             "src": "/assets/images/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "1240px"
           }
         }
       ]

@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
         "alt": "",
         "fit": "fit",
-        "position": "center center"
+        "position": "center center",
+        "sizes": "900px"
       }
     }
   ]

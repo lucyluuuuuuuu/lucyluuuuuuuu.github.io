@@ -1,0 +1,2224 @@
+{
+  "/assets/images/about/01-introduction.jpg": [
+    {
+      "src": "/assets/responsive/about/01-introduction-960.jpg",
+      "width": 960
+    },
+    {
+      "src": "/assets/responsive/about/01-introduction-1920.jpg",
+      "width": 1920
+    },
+    {
+      "src": "/assets/responsive/about/01-introduction-3840.jpg",
+      "width": 3840
+    },
+    {
+      "src": "/assets/images/about/01-introduction.jpg",
+      "width": 4200
+    }
+  ],
+  "/assets/images/about/02-i-m-a-good-team-player.jpg": [
+    {
+      "src": "/assets/responsive/about/02-i-m-a-good-team-player-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/02-i-m-a-good-team-player-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/about/02-i-m-a-good-team-player.jpg",
+      "width": 1280
+    }
+  ],
+  "/assets/images/about/03-i-m-a-good-team-player.jpg": [
+    {
+      "src": "/assets/responsive/about/03-i-m-a-good-team-player-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/03-i-m-a-good-team-player-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/about/03-i-m-a-good-team-player.jpg",
+      "width": 1280
+    }
+  ],
+  "/assets/images/about/04-i-m-a-good-team-player.jpg": [
+    {
+      "src": "/assets/responsive/about/04-i-m-a-good-team-player-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/04-i-m-a-good-team-player-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/about/04-i-m-a-good-team-player.jpg",
+      "width": 1620
+    }
+  ],
+  "/assets/images/about/05-i-m-a-good-team-player.jpg": [
+    {
+      "src": "/assets/responsive/about/05-i-m-a-good-team-player-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/05-i-m-a-good-team-player-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/about/05-i-m-a-good-team-player.jpg",
+      "width": 1620
+    }
+  ],
+  "/assets/images/about/06-i-m-a-systematic-thinker.png": [
+    {
+      "src": "/assets/responsive/about/06-i-m-a-systematic-thinker-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/06-i-m-a-systematic-thinker-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/06-i-m-a-systematic-thinker-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/06-i-m-a-systematic-thinker.png",
+      "width": 2868
+    }
+  ],
+  "/assets/images/about/07-i-m-a-systematic-thinker.jpg": [
+    {
+      "src": "/assets/responsive/about/07-i-m-a-systematic-thinker-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/07-i-m-a-systematic-thinker-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/07-i-m-a-systematic-thinker-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/07-i-m-a-systematic-thinker.jpg",
+      "width": 3029
+    }
+  ],
+  "/assets/images/about/08-i-m-a-systematic-thinker.jpg": [
+    {
+      "src": "/assets/responsive/about/08-i-m-a-systematic-thinker-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/08-i-m-a-systematic-thinker-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/08-i-m-a-systematic-thinker-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/08-i-m-a-systematic-thinker.jpg",
+      "width": 3114
+    }
+  ],
+  "/assets/images/about/09-i-m-a-systematic-thinker.jpg": [
+    {
+      "src": "/assets/responsive/about/09-i-m-a-systematic-thinker-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/09-i-m-a-systematic-thinker-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/09-i-m-a-systematic-thinker-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/09-i-m-a-systematic-thinker.jpg",
+      "width": 3130
+    }
+  ],
+  "/assets/images/about/10-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/10-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/10-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/10-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/10-i-m-a-visual-storyteller.png",
+      "width": 3196
+    }
+  ],
+  "/assets/images/about/11-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/11-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/11-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/11-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/11-i-m-a-visual-storyteller.png",
+      "width": 2884
+    }
+  ],
+  "/assets/images/about/12-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/12-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/12-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/12-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/12-i-m-a-visual-storyteller.png",
+      "width": 2328
+    }
+  ],
+  "/assets/images/about/13-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/13-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/13-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/about/13-i-m-a-visual-storyteller.png",
+      "width": 1856
+    }
+  ],
+  "/assets/images/about/14-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/14-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/14-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/14-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/14-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/15-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/15-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/15-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/15-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/15-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/16-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/16-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/16-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/16-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/16-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/17-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/17-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/17-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/17-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/17-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/18-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/18-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/18-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/18-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/18-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/19-i-m-a-visual-storyteller.jpg": [
+    {
+      "src": "/assets/responsive/about/19-i-m-a-visual-storyteller-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/19-i-m-a-visual-storyteller-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/19-i-m-a-visual-storyteller-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/19-i-m-a-visual-storyteller.jpg",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/20-i-m-a-visual-storyteller.jpg": [
+    {
+      "src": "/assets/responsive/about/20-i-m-a-visual-storyteller-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/20-i-m-a-visual-storyteller-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/20-i-m-a-visual-storyteller-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/20-i-m-a-visual-storyteller.jpg",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/21-i-m-a-visual-storyteller.jpg": [
+    {
+      "src": "/assets/responsive/about/21-i-m-a-visual-storyteller-512.jpg",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/21-i-m-a-visual-storyteller-1024.jpg",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/21-i-m-a-visual-storyteller-2048.jpg",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/21-i-m-a-visual-storyteller.jpg",
+      "width": 2856
+    }
+  ],
+  "/assets/images/about/22-i-m-a-visual-storyteller.png": [
+    {
+      "src": "/assets/responsive/about/22-i-m-a-visual-storyteller-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/about/22-i-m-a-visual-storyteller-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/about/22-i-m-a-visual-storyteller-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/about/22-i-m-a-visual-storyteller.png",
+      "width": 2856
+    }
+  ],
+  "/assets/images/conch-ai/01-project-cover.png": [
+    {
+      "src": "/assets/responsive/conch-ai/01-project-cover-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/01-project-cover-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/01-project-cover-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/01-project-cover.png",
+      "width": 2080
+    }
+  ],
+  "/assets/images/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch.png": [
+    {
+      "src": "/assets/responsive/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat.png": [
+    {
+      "src": "/assets/responsive/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat.png",
+      "width": 2700
+    }
+  ],
+  "/assets/images/conch-ai/04-low-user-engagement-and-decreasing-profitability.png": [
+    {
+      "src": "/assets/responsive/conch-ai/04-low-user-engagement-and-decreasing-profitability-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/04-low-user-engagement-and-decreasing-profitability-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/04-low-user-engagement-and-decreasing-profitability.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/05-find-ai-characters-for-everyone.gif": [
+    {
+      "src": "/assets/images/conch-ai/05-find-ai-characters-for-everyone.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/06-find-ai-characters-for-everyone.gif": [
+    {
+      "src": "/assets/images/conch-ai/06-find-ai-characters-for-everyone.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif": [
+    {
+      "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/08-find-ai-characters-for-everyone.gif": [
+    {
+      "src": "/assets/images/conch-ai/08-find-ai-characters-for-everyone.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/09-create-characters-with-distinct-personalities.gif": [
+    {
+      "src": "/assets/images/conch-ai/09-create-characters-with-distinct-personalities.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/10-create-characters-with-distinct-personalities.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/10-create-characters-with-distinct-personalities-541.gif",
+      "width": 541
+    },
+    {
+      "src": "/assets/images/conch-ai/10-create-characters-with-distinct-personalities.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/11-create-characters-with-distinct-personalities.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/11-create-characters-with-distinct-personalities-541.gif",
+      "width": 541
+    },
+    {
+      "src": "/assets/images/conch-ai/11-create-characters-with-distinct-personalities.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/12-create-characters-with-distinct-personalities.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/12-create-characters-with-distinct-personalities-541.gif",
+      "width": 541
+    },
+    {
+      "src": "/assets/images/conch-ai/12-create-characters-with-distinct-personalities.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e.png": [
+    {
+      "src": "/assets/responsive/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/14-creators-struggle-to-complete-the-character-creation-users-stop-e.png": [
+    {
+      "src": "/assets/responsive/conch-ai/14-creators-struggle-to-complete-the-character-creation-users-stop-e-1004.png",
+      "width": 1004
+    },
+    {
+      "src": "/assets/images/conch-ai/14-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "width": 1216
+    }
+  ],
+  "/assets/images/conch-ai/15-creators-struggle-to-complete-the-character-creation-users-stop-e.png": [
+    {
+      "src": "/assets/responsive/conch-ai/15-creators-struggle-to-complete-the-character-creation-users-stop-e-1004.png",
+      "width": 1004
+    },
+    {
+      "src": "/assets/images/conch-ai/15-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
+      "width": 1216
+    }
+  ],
+  "/assets/images/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions.png": [
+    {
+      "src": "/assets/responsive/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions.png",
+      "width": 1648
+    }
+  ],
+  "/assets/images/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions.png": [
+    {
+      "src": "/assets/responsive/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/17-enhancing-interactions-through-character-design-motion-solutions.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/18-brainstorm-for-all-opportunities.png": [
+    {
+      "src": "/assets/responsive/conch-ai/18-brainstorm-for-all-opportunities-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/18-brainstorm-for-all-opportunities-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/18-brainstorm-for-all-opportunities.png",
+      "width": 1803
+    }
+  ],
+  "/assets/images/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and.png": [
+    {
+      "src": "/assets/responsive/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions.png": [
+    {
+      "src": "/assets/responsive/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "width": 1296
+    }
+  ],
+  "/assets/images/conch-ai/21-multiple-iterations-based-on-stakeholder-review-sessions.png": [
+    {
+      "src": "/assets/responsive/conch-ai/21-multiple-iterations-based-on-stakeholder-review-sessions-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/conch-ai/21-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "width": 888
+    }
+  ],
+  "/assets/images/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions.png": [
+    {
+      "src": "/assets/responsive/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions.png",
+      "width": 1408
+    }
+  ],
+  "/assets/images/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm-516.gif",
+      "width": 516
+    },
+    {
+      "src": "/assets/images/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm.gif",
+      "width": 884
+    }
+  ],
+  "/assets/images/conch-ai/24-make-the-creation-process-more-intelligent.png": [
+    {
+      "src": "/assets/responsive/conch-ai/24-make-the-creation-process-more-intelligent-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/24-make-the-creation-process-more-intelligent-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/24-make-the-creation-process-more-intelligent.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/25-mbti-the-foundation-for-backend-character-modeling-however-unknow.png": [
+    {
+      "src": "/assets/responsive/conch-ai/25-mbti-the-foundation-for-backend-character-modeling-however-unknow-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/conch-ai/25-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
+      "width": 596
+    }
+  ],
+  "/assets/images/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow.png": [
+    {
+      "src": "/assets/responsive/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/26-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/27-make-the-mbti-selection-easy-to-read-and-understand-design-for-di.png": [
+    {
+      "src": "/assets/responsive/conch-ai/27-make-the-mbti-selection-easy-to-read-and-understand-design-for-di-687.png",
+      "width": 687
+    },
+    {
+      "src": "/assets/responsive/conch-ai/27-make-the-mbti-selection-easy-to-read-and-understand-design-for-di-1374.png",
+      "width": 1374
+    },
+    {
+      "src": "/assets/images/conch-ai/27-make-the-mbti-selection-easy-to-read-and-understand-design-for-di.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti.png": [
+    {
+      "src": "/assets/responsive/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti-744.png",
+      "width": 744
+    },
+    {
+      "src": "/assets/responsive/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti-1488.png",
+      "width": 1488
+    },
+    {
+      "src": "/assets/images/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/29-intuitive-dashboard-for-clear-character-management-and-profit-ove.png": [
+    {
+      "src": "/assets/responsive/conch-ai/29-intuitive-dashboard-for-clear-character-management-and-profit-ove-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/29-intuitive-dashboard-for-clear-character-management-and-profit-ove-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/29-intuitive-dashboard-for-clear-character-management-and-profit-ove-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/29-intuitive-dashboard-for-clear-character-management-and-profit-ove.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/30-final-design-character-creation-process.png": [
+    {
+      "src": "/assets/responsive/conch-ai/30-final-design-character-creation-process-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/30-final-design-character-creation-process-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/30-final-design-character-creation-process-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/30-final-design-character-creation-process.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/31-final-design-character-creation-process.png": [
+    {
+      "src": "/assets/responsive/conch-ai/31-final-design-character-creation-process-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/31-final-design-character-creation-process-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/31-final-design-character-creation-process-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/31-final-design-character-creation-process.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/32-final-design-character-creation-process.png": [
+    {
+      "src": "/assets/responsive/conch-ai/32-final-design-character-creation-process-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/32-final-design-character-creation-process-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/conch-ai/32-final-design-character-creation-process-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/conch-ai/32-final-design-character-creation-process.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize-566.gif",
+      "width": 566
+    },
+    {
+      "src": "/assets/images/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "width": 972
+    }
+  ],
+  "/assets/images/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize-566.gif",
+      "width": 566
+    },
+    {
+      "src": "/assets/images/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "width": 972
+    }
+  ],
+  "/assets/images/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize-566.gif",
+      "width": 566
+    },
+    {
+      "src": "/assets/images/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+      "width": 972
+    }
+  ],
+  "/assets/images/conch-ai/36-hmw-build-emotional-engagement-with-ai-characters-during-the-chat.png": [
+    {
+      "src": "/assets/responsive/conch-ai/36-hmw-build-emotional-engagement-with-ai-characters-during-the-chat-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/36-hmw-build-emotional-engagement-with-ai-characters-during-the-chat-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/36-hmw-build-emotional-engagement-with-ai-characters-during-the-chat.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea.png": [
+    {
+      "src": "/assets/responsive/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/conch-ai/38-facial-expressions-for-calls-and-gif-emojis-for-text-chats-making.png": [
+    {
+      "src": "/assets/responsive/conch-ai/38-facial-expressions-for-calls-and-gif-emojis-for-text-chats-making-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/38-facial-expressions-for-calls-and-gif-emojis-for-text-chats-making-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/38-facial-expressions-for-calls-and-gif-emojis-for-text-chats-making.png",
+      "width": 1392
+    }
+  ],
+  "/assets/images/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories.png": [
+    {
+      "src": "/assets/responsive/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories.png",
+      "width": 640
+    }
+  ],
+  "/assets/images/conch-ai/40-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/responsive/conch-ai/40-call-chat-facial-expression-oceanwave-sound-588.gif",
+      "width": 588
+    },
+    {
+      "src": "/assets/images/conch-ai/40-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 964
+    }
+  ],
+  "/assets/images/conch-ai/41-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/41-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/42-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/42-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/43-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/43-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/44-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/44-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/45-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/45-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/46-call-chat-facial-expression-oceanwave-sound.gif": [
+    {
+      "src": "/assets/images/conch-ai/46-call-chat-facial-expression-oceanwave-sound.gif",
+      "width": 852
+    }
+  ],
+  "/assets/images/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect.png": [
+    {
+      "src": "/assets/responsive/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect.png",
+      "width": 1056
+    }
+  ],
+  "/assets/images/conch-ai/48-display-token-balance-in-real-time-during-the-conversions-can-mot.png": [
+    {
+      "src": "/assets/responsive/conch-ai/48-display-token-balance-in-real-time-during-the-conversions-can-mot-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/conch-ai/48-display-token-balance-in-real-time-during-the-conversions-can-mot.png",
+      "width": 670
+    }
+  ],
+  "/assets/images/conch-ai/49-display-purchase-entry-point-to-view-token-balance-and-provide-re.png": [
+    {
+      "src": "/assets/responsive/conch-ai/49-display-purchase-entry-point-to-view-token-balance-and-provide-re-645.png",
+      "width": 645
+    },
+    {
+      "src": "/assets/images/conch-ai/49-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
+      "width": 792
+    }
+  ],
+  "/assets/images/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re.png": [
+    {
+      "src": "/assets/responsive/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/50-display-purchase-entry-point-to-view-token-balance-and-provide-re.png",
+      "width": 1584
+    }
+  ],
+  "/assets/images/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility.png": [
+    {
+      "src": "/assets/responsive/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/details/ihkOpsu9qeSlG72yWe9ljxlno4.png": [
+    {
+      "src": "/assets/responsive/details/ihkOpsu9qeSlG72yWe9ljxlno4-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/details/ihkOpsu9qeSlG72yWe9ljxlno4.png",
+      "width": 652
+    }
+  ],
+  "/assets/images/details/nrWQXqqOr0fe6aw9cVMMgGmIFSk.png": [
+    {
+      "src": "/assets/responsive/details/nrWQXqqOr0fe6aw9cVMMgGmIFSk-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/details/nrWQXqqOr0fe6aw9cVMMgGmIFSk-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/details/nrWQXqqOr0fe6aw9cVMMgGmIFSk.png",
+      "width": 1220
+    }
+  ],
+  "/assets/images/espoirer/01-project-cover.png": [
+    {
+      "src": "/assets/responsive/espoirer/01-project-cover-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/01-project-cover-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/01-project-cover-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/01-project-cover.png",
+      "width": 2080
+    }
+  ],
+  "/assets/images/espoirer/02-accelerating-the-last-mile-delivery-through-enhanced-task-managem.png": [
+    {
+      "src": "/assets/responsive/espoirer/02-accelerating-the-last-mile-delivery-through-enhanced-task-managem-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/02-accelerating-the-last-mile-delivery-through-enhanced-task-managem-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/02-accelerating-the-last-mile-delivery-through-enhanced-task-managem-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/02-accelerating-the-last-mile-delivery-through-enhanced-task-managem.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/espoirer/03-we-are-taking-care-of-the-last-mile-delivery.png": [
+    {
+      "src": "/assets/responsive/espoirer/03-we-are-taking-care-of-the-last-mile-delivery-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/03-we-are-taking-care-of-the-last-mile-delivery-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/03-we-are-taking-care-of-the-last-mile-delivery.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/04-we-are-taking-care-of-the-last-mile-delivery.png": [
+    {
+      "src": "/assets/responsive/espoirer/04-we-are-taking-care-of-the-last-mile-delivery-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/04-we-are-taking-care-of-the-last-mile-delivery-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/04-we-are-taking-care-of-the-last-mile-delivery.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o.png": [
+    {
+      "src": "/assets/responsive/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/05-manual-process-and-the-lack-of-real-time-synchronization-affect-o.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen.png": [
+    {
+      "src": "/assets/responsive/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/06-automate-the-delivery-workflows-and-streamline-the-task-managemen.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/07-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/07-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/08-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/08-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/09-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/09-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/10-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/10-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/11-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/11-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/12-scan-to-enroll-packages.gif": [
+    {
+      "src": "/assets/images/espoirer/12-scan-to-enroll-packages.gif",
+      "width": 868
+    }
+  ],
+  "/assets/images/espoirer/13-scan-to-enroll-packages.png": [
+    {
+      "src": "/assets/responsive/espoirer/13-scan-to-enroll-packages-1016.png",
+      "width": 1016
+    },
+    {
+      "src": "/assets/images/espoirer/13-scan-to-enroll-packages.png",
+      "width": 1064
+    }
+  ],
+  "/assets/images/espoirer/14-scan-to-enroll-packages.png": [
+    {
+      "src": "/assets/responsive/espoirer/14-scan-to-enroll-packages-1016.png",
+      "width": 1016
+    },
+    {
+      "src": "/assets/images/espoirer/14-scan-to-enroll-packages.png",
+      "width": 1064
+    }
+  ],
+  "/assets/images/espoirer/15-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png": [
+    {
+      "src": "/assets/responsive/espoirer/15-helping-drivers-deliver-packages-within-two-days-holds-the-key-to-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/espoirer/15-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png",
+      "width": 712
+    }
+  ],
+  "/assets/images/espoirer/16-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png": [
+    {
+      "src": "/assets/responsive/espoirer/16-helping-drivers-deliver-packages-within-two-days-holds-the-key-to-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/16-helping-drivers-deliver-packages-within-two-days-holds-the-key-to-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/16-helping-drivers-deliver-packages-within-two-days-holds-the-key-to.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png": [
+    {
+      "src": "/assets/responsive/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+      "width": 524
+    }
+  ],
+  "/assets/images/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png": [
+    {
+      "src": "/assets/responsive/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png": [
+    {
+      "src": "/assets/responsive/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/19-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png": [
+    {
+      "src": "/assets/responsive/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/20-streamline-interface-for-quick-access-to-delivery-tasks-and-enhan.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/21-organize-ideas-within-the-user-flow-framework.png": [
+    {
+      "src": "/assets/responsive/espoirer/21-organize-ideas-within-the-user-flow-framework-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/21-organize-ideas-within-the-user-flow-framework-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/21-organize-ideas-within-the-user-flow-framework.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png": [
+    {
+      "src": "/assets/responsive/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/22-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png": [
+    {
+      "src": "/assets/responsive/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/24-complex-urban-layouts-and-high-density-housing.png": [
+    {
+      "src": "/assets/responsive/espoirer/24-complex-urban-layouts-and-high-density-housing-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/24-complex-urban-layouts-and-high-density-housing-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/24-complex-urban-layouts-and-high-density-housing.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver.png": [
+    {
+      "src": "/assets/responsive/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/25-reorganize-card-information-to-make-it-easier-for-delivery-driver.png",
+      "width": 2700
+    }
+  ],
+  "/assets/images/espoirer/26-how-to-effectively-display-multiple-packages-for-the-samebuilding.png": [
+    {
+      "src": "/assets/responsive/espoirer/26-how-to-effectively-display-multiple-packages-for-the-samebuilding-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/26-how-to-effectively-display-multiple-packages-for-the-samebuilding-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/26-how-to-effectively-display-multiple-packages-for-the-samebuilding.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/27-develop-package-card-final-design-status-card-system.png": [
+    {
+      "src": "/assets/responsive/espoirer/27-develop-package-card-final-design-status-card-system-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/27-develop-package-card-final-design-status-card-system-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/27-develop-package-card-final-design-status-card-system-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/27-develop-package-card-final-design-status-card-system.png",
+      "width": 2700
+    }
+  ],
+  "/assets/images/espoirer/28-simplified-delivery-management-with-organized-address-categories.png": [
+    {
+      "src": "/assets/responsive/espoirer/28-simplified-delivery-management-with-organized-address-categories-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/28-simplified-delivery-management-with-organized-address-categories-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/28-simplified-delivery-management-with-organized-address-categories-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/28-simplified-delivery-management-with-organized-address-categories.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff.png": [
+    {
+      "src": "/assets/responsive/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/30-customized-map-view-for-enhanced-delivery-task-management-and-eff.png": [
+    {
+      "src": "/assets/responsive/espoirer/30-customized-map-view-for-enhanced-delivery-task-management-and-eff-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/30-customized-map-view-for-enhanced-delivery-task-management-and-eff-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/30-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff.gif": [
+    {
+      "src": "/assets/responsive/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff.gif",
+      "width": 1702
+    }
+  ],
+  "/assets/images/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process.png": [
+    {
+      "src": "/assets/responsive/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/32-focused-on-ai-smart-sorting-in-scan-to-task-process.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/33-supplementing-pm-s-missing-perspective-experienced-drivers-have-t.png": [
+    {
+      "src": "/assets/responsive/espoirer/33-supplementing-pm-s-missing-perspective-experienced-drivers-have-t-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/33-supplementing-pm-s-missing-perspective-experienced-drivers-have-t-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/33-supplementing-pm-s-missing-perspective-experienced-drivers-have-t.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/34-enhancing-delivery-flexibility-with-manual-order-adjustment-and-o.png": [
+    {
+      "src": "/assets/responsive/espoirer/34-enhancing-delivery-flexibility-with-manual-order-adjustment-and-o-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/34-enhancing-delivery-flexibility-with-manual-order-adjustment-and-o-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/34-enhancing-delivery-flexibility-with-manual-order-adjustment-and-o.png",
+      "width": 1836
+    }
+  ],
+  "/assets/images/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors.png": [
+    {
+      "src": "/assets/responsive/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+      "width": 2700
+    }
+  ],
+  "/assets/images/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors.png": [
+    {
+      "src": "/assets/responsive/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+      "width": 1799
+    }
+  ],
+  "/assets/images/espoirer/37-slide-to-start-task-optimize-route-new-drivers.png": [
+    {
+      "src": "/assets/responsive/espoirer/37-slide-to-start-task-optimize-route-new-drivers-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/37-slide-to-start-task-optimize-route-new-drivers-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/37-slide-to-start-task-optimize-route-new-drivers.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an.png": [
+    {
+      "src": "/assets/responsive/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/39-exploring-homepage-layouts-based-on-the-structure-of-the-informat.png": [
+    {
+      "src": "/assets/responsive/espoirer/39-exploring-homepage-layouts-based-on-the-structure-of-the-informat-834.png",
+      "width": 834
+    },
+    {
+      "src": "/assets/images/espoirer/39-exploring-homepage-layouts-based-on-the-structure-of-the-informat.png",
+      "width": 944
+    }
+  ],
+  "/assets/images/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont.png": [
+    {
+      "src": "/assets/responsive/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/40-retain-key-information-on-the-home-screen-separate-other-data-ont.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/41-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png": [
+    {
+      "src": "/assets/responsive/espoirer/41-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/41-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/41-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/42-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png": [
+    {
+      "src": "/assets/responsive/espoirer/42-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/42-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/42-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png": [
+    {
+      "src": "/assets/responsive/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png": [
+    {
+      "src": "/assets/responsive/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png",
+      "width": 1832
+    }
+  ],
+  "/assets/images/espoirer/45-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png": [
+    {
+      "src": "/assets/responsive/espoirer/45-designed-north-star-ideal-solution-and-then-derived-feasible-plan-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/45-designed-north-star-ideal-solution-and-then-derived-feasible-plan-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/45-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png",
+      "width": 1080
+    }
+  ],
+  "/assets/images/espoirer/46-brand-guidelines.png": [
+    {
+      "src": "/assets/responsive/espoirer/46-brand-guidelines-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/46-brand-guidelines-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/46-brand-guidelines.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/47-checking-key-screens-for-the-japanese-version-on-android-and-ios.png": [
+    {
+      "src": "/assets/responsive/espoirer/47-checking-key-screens-for-the-japanese-version-on-android-and-ios-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/47-checking-key-screens-for-the-japanese-version-on-android-and-ios-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/47-checking-key-screens-for-the-japanese-version-on-android-and-ios.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/48-designed-for-internal-designers-to-make-our-team-faster.png": [
+    {
+      "src": "/assets/responsive/espoirer/48-designed-for-internal-designers-to-make-our-team-faster-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/48-designed-for-internal-designers-to-make-our-team-faster-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/48-designed-for-internal-designers-to-make-our-team-faster.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/espoirer/49-designed-for-internal-designers-to-make-our-team-faster.png": [
+    {
+      "src": "/assets/responsive/espoirer/49-designed-for-internal-designers-to-make-our-team-faster-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/espoirer/49-designed-for-internal-designers-to-make-our-team-faster-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/espoirer/49-designed-for-internal-designers-to-make-our-team-faster.png",
+      "width": 1104
+    }
+  ],
+  "/assets/images/fleet-ai/01-project-cover.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/01-project-cover-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/01-project-cover-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/01-project-cover-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/01-project-cover.png",
+      "width": 2080
+    }
+  ],
+  "/assets/images/fleet-ai/02-an-ai-powered-short-term-meeting-task-management-tool-with-soft-r.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/02-an-ai-powered-short-term-meeting-task-management-tool-with-soft-r-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/02-an-ai-powered-short-term-meeting-task-management-tool-with-soft-r-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/02-an-ai-powered-short-term-meeting-task-management-tool-with-soft-r-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/02-an-ai-powered-short-term-meeting-task-management-tool-with-soft-r.png",
+      "width": 2480
+    }
+  ],
+  "/assets/images/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/images/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+      "width": 800
+    }
+  ],
+  "/assets/images/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+      "width": 1802
+    }
+  ],
+  "/assets/images/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+      "width": 2144
+    }
+  ],
+  "/assets/images/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+      "width": 2416
+    }
+  ],
+  "/assets/images/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders.gif",
+      "width": 2416
+    }
+  ],
+  "/assets/images/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t-747.png",
+      "width": 747
+    },
+    {
+      "src": "/assets/images/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+      "width": 1112
+    }
+  ],
+  "/assets/images/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/11-users-want-streamlined-action-item-management-from-pre-to-post-me.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/11-users-want-streamlined-action-item-management-from-pre-to-post-me-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/11-users-want-streamlined-action-item-management-from-pre-to-post-me-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/11-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "width": 1528
+    }
+  ],
+  "/assets/images/fleet-ai/12-users-want-streamlined-action-item-management-from-pre-to-post-me.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/12-users-want-streamlined-action-item-management-from-pre-to-post-me-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/12-users-want-streamlined-action-item-management-from-pre-to-post-me-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/12-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "width": 1380
+    }
+  ],
+  "/assets/images/fleet-ai/13-users-want-streamlined-action-item-management-from-pre-to-post-me.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/13-users-want-streamlined-action-item-management-from-pre-to-post-me-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/13-users-want-streamlined-action-item-management-from-pre-to-post-me-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/13-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "width": 1596
+    }
+  ],
+  "/assets/images/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
+      "width": 1818
+    }
+  ],
+  "/assets/images/fleet-ai/15-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/15-organize-competitive-analysis-the-same-way-as-interview-data-to-i-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/15-organize-competitive-analysis-the-same-way-as-interview-data-to-i-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/15-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+      "width": 1831
+    }
+  ],
+  "/assets/images/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+      "width": 3380
+    }
+  ],
+  "/assets/images/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i-2048.png",
+      "width": 2048
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i-4096.png",
+      "width": 4096
+    },
+    {
+      "src": "/assets/images/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+      "width": 4230
+    }
+  ],
+  "/assets/images/fleet-ai/18-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/18-organize-competitive-analysis-the-same-way-as-interview-data-to-i-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/18-organize-competitive-analysis-the-same-way-as-interview-data-to-i-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/18-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+      "width": 1818
+    }
+  ],
+  "/assets/images/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/20-user-needs-design-impact-analysis.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/20-user-needs-design-impact-analysis-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/20-user-needs-design-impact-analysis-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/20-user-needs-design-impact-analysis.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/21-lets-meet-nix-and-andy.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/21-lets-meet-nix-and-andy-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/21-lets-meet-nix-and-andy-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/21-lets-meet-nix-and-andy.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/22-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/22-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/22-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/22-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/24-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/25-sort-by-action-items-smart-search-and-sorting.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/25-sort-by-action-items-smart-search-and-sorting-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/25-sort-by-action-items-smart-search-and-sorting-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/25-sort-by-action-items-smart-search-and-sorting-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/25-sort-by-action-items-smart-search-and-sorting.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/26-sort-by-action-items-smart-search-and-sorting.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/26-sort-by-action-items-smart-search-and-sorting-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/26-sort-by-action-items-smart-search-and-sorting-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/26-sort-by-action-items-smart-search-and-sorting-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/26-sort-by-action-items-smart-search-and-sorting.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/27-sort-by-meetings-within-the-context-of-meetings.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/28-sort-by-projects-within-the-context-of-projects.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/28-sort-by-projects-within-the-context-of-projects-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/28-sort-by-projects-within-the-context-of-projects-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/28-sort-by-projects-within-the-context-of-projects.png",
+      "width": 1440
+    }
+  ],
+  "/assets/images/fleet-ai/29-sort-by-projects-within-the-context-of-projects.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/29-sort-by-projects-within-the-context-of-projects-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/29-sort-by-projects-within-the-context-of-projects-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/29-sort-by-projects-within-the-context-of-projects.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/30-sort-by-projects-within-the-context-of-projects.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/30-sort-by-projects-within-the-context-of-projects-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/30-sort-by-projects-within-the-context-of-projects-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/30-sort-by-projects-within-the-context-of-projects.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/31-ai-generated-action-items-during-the-meetings.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/31-ai-generated-action-items-during-the-meetings-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/31-ai-generated-action-items-during-the-meetings-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/31-ai-generated-action-items-during-the-meetings-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/31-ai-generated-action-items-during-the-meetings.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/32-increase-ai-human-interaction-to-build-trust.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/32-increase-ai-human-interaction-to-build-trust-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/32-increase-ai-human-interaction-to-build-trust-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/32-increase-ai-human-interaction-to-build-trust-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/32-increase-ai-human-interaction-to-build-trust.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during.gif",
+      "width": 2564
+    }
+  ],
+  "/assets/images/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during.png": [
+    {
+      "src": "/assets/responsive/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during-512.png",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during-1024.png",
+      "width": 1024
+    },
+    {
+      "src": "/assets/images/fleet-ai/35-switch-between-different-views-tailored-for-various-roles-during.png",
+      "width": 1800
+    }
+  ],
+  "/assets/images/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming.gif",
+      "width": 2488
+    }
+  ],
+  "/assets/images/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the.gif": [
+    {
+      "src": "/assets/responsive/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the-512.gif",
+      "width": 512
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the-1024.gif",
+      "width": 1024
+    },
+    {
+      "src": "/assets/responsive/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the-2048.gif",
+      "width": 2048
+    },
+    {
+      "src": "/assets/images/fleet-ai/37-different-levels-of-nudge-are-presented-in-different-ways-on-the.gif",
+      "width": 2488
+    }
+  ]
+}

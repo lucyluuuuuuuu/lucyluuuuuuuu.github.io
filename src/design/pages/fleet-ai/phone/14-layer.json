@@ -108,7 +108,8 @@
                         "src": "/assets/images/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t.png",
                         "alt": "",
                         "fit": "stretch",
-                        "position": "center center"
+                        "position": "center center",
+                        "sizes": "169px"
                       }
                     }
                   ]
@@ -303,7 +304,8 @@
         "src": "/assets/images/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     }
   ],

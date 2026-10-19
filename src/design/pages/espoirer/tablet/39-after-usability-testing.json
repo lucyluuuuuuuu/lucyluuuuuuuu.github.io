@@ -214,7 +214,8 @@
         "src": "/assets/images/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     },
     {
@@ -332,7 +333,8 @@
         "src": "/assets/images/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

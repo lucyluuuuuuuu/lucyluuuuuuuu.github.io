@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/37-evaluate-ideas-with-pm-and-em-regarding-of-the-visibility-and-fea.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

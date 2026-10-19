@@ -467,7 +467,8 @@
         "src": "/assets/images/espoirer/38-home-navigation-system-to-enhance-driver-performance-awareness-an.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

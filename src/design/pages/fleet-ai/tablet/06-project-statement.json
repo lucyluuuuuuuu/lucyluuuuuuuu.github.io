@@ -204,7 +204,8 @@
         "src": "/assets/images/fleet-ai/05-ai-powered-task-management-tools-to-enhance-efficiency-for-small.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

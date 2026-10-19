@@ -12,6 +12,12 @@
 
 例如 Conch.AI 的概述在 `src/design/pages/conch-ai/desktop/05-project-overview.json`；手机、平板的对应章节位于各自目录。字号、宽度、间距的调整应检查三个断点。
 
+### 图片清晰度与替换
+
+`src/design/image-sources.json` 集中记录原图对应的本地尺寸版本，文件放在 `public/assets/responsive/`。章节中的 `image.sizes` 表示原版在该布局下的图片显示尺寸。浏览器会按显示尺寸和屏幕像素密度选择资源，隐藏布局不会提前加载大图。
+
+替换图片建议使用新文件名，再修改 `image.src` 或作品的 `cover`。新文件没有尺寸配置时会直接使用原图，不会误用旧封面的缩略图。若覆盖同名原图，请同时更新对应尺寸文件，或删除 `image-sources.json` 中该原图的记录。`image.fit` 的 `fit` 对应等比适配，`cover` 对应铺满并裁切。
+
 ### 增删章节
 
 添加一个章节文件，并在该页面 `index.json` 的三个断点列表中加入它；删除时从对应列表移除。章节的 `anchor` 是稳定跳转名，不随标题变化。通过 `#anchor` 或 `/work/Conch.AI/#anchor` 跳转。浏览器会将锚点绑定到当前可见的布局。
@@ -25,6 +31,8 @@
 - `src/pages/design.mjs`：将布局、正文、路线组合成静态 HTML。
 
 每个 `appear` 存储入场起止状态及时间参数；`motion` 描述 ticker 或 slideshow。首页职业标签 speed=55，图片 ticker speed=100，单位为像素/秒。轮播默认手动切换，可用箭头、圆点或拖动。减少动态效果偏好会关闭连续滚动和入场动画。
+
+轮播的箭头、圆点和弹簧参数读取对应章节的 `motion.arrows`、`motion.dots`、`motion.transition`，可以分别调整三个断点。Ticker 的 `fadeWidth` 是左右两侧渐隐宽度之和。
 
 ## 修改作品、导航和跳转
 

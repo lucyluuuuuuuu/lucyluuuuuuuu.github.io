@@ -211,7 +211,8 @@
         "src": "/assets/images/fleet-ai/21-lets-meet-nix-and-andy.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

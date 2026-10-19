@@ -15,7 +15,8 @@
             "src": "/assets/images/espoirer/47-checking-key-screens-for-the-japanese-version-on-android-and-ios.png",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "342px"
           }
         }
       ]

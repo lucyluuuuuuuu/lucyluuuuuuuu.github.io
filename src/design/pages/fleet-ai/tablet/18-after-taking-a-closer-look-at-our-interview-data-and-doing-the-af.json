@@ -116,7 +116,8 @@
         "src": "/assets/images/fleet-ai/14-users-want-streamlined-action-item-management-from-pre-to-post-me.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

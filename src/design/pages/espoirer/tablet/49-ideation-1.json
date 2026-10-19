@@ -299,7 +299,8 @@
         "src": "/assets/images/espoirer/44-designed-north-star-ideal-solution-and-then-derived-feasible-plan.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     },
     {

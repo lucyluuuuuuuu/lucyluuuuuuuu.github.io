@@ -52,7 +52,8 @@
                 "src": "/assets/images/espoirer/13-scan-to-enroll-packages.png",
                 "alt": "",
                 "fit": "stretch",
-                "position": "center center"
+                "position": "center center",
+                "sizes": "208px"
               }
             },
             {
@@ -63,7 +64,8 @@
                 "src": "/assets/images/espoirer/14-scan-to-enroll-packages.png",
                 "alt": "",
                 "fit": "stretch",
-                "position": "center center"
+                "position": "center center",
+                "sizes": "208px"
               }
             }
           ]

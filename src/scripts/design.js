@@ -56,19 +56,23 @@ function frame(data, base='') {
   const x=data.x||0,y=data.y||0,scale=data.scale??1;
   return {opacity:data.opacity??1,transform:`${base} perspective(${data.transformPerspective||1200}px) translate(${x}px,${y}px) rotate(${data.rotate||0}deg) rotateX(${data.rotateX||0}deg) rotateY(${data.rotateY||0}deg) scale(${scale}) skew(${data.skewX||0}deg,${data.skewY||0}deg)`};
 }
-function springFrames(from,to,transition,base){
+function springProgress(transition,{distance=1,velocity=0,restDelta=.001}={}){
   const mass=transition.mass||1,k=transition.stiffness||500,c=transition.damping||60;
-  const omega=Math.sqrt(k/mass),zeta=c/(2*Math.sqrt(k*mass));
+  const omega=Math.sqrt(k/mass),zeta=c/(2*Math.sqrt(k*mass)),initialVelocity=distance?velocity/distance:0;
   const response=t=>{
-    if(zeta<1){const wd=omega*Math.sqrt(1-zeta*zeta);return 1-Math.exp(-zeta*omega*t)*(Math.cos(wd*t)+zeta*omega/wd*Math.sin(wd*t));}
-    if(zeta===1)return 1-Math.exp(-omega*t)*(1+omega*t);
+    if(zeta<1){const wd=omega*Math.sqrt(1-zeta*zeta);return 1-Math.exp(-zeta*omega*t)*(Math.cos(wd*t)+(zeta*omega-initialVelocity)/wd*Math.sin(wd*t));}
+    if(zeta===1)return 1-Math.exp(-omega*t)*(1+(omega-initialVelocity)*t);
     const a=-omega*(zeta-Math.sqrt(zeta*zeta-1)),b=-omega*(zeta+Math.sqrt(zeta*zeta-1));
-    return 1-(b*Math.exp(a*t)-a*Math.exp(b*t))/(b-a);
+    return 1+((initialVelocity+b)*Math.exp(a*t)-(initialVelocity+a)*Math.exp(b*t))/(a-b);
   };
-  let seconds=.25;while(seconds<3&&Math.abs(1-response(seconds))>.001)seconds+=.05;
-  const count=Math.ceil(seconds*60),keys=['opacity','x','y','rotate','rotateX','rotateY','scale','skewX','skewY'];
-  const frames=Array.from({length:count+1},(_,i)=>{const progress=i===count?1:response(i/60),v={};for(const key of keys){const fallback=['opacity','scale'].includes(key)?1:0;v[key]=(from[key]??fallback)+((to[key]??fallback)-(from[key]??fallback))*progress;}return frame(v,base);});
-  return {frames,duration:seconds*1000};
+  let seconds=1/60;while(seconds<3&&Math.abs((1-response(seconds))*distance)>restDelta)seconds+=1/60;
+  const count=Math.ceil(seconds*60);
+  return {values:Array.from({length:count+1},(_,i)=>i===count?1:response(i*seconds/count)),duration:seconds*1000};
+}
+function springFrames(from,to,transition,base){
+  const {values,duration}=springProgress(transition),keys=['opacity','x','y','rotate','rotateX','rotateY','scale','skewX','skewY'];
+  const frames=values.map(progress=>{const v={};for(const key of keys){const fallback=['opacity','scale'].includes(key)?1:0;v[key]=(from[key]??fallback)+((to[key]??fallback)-(from[key]??fallback))*progress;}return frame(v,base);});
+  return {frames,duration};
 }
 const observer = new IntersectionObserver(entries => {
   for(const entry of entries)if(entry.isIntersecting&&visible(entry.target)){
@@ -106,14 +110,56 @@ document.querySelectorAll('[data-ticker]').forEach(el=>{
 });
 
 document.querySelectorAll('[data-slideshow]').forEach(el=>{
-  const track=el.querySelector('.slideshow-track'),slides=[...track.children],dots=[...el.querySelectorAll('[data-slide-to]')];let index=0,startX;
-  const show=i=>{index=(i+slides.length)%slides.length;track.style.transform=`translateX(-${index*100}%)`;dots.forEach((dot,j)=>dot.setAttribute('aria-current',String(j===index)));slides.forEach((slide,j)=>slide.setAttribute('aria-hidden',String(j!==index)));};
+  const options=JSON.parse(el.dataset.slideshow),track=el.querySelector('.slideshow-track'),slides=[...track.children],dots=[...el.querySelectorAll('[data-slide-to]')];
+  if(!slides.length)return;
+  let index=0,animation,drag;
+  const clone=slide=>{const copy=slide.cloneNode(true);copy.inert=true;copy.setAttribute('aria-hidden','true');copy.removeAttribute('id');copy.querySelectorAll('[id]').forEach(n=>n.removeAttribute('id'));return copy;};
+  // Neighbour copies let the final slide continue into the first without reversing.
+  track.prepend(clone(slides.at(-1)));track.append(clone(slides[0]));
+  const width=()=>el.clientWidth;
+  const position=()=>new DOMMatrixReadOnly(getComputedStyle(track).transform).m41;
+  const place=x=>{track.style.transform=`translateX(${x}px)`;};
+  const settle=()=>place(-(index+1)*width());
+  function show(next,releaseVelocity=0){
+    const currentPosition=position(),loopWidth=slides.length*width();
+    const from=loopWidth?currentPosition+Math.round((-(index+1)*width()-currentPosition)/loopWidth)*loopWidth:0,to=-(next+1)*width();
+    animation?.cancel();place(from);
+    index=((next%slides.length)+slides.length)%slides.length;
+    dots.forEach((dot,j)=>dot.setAttribute('aria-current',String(j===index)));
+    slides.forEach((slide,j)=>slide.setAttribute('aria-hidden',String(j!==index)));
+    if(reduced.matches||Math.abs(from-to)<.5){settle();return;}
+    const {values,duration}=springProgress(options.transition||{stiffness:200,damping:40},{distance:to-from,velocity:releaseVelocity,restDelta:.5});
+    const current=track.animate(values.map(t=>({transform:`translateX(${from+(to-from)*t}px)`})),{duration,easing:'linear',fill:'forwards'});
+    animation=current;
+    current.finished.then(()=>{if(animation!==current)return;settle();current.cancel();animation=undefined;}).catch(()=>{});
+  }
   el.querySelector('[data-slide-prev]').addEventListener('click',()=>show(index-1));
   el.querySelector('[data-slide-next]').addEventListener('click',()=>show(index+1));
   dots.forEach((dot,i)=>dot.addEventListener('click',()=>show(i)));
-  el.addEventListener('pointerdown',event=>{if(event.target.closest('button'))return;startX=event.clientX;el.setPointerCapture(event.pointerId);});
-  el.addEventListener('pointerup',event=>{if(startX!==undefined&&Math.abs(event.clientX-startX)>40)show(index+(event.clientX<startX?1:-1));startX=undefined;});
-  el.addEventListener('pointercancel',()=>{startX=undefined;});
-  el.addEventListener('dragstart',event=>event.preventDefault());show(0);
+  el.addEventListener('pointerdown',event=>{
+    if(event.button!==0||event.target.closest('button'))return;
+    const origin=position();animation?.cancel();place(origin);
+    drag={id:event.pointerId,start:event.clientX,origin,samples:[{x:event.clientX,t:event.timeStamp}]};
+    el.setPointerCapture(event.pointerId);el.classList.add('is-dragging');
+  });
+  el.addEventListener('pointermove',event=>{
+    if(drag?.id!==event.pointerId)return;
+    place(drag.origin+event.clientX-drag.start);
+    drag.samples.push({x:event.clientX,t:event.timeStamp});
+    drag.samples=drag.samples.filter(p=>event.timeStamp-p.t<100);
+  });
+  const finish=(event,cancelled=false)=>{
+    if(drag?.id!==event.pointerId)return;
+    const offset=event.clientX-drag.start,first=drag.samples[0],elapsed=event.timeStamp-first.t;
+    const velocity=elapsed>0?(event.clientX-first.x)/elapsed*1000:0;
+    const distance=Math.round(Math.abs(offset)/width());
+    const delta=cancelled?0:Math.abs(velocity)>200?-Math.sign(velocity)*Math.max(1,distance):Math.abs(offset)>width()/2?-Math.sign(offset)*distance:0;
+    drag=undefined;el.classList.remove('is-dragging');show(index+Math.max(-1,Math.min(1,delta)),cancelled?0:velocity);
+  };
+  el.addEventListener('pointerup',event=>finish(event));
+  el.addEventListener('pointercancel',event=>finish(event,true));
+  el.addEventListener('dragstart',event=>event.preventDefault());
+  new ResizeObserver(()=>{animation?.cancel();settle();}).observe(el);
+  settle();show(0);
 });
 document.querySelectorAll('[data-local-time]').forEach(el=>{el.textContent=new Intl.DateTimeFormat('en',{hour:'2-digit',minute:'2-digit',timeZone:'Asia/Shanghai'}).format(new Date());});

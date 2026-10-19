@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/28-optimize-flow-with-empowering-creators-to-realize-they-can-moneti.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "900px"
       }
     }
   ]

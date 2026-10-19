@@ -49,7 +49,8 @@
             "src": "/assets/images/fleet-ai/31-ai-generated-action-items-during-the-meetings.gif",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "768px"
           }
         }
       ]

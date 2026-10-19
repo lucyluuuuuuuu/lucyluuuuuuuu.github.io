@@ -15,7 +15,8 @@
             "src": "/assets/images/fleet-ai/25-sort-by-action-items-smart-search-and-sorting.gif",
             "alt": "",
             "fit": "cover",
-            "position": "50% 50%"
+            "position": "50% 50%",
+            "sizes": "367px"
           }
         }
       ]

@@ -45,7 +45,8 @@
         "src": "/assets/images/conch-ai/13-creators-struggle-to-complete-the-character-creation-users-stop-e.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "1240px"
       }
     }
   ]

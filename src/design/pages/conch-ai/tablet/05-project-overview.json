@@ -335,7 +335,8 @@
             "src": "/assets/images/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat.png",
             "alt": "",
             "fit": "fit",
-            "position": "center center"
+            "position": "center center",
+            "sizes": "690px"
           }
         }
       ]

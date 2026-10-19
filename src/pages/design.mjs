@@ -6,9 +6,9 @@ import { escapeHtml as e } from '../lib/html.mjs';
 // stored separately. No editor SDK, React runtime or remote asset is required.
 export async function designPage(id, { root, url, site, projects, pages }) {
   const json = async file => JSON.parse(await fs.readFile(path.join(root, file), 'utf8'));
-  const [manifest, copy, routeIds, anchors, menus, originalProjects] = await Promise.all([
+  const [manifest, copy, routeIds, anchors, menus, originalProjects, imageSources] = await Promise.all([
     json(`src/design/pages/${id}/index.json`), json('src/content/design-copy.json'),
-    json('src/design/routes.json'), json('src/design/anchors.json'), json('src/design/navigation-open.json'), json('src/design/project-defaults.json'),
+    json('src/design/routes.json'), json('src/design/anchors.json'), json('src/design/navigation-open.json'), json('src/design/project-defaults.json'), json('src/design/image-sources.json'),
   ]);
   const allPages = [...pages, ...projects], parts = new Map();
   const originalPaths = {'/':'home','/About-lucy-lu/':'about',...Object.fromEntries(originalProjects.map(p=>[p.path,p.id]))};
@@ -52,8 +52,9 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     return link;
   }
   const icons = {
-    EnvelopeSimple: '<rect x="3" y="5" width="18" height="14" rx="1"/><path d="m3 6 9 7 9-7"/>',
-    InstagramLogo: '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".5" fill="currentColor"/>',
+    // Original Phosphor regular outlines, scaled from their 256-unit viewBox.
+    EnvelopeSimple: '<path fill="currentColor" stroke="none" transform="scale(.09375)" d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"/>',
+    InstagramLogo: '<path fill="currentColor" stroke="none" transform="scale(.09375)" d="M128,80a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,80a32,32,0,1,1,32-32A32,32,0,0,1,128,160ZM176,24H80A56.06,56.06,0,0,0,24,80v96a56.06,56.06,0,0,0,56,56h96a56.06,56.06,0,0,0,56-56V80A56.06,56.06,0,0,0,176,24Zm40,152a40,40,0,0,1-40,40H80a40,40,0,0,1-40-40V80A40,40,0,0,1,80,40h96a40,40,0,0,1,40,40ZM192,76a12,12,0,1,1-12-12A12,12,0,0,1,192,76Z"/>',
     ArrowUpRight: '<path d="M5 19 19 5M5 5h14v14"/>',
     ArrowUp: '<path d="m5 10 7-7 7 7M12 3v18"/>',
   };
@@ -100,7 +101,12 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     let children = '';
     if(node.image) {
       className += ' design-image';
-      children = `<img src="${e(url(ctx.replacements?.[node.image.src] || node.image.src))}" alt="${e(node.image.alt)}" draggable="false" loading="${ctx.section < 3 ? 'eager' : 'lazy'}" decoding="async" style="object-fit:${e(node.image.fit)};object-position:${e(node.image.position)}">`;
+      const fit=node.image.fit==='fit'?'contain':node.image.fit;
+      const source=ctx.coverOverride || ctx.replacements?.[node.image.src] || node.image.src;
+      const variants=node.image.sizes&&imageSources[source];
+      const responsive=variants?` srcset="${e(variants.map(v=>`${url(v.src)} ${v.width}w`).join(','))}" sizes="${e(node.image.sizes||'100vw')}"`:'';
+      // Hidden responsive layouts must not fetch larger image variants.
+      children = `<img src="${e(url(source))}"${responsive} alt="${e(node.image.alt)}" draggable="false" loading="lazy" decoding="async" style="object-fit:${e(fit)};object-position:${e(node.image.position)}">`;
     } else if(node.svg) {
       className += ' design-svg';
       const svgIds = [...node.svg.matchAll(/\bid="([^"]+)"/g)].map(m => m[1]);
@@ -115,9 +121,21 @@ export async function designPage(id, { root, url, site, projects, pages }) {
       className += ` design-${m.kind}${vertical ? ' vertical' : ''}`;
       attributes += ` data-${m.kind}="${e(JSON.stringify(m))}"`;
       style['--track-gap'] = `${m.gap}px`; style.padding=`${m.padding}px`;
-      if(m.fade) style.maskImage=`linear-gradient(${vertical ? 'to bottom' : 'to right'},transparent,#000 ${m.fadeWidth}%,#000 ${100-m.fadeWidth}%,transparent)`;
+      if(m.fade) style.maskImage=`linear-gradient(${vertical ? 'to bottom' : 'to right'},transparent,#000 ${m.fadeWidth/2}%,#000 ${100-m.fadeWidth/2}%,transparent)`;
       if(m.kind==='ticker') children=`<div class="ticker-track"><div class="ticker-group">${await render(node.children,context)}</div></div>`;
-      else children=`<div class="slideshow-track">${await render(node.children,context)}</div><div class="slide-arrows"><button type="button" data-slide-prev aria-label="Previous slide">‹</button><button type="button" data-slide-next aria-label="Next slide">›</button></div><div class="slide-dots">${(node.children||[]).map((_,i)=>`<button type="button" data-slide-to="${i}" aria-label="Go to slide ${i+1}" aria-current="${i===0}"></button>`).join('')}</div>`;
+      else {
+        const a=m.arrows||{},d=m.dots||{};
+        Object.assign(style,{
+          '--slide-arrow-size':`${a.arrowSize??40}px`,'--slide-arrow-inset':`${a.arrowPadding??0}px`,
+          '--slide-arrow-radius':`${a.arrowRadius??40}px`,'--slide-arrow-fill':a.arrowFill||'rgba(41,41,42,.2)',
+          '--slide-dot-size':`${d.dotSize??10}px`,'--slide-dot-inset':`${d.dotsInset??10}px`,
+          '--slide-dot-gap':`${d.dotsGap??10}px`,'--slide-dot-padding':`${d.dotsPadding??10}px`,
+          '--slide-dot-radius':`${d.dotsRadius??50}px`,'--slide-dot-fill':d.dotsFill||'#fff',
+          '--slide-dot-background':d.dotsBackground||'rgba(41,41,42,.2)',
+          '--slide-dot-opacity':d.dotsOpacity??.5,'--slide-dot-active-opacity':d.dotsActiveOpacity??1,
+        });
+        children=`<div class="slideshow-viewport"><div class="slideshow-track">${await render(node.children,context)}</div></div><div class="slide-arrows"><button type="button" data-slide-prev aria-label="Previous slide"><img src="${e(url('/assets/icons/slide-previous.svg'))}" alt=""></button><button type="button" data-slide-next aria-label="Next slide"><img src="${e(url('/assets/icons/slide-next.svg'))}" alt=""></button></div><div class="slide-dots">${(node.children||[]).map((_,i)=>`<button type="button" data-slide-to="${i}" aria-label="Go to slide ${i+1}" aria-current="${i===0}"><span></span></button>`).join('')}</div>`;
+      }
     } else if(id==='home' && node.children?.length && node.children.every(n => n.link?.webPageId && originalProjects.some(p=>p.id===routeIds[n.link.webPageId]))) {
       const cards=[];
       for(const project of projects){
@@ -125,7 +143,10 @@ export async function designPage(id, { root, url, site, projects, pages }) {
         const original=originalProjects.find(p=>p.id===routeIds[row.link.webPageId]);
         const replacements=Object.fromEntries(['name','summary','status','cover'].map(key=>[original[key],project[key]]));
         original.tags.forEach((tag,i)=>{replacements[tag]=project.tags?.[i]||'';});
-        cards.push(await render({...row,cardDestination:url(project.path)}, {...context,replacements}));
+        // Some original mobile covers use separate artwork. A newly selected
+        // cover must replace those variants as well as the desktop image.
+        const coverOverride=project.cover!==original.cover?project.cover:undefined;
+        cards.push(await render({...row,cardDestination:url(project.path)}, {...context,replacements,coverOverride}));
       }
       children=cards.join('');
     } else children = await render(node.children, context);

@@ -99,7 +99,8 @@
                 "src": "/assets/images/fleet-ai/08-track-follow-up-action-items-and-set-soft-reminders.gif",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "354px"
               }
             }
           ]

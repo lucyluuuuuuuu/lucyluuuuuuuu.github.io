@@ -124,7 +124,8 @@
                     "src": "/assets/images/about/02-i-m-a-good-team-player.jpg",
                     "alt": "",
                     "fit": "cover",
-                    "position": "center top"
+                    "position": "center top",
+                    "sizes": "480px"
                   }
                 }
               ]
@@ -142,7 +143,8 @@
                     "src": "/assets/images/about/03-i-m-a-good-team-player.jpg",
                     "alt": "",
                     "fit": "cover",
-                    "position": "center bottom"
+                    "position": "center bottom",
+                    "sizes": "480px"
                   }
                 }
               ]
@@ -160,7 +162,8 @@
                     "src": "/assets/images/about/04-i-m-a-good-team-player.jpg",
                     "alt": "",
                     "fit": "cover",
-                    "position": "center top"
+                    "position": "center top",
+                    "sizes": "480px"
                   }
                 }
               ]
@@ -178,7 +181,8 @@
                     "src": "/assets/images/about/05-i-m-a-good-team-player.jpg",
                     "alt": "",
                     "fit": "cover",
-                    "position": "center top"
+                    "position": "center top",
+                    "sizes": "480px"
                   }
                 }
               ]

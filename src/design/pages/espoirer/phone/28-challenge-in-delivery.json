@@ -156,7 +156,8 @@
         "src": "/assets/images/espoirer/24-complex-urban-layouts-and-high-density-housing.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "342px"
       }
     }
   ],

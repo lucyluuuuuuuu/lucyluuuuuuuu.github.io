@@ -146,7 +146,8 @@
         "src": "/assets/images/fleet-ai/34-switch-between-different-views-tailored-for-various-roles-during.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ]

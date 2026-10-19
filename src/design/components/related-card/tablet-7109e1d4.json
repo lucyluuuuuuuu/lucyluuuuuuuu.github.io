@@ -36,7 +36,8 @@
             "src": "/assets/images/espoirer/01-project-cover.png",
             "alt": "",
             "fit": "cover",
-            "position": "center top"
+            "position": "center top",
+            "sizes": "280px"
           }
         }
       ]

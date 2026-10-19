@@ -195,7 +195,8 @@
             "src": "/assets/images/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories.png",
             "alt": "",
             "fit": "stretch",
-            "position": "center center"
+            "position": "center center",
+            "sizes": "152px"
           }
         },
         {

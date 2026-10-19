@@ -11,7 +11,8 @@
         "src": "/assets/images/fleet-ai/28-sort-by-projects-within-the-context-of-projects.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "343px"
       }
     }
   ]

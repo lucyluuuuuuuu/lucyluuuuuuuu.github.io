@@ -64,7 +64,8 @@
                 "src": "/assets/images/conch-ai/30-final-design-character-creation-process.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "1240px"
               }
             },
             {
@@ -75,7 +76,8 @@
                 "src": "/assets/images/conch-ai/31-final-design-character-creation-process.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "1240px"
               }
             },
             {
@@ -86,7 +88,8 @@
                 "src": "/assets/images/conch-ai/32-final-design-character-creation-process.png",
                 "alt": "",
                 "fit": "cover",
-                "position": "50% 50%"
+                "position": "50% 50%",
+                "sizes": "1240px"
               }
             }
           ]

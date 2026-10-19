@@ -246,7 +246,8 @@
         "src": "/assets/images/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
         "alt": "",
         "fit": "cover",
-        "position": "50% 50%"
+        "position": "50% 50%",
+        "sizes": "690px"
       }
     }
   ],

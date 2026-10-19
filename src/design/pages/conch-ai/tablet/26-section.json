@@ -61,7 +61,8 @@
                     "src": "/assets/images/conch-ai/20-multiple-iterations-based-on-stakeholder-review-sessions.png",
                     "alt": "",
                     "fit": "stretch",
-                    "position": "center center"
+                    "position": "center center",
+                    "sizes": "259px"
                   }
                 }
               ]
@@ -150,7 +151,8 @@
                         "src": "/assets/images/conch-ai/21-multiple-iterations-based-on-stakeholder-review-sessions.png",
                         "alt": "",
                         "fit": "stretch",
-                        "position": "center center"
+                        "position": "center center",
+                        "sizes": "167.5px"
                       }
                     },
                     {
@@ -161,7 +163,8 @@
                         "src": "/assets/images/conch-ai/22-multiple-iterations-based-on-stakeholder-review-sessions.png",
                         "alt": "",
                         "fit": "stretch",
-                        "position": "center center"
+                        "position": "center center",
+                        "sizes": "265.5px"
                       }
                     },
                     {

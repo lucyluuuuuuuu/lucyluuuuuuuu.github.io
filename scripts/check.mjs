@@ -18,8 +18,10 @@ for (const [file, html] of documents) {
   if ((html.match(/<h1[ >]/g) || []).length !== 1) errors.push(`${label}: expected one h1`);
   if (html.includes('<a>')) errors.push(`${label}: anchor without a destination`);
   if (/framerusercontent\.com|app\.framerstatic\.com|events\.framer\.com/.test(html)) errors.push(`${label}: still depends on Framer`);
-  for (const match of html.matchAll(/\b(?:href|src)="([^"]+)"/g)) {
-    const ref = match[1].replaceAll('&amp;', '&');
+  const references=[...html.matchAll(/\b(?:href|src)="([^"]+)"/g)].map(match=>match[1]);
+  for(const match of html.matchAll(/\bsrcset="([^"]+)"/g)) references.push(...match[1].split(',').map(candidate=>candidate.trim().split(/\s+/)[0]));
+  for (const reference of references) {
+    const ref = reference.replaceAll('&amp;', '&');
     if (!ref || /^(https?:|mailto:|tel:|data:|\/\/)/.test(ref)) continue;
     linkCount++;
     const currentRoute = '/' + path.relative(output, file).replaceAll(path.sep, '/');
