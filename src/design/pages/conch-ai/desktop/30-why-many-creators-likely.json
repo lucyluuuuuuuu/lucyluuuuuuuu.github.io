@@ -1,0 +1,679 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480598",
+  "label": "Frame 1707480598",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480526",
+      "label": "Frame 1707480526",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480067",
+          "label": "Frame 1707480067",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-3-792c",
+              "label": "Heading 3",
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__why-many-creators-likely-quitting",
+                  "label": "Why many creators likely quitting",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "why-many-creators-likely-773051"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--framer-text-color": "rgb(102, 130, 236)"
+                          },
+                          "children": [
+                            {
+                              "text": "quitting-f2fb57"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__the-creation-after-filling-out-the",
+                  "label": "the creation after filling out the",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--framer-text-color": "rgb(102, 130, 236)"
+                          },
+                          "children": [
+                            {
+                              "text": "the-creation-266e7b"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "after-filling-out-the-4fc66a"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__basic-information hidden-1ir4fay",
+                  "label": "basic information? ",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "basic-information-fa6fb5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-4-886a",
+              "label": "Heading 4",
+              "style": {
+                "transform": "translateY(-50%)"
+              },
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.2,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__layer-c591",
+                  "label": "“",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--framer-font-size": "60px"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "R0Y7UG9wcGlucy1yZWd1bGFy",
+                            "--framer-font-family": "\"Poppins\"",
+                            "--framer-font-size": "60px",
+                            "--framer-text-color": "rgba(102, 130, 236, 1)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-80c821"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-5-cb7f",
+              "label": "Heading 5",
+              "style": {
+                "transform": "translateY(-50%)"
+              },
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.2,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__too-many-questions-that-need-to-be",
+                  "label": "Too many questions that need to be",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "too-many-questions-that-need-to-be-6e3fae"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__answered-once-on-the-same-page",
+                  "label": "answered once on the same page!",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "answered-once-on-the-same-page-1598a6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-6 hidden-1ir4fay",
+              "label": "Heading 6",
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.4,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__layer-ec91",
+                  "label": "“",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--framer-font-size": "60px"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "R0Y7UG9wcGlucy1yZWd1bGFy",
+                            "--framer-font-family": "\"Poppins\"",
+                            "--framer-font-size": "60px",
+                            "--framer-text-color": "rgba(102, 130, 236, 1)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-80c821"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-7",
+              "label": "Heading 7",
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.4,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__the-creation-process-is-too-complicated",
+                  "label": "The creation process is too complicated.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "the-creation-process-is-too-complicated-15c3d9"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__i-don-t-know-how-it-seems-like-i-need-to",
+                  "label": "I don’t know how? It Seems like I need to",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-don-t-know-how-it-seems-like-i-need-to-8d0c5a"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__write-many-short-essays",
+                  "label": "write many short essays.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "write-many-short-essays-9d9076"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-1-0993 hidden-1ir4fay",
+              "label": "Heading 1",
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.6,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__layer-2556",
+                  "label": "“",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--framer-font-size": "60px"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "R0Y7UG9wcGlucy1yZWd1bGFy",
+                            "--framer-font-family": "\"Poppins\"",
+                            "--framer-font-size": "60px",
+                            "--framer-text-color": "rgba(102, 130, 236, 1)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-80c821"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-2",
+              "label": "Heading 2",
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "damping": 30,
+                    "delay": 0.6,
+                    "mass": 1,
+                    "stiffness": 400,
+                    "type": "spring"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__i-lost-my-input-content-after-accident",
+                  "label": "I lost my input content after accident",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-lost-my-input-content-after-accident-0dc425"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__drop-out-it-s-really-too-troublesome-to",
+                  "label": "drop out. It’s really too troublesome to",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "drop-out-it-s-really-too-troublesome-to-605c6d"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__fill-it-out-again",
+                  "label": "fill it out again.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgSXRhbGlj",
+                        "--framer-font-family": "\"Neue Montreal Italic\", \"Neue Montreal Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "fill-it-out-again-1b6ed8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__1bh4h3i",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__15inz3e",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__2024-04-08-11-31-43-2024-04-08-11-33-13",
+                      "label": "$2024_04_08_11_31_43_2024_04_08_11_33_13",
+                      "image": {
+                        "src": "/assets/images/conch-ai/23-53-bounce-rate-in-character-creation-process-due-to-the-overwhelm.gif",
+                        "alt": "",
+                        "fit": "cover",
+                        "position": "50% 50%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__what-was-it-like-before",
+                  "label": "What was it like before",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "what-was-it-like-before-494a63"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

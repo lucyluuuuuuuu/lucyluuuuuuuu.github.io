@@ -1,0 +1,133 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480623",
+  "label": "Frame 1707480623",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480315",
+      "label": "Frame 1707480315",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 30
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-4-20c3",
+          "label": "Heading 4",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__layer-45ac",
+              "label": "“",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "60px"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7UG9wcGlucy1yZWd1bGFy",
+                        "--framer-font-family": "\"Poppins\"",
+                        "--framer-font-size": "60px",
+                        "--framer-text-color": "rgba(102, 130, 236, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-80c821"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-5-096e",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__convenient-to-buy-tokens-but-watching-my-tokens-were-running-out-",
+              "label": "Convenient to buy tokens, but watching my tokens were running out with each message added stress, ruining the fun of the chat.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1pdGFsaWM=",
+                    "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                    "--framer-font-size": "14px",
+                    "--framer-font-style": "italic",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "convenient-to-buy-tokens-but-watching-my-tok-5db47b"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1pdGFsaWM=",
+                    "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                    "--framer-font-size": "14px",
+                    "--framer-font-style": "italic",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "ruining-the-fun-of-the-chat-21d1ea"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

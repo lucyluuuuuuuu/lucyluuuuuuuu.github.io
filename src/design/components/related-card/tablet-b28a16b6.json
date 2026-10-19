@@ -1,0 +1,133 @@
+{
+  "tag": "a",
+  "class": "related-card__root related-card__tablet-card-work related-card__variant-tablet related-card__tablet-card-work-3e3d",
+  "label": "Tablet",
+  "style": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 20,
+    "borderBottomRightRadius": 20,
+    "borderTopLeftRadius": 20,
+    "borderTopRightRadius": 20,
+    "height": "100%",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "related-card__10hkt3j",
+      "style": {
+        "borderBottomLeftRadius": 20,
+        "borderBottomRightRadius": 20,
+        "borderTopLeftRadius": 20,
+        "borderTopRightRadius": 20
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "related-card__image",
+          "label": "Image",
+          "style": {
+            "borderBottomLeftRadius": 20,
+            "borderBottomRightRadius": 20,
+            "borderTopLeftRadius": 20,
+            "borderTopRightRadius": 20
+          },
+          "image": {
+            "src": "/assets/images/conch-ai/01-project-cover.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "center top"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "related-card__text",
+      "label": "Text",
+      "style": {
+        "backgroundColor": "var(--token-77dfc939-fcb4-4afe-aa3a-8eac9edd37f6, rgb(255, 255, 255))"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "related-card__title",
+          "label": "Title",
+          "children": [
+            {
+              "tag": "div",
+              "class": "related-card__struktura",
+              "label": "Struktura",
+              "style": {
+                "--extracted-1lwpl3i": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                "--framer-paragraph-spacing": "0px"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "h5",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "20px",
+                    "--framer-letter-spacing": "-0.02em",
+                    "--framer-line-height": "150%",
+                    "--framer-text-alignment": "left",
+                    "--framer-text-color": "var(--extracted-1lwpl3i, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                  },
+                  "children": [
+                    {
+                      "text": "revamping-conch-ai-with-enhanced-emotional-co-789d7e"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "related-card__category",
+              "label": "Category",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "related-card__construction-company",
+                  "label": "Construction Company",
+                  "style": {
+                    "--extracted-r6o4lv": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                    "--framer-paragraph-spacing": "0px"
+                  },
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                      },
+                      "children": [
+                        {
+                          "text": "conch-ai-7bc5a8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": "/work/Conch.AI/",
+  "newTab": false,
+  "component": "related-card",
+  "project": "CONCH.AI"
+}

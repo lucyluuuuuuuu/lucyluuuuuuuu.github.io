@@ -1,0 +1,257 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__1lguisj",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__5lcowd",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__hjbxw3",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480684",
+              "label": "Frame 1707480684",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480101",
+                  "label": "Frame 1707480101",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__1-73de",
+                      "label": "1",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0.08px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "1-391552"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__switch-between-focusing-on-lists-of-action-items-and-detailed-con",
+              "label": "Switch between focusing on lists of action items and detailed contents of specific action items.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-letter-spacing": "-0.02em",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "switch-between-focusing-on-lists-of-action-it-b23737"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__7m92ls",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-930f",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-dc72",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-b0c1",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-63a6",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                        "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "130%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "present-the-f66dd7"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "main-meeting-content-5a0942"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "and-88734c"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "individual-action-items-side-by-side-d52ec0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-04be",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-ed0b",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-913e",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-799d",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "group-and-sort-action-items-logically-within-e1c02d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-70b7",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-de10",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-5e9b",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-ed42",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "group-and-sort-action-items-logically-within-e1c02d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

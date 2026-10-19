@@ -1,0 +1,9 @@
+{
+  "tag": "div",
+  "class": "about__1jgnmf2-container",
+  "children": [
+    {
+      "include": "contact/tablet-92acf5e0"
+    }
+  ]
+}

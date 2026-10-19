@@ -1,0 +1,57 @@
+{
+  "tag": "a",
+  "class": "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+  "label": "Variant 16",
+  "style": {
+    "--border-bottom-width": "1px",
+    "--border-color": "rgb(220, 224, 209)",
+    "--border-left-width": "1px",
+    "--border-right-width": "1px",
+    "--border-style": "solid",
+    "--border-top-width": "1px",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 100,
+    "borderBottomRightRadius": 100,
+    "borderTopLeftRadius": 100,
+    "borderTopRightRadius": 100
+  },
+  "hover": {
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  "border": true,
+  "children": [
+    {
+      "tag": "div",
+      "class": "button__placeholder",
+      "label": "Placeholder",
+      "style": {
+        "--extracted-r6o4lv": "rgb(17, 17, 18)"
+      },
+      "hover": {
+        "--extracted-r6o4lv": "rgb(255, 255, 255)"
+      },
+      "rich": true,
+      "align": "center",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+            "--framer-line-height": "150%",
+            "--framer-text-alignment": "left",
+            "--framer-text-color": "var(--extracted-r6o4lv, rgb(17, 17, 18))"
+          },
+          "children": [
+            {
+              "text": "see-my-resume-5011f1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+  "newTab": true,
+  "component": "button"
+}

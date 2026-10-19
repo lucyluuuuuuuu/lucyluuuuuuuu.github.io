@@ -1,0 +1,391 @@
+{
+  "tag": "div",
+  "class": "work-card__root work-card__card-work work-card__variant-phone",
+  "label": "Phone",
+  "style": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 20,
+    "borderBottomRightRadius": 20,
+    "borderTopLeftRadius": 20,
+    "borderTopRightRadius": 20,
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "work-card__content",
+      "label": "Content",
+      "children": [
+        {
+          "tag": "div",
+          "class": "work-card__content-5210",
+          "label": "Content",
+          "children": [
+            {
+              "tag": "div",
+              "class": "work-card__b5nvzu",
+              "style": {
+                "borderBottomLeftRadius": 20,
+                "borderBottomRightRadius": 20,
+                "borderTopLeftRadius": 20,
+                "borderTopRightRadius": 20
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "work-card__image",
+                  "label": "Image",
+                  "style": {
+                    "borderBottomLeftRadius": 8,
+                    "borderBottomRightRadius": 8,
+                    "borderTopLeftRadius": 8,
+                    "borderTopRightRadius": 8
+                  },
+                  "image": {
+                    "src": "/assets/images/conch-ai/01-project-cover.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "center top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "work-card__text",
+              "label": "Text",
+              "style": {
+                "backgroundColor": "var(--token-77dfc939-fcb4-4afe-aa3a-8eac9edd37f6, rgb(255, 255, 255))"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "work-card__title",
+                  "label": "Title",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "work-card__construction-company",
+                      "label": "Construction Company",
+                      "style": {
+                        "--extracted-r6o4lv": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+                      },
+                      "rich": true,
+                      "align": "top",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "14px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "var(--extracted-r6o4lv, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                          },
+                          "children": [
+                            {
+                              "text": "conch-ai-7bc5a8"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "work-card__struktura",
+                      "label": "Struktura",
+                      "style": {
+                        "--extracted-1lwpl3i": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                        "--extracted-1w1cjl5": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+                      },
+                      "rich": true,
+                      "align": "top",
+                      "children": [
+                        {
+                          "tag": "h6",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "20px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "var(--extracted-1w1cjl5, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                          },
+                          "children": [
+                            {
+                              "text": "revamping-conch-ai-with-emotional-connection-fc2d54"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "work-card__optional-tags",
+                  "label": "Optional Tags",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "work-card__qtckj0",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "work-card__tag",
+                          "label": "Tag",
+                          "style": {
+                            "backgroundColor": "var(--token-8d21ddd0-30c2-4d58-9cfe-c00e05cba876, rgb(242, 242, 242))",
+                            "borderBottomLeftRadius": 8,
+                            "borderBottomRightRadius": 8,
+                            "borderTopLeftRadius": 8,
+                            "borderTopRightRadius": 8
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "work-card__1y3yxsz",
+                              "style": {
+                                "--extracted-r6o4lv": "var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline"
+                              },
+                              "rich": true,
+                              "align": "top",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                    "--framer-font-size": "12px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-alignment": "left",
+                                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89)))"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "will-be-launched-in-q2-2024-c2bbcb"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "work-card__tag-dbcf",
+                          "label": "Tag",
+                          "style": {
+                            "backgroundColor": "var(--token-8d21ddd0-30c2-4d58-9cfe-c00e05cba876, rgb(242, 242, 242))",
+                            "borderBottomLeftRadius": 8,
+                            "borderBottomRightRadius": 8,
+                            "borderTopLeftRadius": 8,
+                            "borderTopRightRadius": 8
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "work-card__1t3a5hq",
+                              "style": {
+                                "--extracted-r6o4lv": "var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline"
+                              },
+                              "rich": true,
+                              "align": "top",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                    "--framer-font-size": "12px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-alignment": "left",
+                                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89)))"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "ai-llm-c2d0e0"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "work-card__1dxycj5",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "work-card__tag-3eb5",
+                          "label": "Tag",
+                          "style": {
+                            "backgroundColor": "var(--token-8d21ddd0-30c2-4d58-9cfe-c00e05cba876, rgb(242, 242, 242))",
+                            "borderBottomLeftRadius": 8,
+                            "borderBottomRightRadius": 8,
+                            "borderTopLeftRadius": 8,
+                            "borderTopRightRadius": 8
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "work-card__1m4dyom",
+                              "style": {
+                                "--extracted-r6o4lv": "var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline"
+                              },
+                              "rich": true,
+                              "align": "top",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                    "--framer-font-size": "12px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-alignment": "left",
+                                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89)))"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "b2c-1350ee"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "work-card__tag-071f",
+                          "label": "Tag",
+                          "style": {
+                            "backgroundColor": "var(--token-8d21ddd0-30c2-4d58-9cfe-c00e05cba876, rgb(242, 242, 242))",
+                            "borderBottomLeftRadius": 8,
+                            "borderBottomRightRadius": 8,
+                            "borderTopLeftRadius": 8,
+                            "borderTopRightRadius": 8
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "work-card__11tb5fa",
+                              "style": {
+                                "--extracted-r6o4lv": "var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline"
+                              },
+                              "rich": true,
+                              "align": "top",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                    "--framer-font-size": "12px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-alignment": "left",
+                                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89)))"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "redesign-f75c47"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "work-card__tag-9374",
+                          "label": "Tag",
+                          "style": {
+                            "backgroundColor": "var(--token-8d21ddd0-30c2-4d58-9cfe-c00e05cba876, rgb(242, 242, 242))",
+                            "borderBottomLeftRadius": 8,
+                            "borderBottomRightRadius": 8,
+                            "borderTopLeftRadius": 8,
+                            "borderTopRightRadius": 8
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "work-card__ty73wk",
+                              "style": {
+                                "--extracted-r6o4lv": "var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline"
+                              },
+                              "rich": true,
+                              "align": "top",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                    "--framer-font-size": "12px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-alignment": "left",
+                                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-0f0ae4b9-e928-41c5-b457-bbd33ae176d3, rgb(89, 89, 89)))"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "motion-design-9d1109"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "class": "work-card__button work-card__button-dff2",
+          "label": "Button",
+          "children": [
+            {
+              "tag": "div",
+              "class": "work-card__1042hl0-container",
+              "children": [
+                {
+                  "include": "button/phone-7341859a"
+                }
+              ]
+            }
+          ],
+          "link": null,
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "component": "work-card",
+  "project": "CONCH.AI"
+}

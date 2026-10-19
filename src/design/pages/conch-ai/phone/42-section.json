@@ -1,0 +1,55 @@
+{
+  "tag": "div",
+  "class": "conch-ai__ob5a3v",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480381",
+      "label": "Frame 1707480381",
+      "border": true,
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479624-c6e1",
+          "label": "Frame 1707479624",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707479588-26a2",
+              "label": "Frame 1707479588",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__final-design-character-creation-process",
+                  "label": "Final Design - Character Creation process",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-line-height": "200%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(102, 130, 236)"
+                      },
+                      "children": [
+                        {
+                          "text": "final-design-character-creation-process-2345c1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "final-design-character-creation-process"
+  ]
+}

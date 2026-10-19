@@ -1,0 +1,228 @@
+{
+  "tag": "div",
+  "class": "home__section-5-works",
+  "label": "Section 5 - Works",
+  "anchor": "works",
+  "children": [
+    {
+      "tag": "div",
+      "class": "home__selected-works",
+      "label": "Selected works",
+      "rich": true,
+      "align": "top",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--framer-font-size": "24px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "left",
+            "--framer-text-color": "rgb(17, 17, 17)"
+          },
+          "children": [
+            {
+              "text": "selected-works-7f26f4"
+            },
+            {
+              "tag": "span",
+              "style": {
+                "--framer-letter-spacing": "-0.04em"
+              },
+              "children": [
+                {
+                  "text": "layer-521093"
+                }
+              ]
+            },
+            {
+              "tag": "span",
+              "style": {
+                "--font-selector": "SW50ZXItTWVkaXVt",
+                "--framer-font-family": "\"Inter\", \"Inter Placeholder\", sans-serif",
+                "--framer-font-weight": "500",
+                "--framer-text-color": "rgb(31, 39, 27)"
+              },
+              "children": [
+                {
+                  "text": "layer-2528b8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home__container-dea0",
+      "label": "Container",
+      "children": [
+        {
+          "tag": "div",
+          "class": "home__row home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__1heycwl-container",
+              "children": [
+                {
+                  "include": "work-card/desktop-e957cc5d"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "U1cJqybpf"
+          },
+          "newTab": false
+        },
+        {
+          "tag": "div",
+          "class": "home__row-1022 home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__bz50wz-container",
+              "children": [
+                {
+                  "include": "work-card/desktop-d4a3aa14"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "i8Gkkkz1B"
+          },
+          "newTab": false
+        },
+        {
+          "tag": "div",
+          "class": "home__row-3f35 home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__1xjvnqw-container",
+              "children": [
+                {
+                  "include": "work-card/desktop-01fba036"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "po8hl0KmD"
+          },
+          "newTab": false
+        }
+      ]
+    }
+  ]
+}

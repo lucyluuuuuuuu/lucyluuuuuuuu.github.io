@@ -1,0 +1,87 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480597-baba",
+  "label": "Frame 1707480597",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479634-4b94",
+      "label": "Frame 1707479634",
+      "border": true,
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479624-3d36",
+          "label": "Frame 1707479624",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707479588-e2ba",
+              "label": "Frame 1707479588",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-5-486e",
+                  "label": "Heading 5",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__creator-facing-design-challenge-1-c884",
+                      "label": "🔘 Creator-facing: Design challenge 1",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(102, 130, 236)"
+                          },
+                          "children": [
+                            {
+                              "text": "user-facing-design-challenge-1-aaf585"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__hmw-deliver-a-seamless-journey-for-creators-to-create-distinct-an-ef59",
+                  "label": "HMW deliver a seamless journey for creators to create distinct and vivid AI characters?",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "28px",
+                        "--framer-line-height": "200%",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "hmw-onboard-new-users-and-existing-users-in-s-fd8c03"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "user-facing-design-challenge-1"
+  ]
+}

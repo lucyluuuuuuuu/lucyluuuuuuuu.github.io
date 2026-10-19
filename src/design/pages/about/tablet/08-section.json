@@ -1,0 +1,130 @@
+{
+  "tag": "div",
+  "class": "about__1r5eonq hidden-1ynaae3 hidden-11psh2w",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__j7jbqr-container",
+      "children": [
+        {
+          "tag": "div",
+          "style": {
+            "height": "100%",
+            "width": "100%"
+          },
+          "motion": {
+            "kind": "ticker",
+            "direction": "left",
+            "gap": 10,
+            "speed": 100,
+            "padding": 10,
+            "fade": true,
+            "fadeWidth": 25,
+            "alignment": "center"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__4-affe",
+              "label": "$4",
+              "image": {
+                "src": "/assets/images/about/14-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__3-55bb",
+              "label": "$3",
+              "image": {
+                "src": "/assets/images/about/15-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__9-2995",
+              "label": "$9",
+              "image": {
+                "src": "/assets/images/about/16-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__b2-2823",
+              "label": "b2",
+              "image": {
+                "src": "/assets/images/about/19-i-m-a-visual-storyteller.jpg",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__2-9e47",
+              "label": "$2",
+              "image": {
+                "src": "/assets/images/about/18-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__b3-8725",
+              "label": "b3",
+              "image": {
+                "src": "/assets/images/about/21-i-m-a-visual-storyteller.jpg",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__b1-aac4",
+              "label": "b1",
+              "image": {
+                "src": "/assets/images/about/20-i-m-a-visual-storyteller.jpg",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__7-bcd0",
+              "label": "$7",
+              "image": {
+                "src": "/assets/images/about/17-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "about__8-5df6",
+              "label": "$8",
+              "image": {
+                "src": "/assets/images/about/22-i-m-a-visual-storyteller.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

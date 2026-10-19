@@ -1,0 +1,413 @@
+{
+  "tablet": {
+    "tag": "div",
+    "class": "navigation__root navigation__desktop navigation__variant-tablet-open",
+    "label": "Tablet - Open",
+    "style": {
+      "backgroundColor": "rgb(18, 18, 18)",
+      "width": "100%"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "class": "navigation__container-responsive",
+        "label": "Container - Responsive",
+        "children": [
+          {
+            "tag": "div",
+            "class": "navigation__846vcz",
+            "children": [
+              {
+                "tag": "div",
+                "class": "navigation__icon",
+                "label": "Icon",
+                "action": "close-menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__bottom",
+                    "label": "Bottom",
+                    "style": {
+                      "backgroundColor": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                      "borderBottomLeftRadius": 10,
+                      "borderBottomRightRadius": 10,
+                      "borderTopLeftRadius": 10,
+                      "borderTopRightRadius": 10,
+                      "rotate": -45
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__top",
+                    "label": "Top",
+                    "style": {
+                      "backgroundColor": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                      "borderBottomLeftRadius": 10,
+                      "borderBottomRightRadius": 10,
+                      "borderTopLeftRadius": 10,
+                      "borderTopRightRadius": 10,
+                      "rotate": 45
+                    }
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__1u93b7b-container",
+                "children": [
+                  {
+                    "include": "logo/tablet-ff2a4511"
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__ls5ov9",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-151c",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "class": "navigation__menu-8819",
+                        "label": "Menu",
+                        "children": [
+                          {
+                            "include": "menu-item/tablet-4bae9bb9"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-60cb",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "class": "navigation__menu-f76f",
+                        "label": "Menu",
+                        "children": [
+                          {
+                            "include": "menu-item/tablet-4495d40a"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-c8e5",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "class": "navigation__menu-01d7",
+                        "label": "Menu",
+                        "children": [
+                          {
+                            "include": "menu-item/tablet-06762485"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "a",
+                    "class": "navigation__menu-3f41 navigation__menu-6202",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "class": "navigation__menu-b136",
+                        "label": "Menu",
+                        "children": [
+                          {
+                            "include": "menu-item/tablet-060967f7"
+                          }
+                        ]
+                      }
+                    ],
+                    "newTab": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "class": "navigation__menus-c651",
+            "label": "Menus",
+            "children": [
+              {
+                "tag": "div",
+                "class": "navigation__menu-babb",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-bd67",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/tablet-e5c0ab19"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__menu-281d",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-a660",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/tablet-c50f598e"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__menu-3294",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-c08d",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/tablet-6f9e0266"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__time",
+                "label": "Time",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__jakarta-indonesia",
+                    "label": "Jakarta, Indonesia",
+                    "style": {
+                      "--extracted-r6o4lv": "rgb(127, 127, 127)"
+                    },
+                    "rich": true,
+                    "align": "center",
+                    "children": [
+                      {
+                        "tag": "p",
+                        "style": {
+                          "--framer-font-size": "14px",
+                          "--framer-line-height": "160%",
+                          "--framer-text-color": "var(--extracted-r6o4lv, rgb(127, 127, 127))"
+                        },
+                        "children": [
+                          {
+                            "text": "hi-there-i-m-lucy-lu-e1befb"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__10chz3c-container",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "clock": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "phone": {
+    "tag": "div",
+    "class": "navigation__root navigation__desktop navigation__variant-phone-open",
+    "label": "Phone - Open",
+    "style": {
+      "backgroundColor": "rgb(18, 18, 18)",
+      "width": "100%"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "class": "navigation__container-responsive",
+        "label": "Container - Responsive",
+        "children": [
+          {
+            "tag": "div",
+            "class": "navigation__846vcz",
+            "children": [
+              {
+                "tag": "div",
+                "class": "navigation__icon",
+                "label": "Icon",
+                "action": "close-menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__bottom",
+                    "label": "Bottom",
+                    "style": {
+                      "backgroundColor": "rgb(153, 153, 153)",
+                      "borderBottomLeftRadius": 10,
+                      "borderBottomRightRadius": 10,
+                      "borderTopLeftRadius": 10,
+                      "borderTopRightRadius": 10,
+                      "rotate": -45
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__top",
+                    "label": "Top",
+                    "style": {
+                      "backgroundColor": "rgb(153, 153, 153)",
+                      "borderBottomLeftRadius": 10,
+                      "borderBottomRightRadius": 10,
+                      "borderTopLeftRadius": 10,
+                      "borderTopRightRadius": 10,
+                      "rotate": 45
+                    }
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__1u93b7b-container",
+                "children": [
+                  {
+                    "include": "logo/phone-ff2a4511"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "class": "navigation__menus-c651",
+            "label": "Menus",
+            "children": [
+              {
+                "tag": "div",
+                "class": "navigation__menu-bf41",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-6d28",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/phone-4bae9bb9"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "class": "navigation__menu-3294",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-c08d",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/phone-dfa2f3ab"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "a",
+                "class": "navigation__menu-caf3 navigation__menu-6202",
+                "label": "Menu",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__menu-670c",
+                    "label": "Menu",
+                    "children": [
+                      {
+                        "include": "menu-item/phone-310320c1"
+                      }
+                    ]
+                  }
+                ],
+                "link": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+                "newTab": true
+              },
+              {
+                "tag": "div",
+                "class": "navigation__time",
+                "label": "Time",
+                "children": [
+                  {
+                    "tag": "div",
+                    "class": "navigation__jakarta-indonesia",
+                    "label": "Jakarta, Indonesia",
+                    "style": {
+                      "--extracted-r6o4lv": "rgb(127, 127, 127)"
+                    },
+                    "rich": true,
+                    "align": "center",
+                    "children": [
+                      {
+                        "tag": "p",
+                        "style": {
+                          "--framer-font-size": "14px",
+                          "--framer-line-height": "160%",
+                          "--framer-text-color": "var(--extracted-r6o4lv, rgb(127, 127, 127))"
+                        },
+                        "children": [
+                          {
+                            "text": "hi-there-i-m-lucy-lu-e1befb"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "class": "navigation__10chz3c-container",
+                    "children": [
+                      {
+                        "tag": "div",
+                        "clock": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__project-statement-6035",
+  "label": "Project Statement",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707479588-1ee2",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__heading-5-1ae3",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__problem-statement-67dd",
+              "label": "ℹ️ Problem statement",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "solution-3-f70948"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__low-user-engagement-and-decreasing-profitability-1acc",
+          "label": "Low user engagement and decreasing profitability",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "28px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "switch-between-different-views-tailored-for-v-8effb9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-6f89",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__g7wxsw",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-6754",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "pain-points-solved-d964b1"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-dc359b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__1xqbr0y",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480586-6af7",
+                  "label": "Frame 1707480586",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480585-0c13",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__rectangle-3463367-d970",
+                          "label": "Rectangle 3463367",
+                          "style": {
+                            "transform": "translate(-50%, -50%)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__link-drayeasy-inc-04f5",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(177, 177, 177)"
+                          },
+                          "children": [
+                            {
+                              "text": "users-need-to-combine-their-notes-with-ai-not-152b95"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

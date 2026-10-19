@@ -1,0 +1,13 @@
+/* Original contact layout, responsive variants and hover states. */
+@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }
+.contact__root.framer-bk5qww, .contact__root .framer-bk5qww { display: block; }
+.contact__root.contact__desktop { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: flex-start; overflow: visible; padding: 70px 120px 70px 120px; position: relative; width: 1200px; }
+.contact__root .contact__container { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; max-width: 1080px; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.contact__root .contact__headline { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.contact__root .contact__have-a-project, .contact__root .contact__let-s-talk-with-me { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }
+.contact__root .contact__action { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }
+.contact__root .contact__449829-container { flex: none; height: auto; position: relative; width: auto; }
+.contact__root .contact__time { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }
+.contact__root .contact__my-local-time { flex: none; height: auto; position: relative; white-space: pre; width: auto; }
+
+.contact__root.contact__variant-phone.contact__desktop { padding: 60px 20px 60px 20px; width: 390px; }

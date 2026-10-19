@@ -1,0 +1,1002 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-1825",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-49f5",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-47b2",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-068e",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 78, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "final-design-scan-to-task-process-8e5daf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__creators-struggle-to-complete-the-character-creation-users-stop-e-fe93",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "36px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "automated-scanning-for-package-entry-and-pers-305947"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480632",
+      "label": "Frame 1707480632",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480459",
+          "label": "Frame 1707480459",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__div-reaction-fd-content-wrap-copy-margin-426b",
+              "label": "div.reaction-fd-content-wrap-copy:margin",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__new22222222-1",
+                  "label": "new22222222 1",
+                  "style": {
+                    "transformPerspective": 1200,
+                    "transform": "translateY(-50%)"
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "image": {
+                    "src": "/assets/images/espoirer/07-scan-to-enroll-packages.gif",
+                    "alt": "",
+                    "fit": "stretch",
+                    "position": "center center"
+                  }
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-reaction-fd-content-wrap-copy-5da3",
+                  "label": "div.reaction-fd-content-wrap-copy",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480039-152b",
+                      "label": "Frame 1707480039",
+                      "style": {
+                        "transformPerspective": 1200,
+                        "transform": "translateY(-50%)"
+                      },
+                      "appear": {
+                        "from": {
+                          "opacity": 0,
+                          "rotate": 0,
+                          "rotateX": 0,
+                          "rotateY": 0,
+                          "scale": 1,
+                          "skewX": 0,
+                          "skewY": 0,
+                          "transformPerspective": 1200,
+                          "x": 0,
+                          "y": 20
+                        },
+                        "to": {
+                          "transition": {
+                            "delay": 0,
+                            "duration": 0.5,
+                            "ease": [
+                              0.44,
+                              0,
+                              0.56,
+                              1
+                            ],
+                            "type": "tween"
+                          },
+                          "opacity": 1,
+                          "x": 0,
+                          "y": 0,
+                          "scale": 1
+                        },
+                        "once": true
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480038-669d",
+                          "label": "Frame 1707480038",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__heading-3-a4e6",
+                              "label": "Heading 3",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__scanning-for-package-entry-and-status-update",
+                                  "label": "Scanning for package entry and status update",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-font-size": "20px",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "40px",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "scanning-for-package-entry-and-status-update-339c7d"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__sveevw",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-c715",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-5f8c",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "displaying-a-clear-package-quantity-count-c622ac"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__de24u4",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-7c22",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-a085",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-f986",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-7514",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "package-status-change-visibility-with-distinc-506e82"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__h7vqyn",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-0361",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-afba",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-e16b",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-4485",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "simplifying-card-design-by-focusing-on-the-mo-1882fd"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480632-8848",
+      "label": "Frame 1707480632",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480459-138b",
+          "label": "Frame 1707480459",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__div-reaction-fd-content-wrap-copy-margin-1a3d",
+              "label": "div.reaction-fd-content-wrap-copy:margin",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__new22222222-1-98c6",
+                  "label": "new22222222 1",
+                  "style": {
+                    "transformPerspective": 1200,
+                    "transform": "translateY(-50%)"
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "image": {
+                    "src": "/assets/images/espoirer/10-scan-to-enroll-packages.gif",
+                    "alt": "",
+                    "fit": "stretch",
+                    "position": "center center"
+                  }
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-reaction-fd-content-wrap-copy-1fda",
+                  "label": "div.reaction-fd-content-wrap-copy",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480039-f17b",
+                      "label": "Frame 1707480039",
+                      "style": {
+                        "transformPerspective": 1200,
+                        "transform": "translateY(-50%)"
+                      },
+                      "appear": {
+                        "from": {
+                          "opacity": 0,
+                          "rotate": 0,
+                          "rotateX": 0,
+                          "rotateY": 0,
+                          "scale": 1,
+                          "skewX": 0,
+                          "skewY": 0,
+                          "transformPerspective": 1200,
+                          "x": 0,
+                          "y": 20
+                        },
+                        "to": {
+                          "transition": {
+                            "delay": 0,
+                            "duration": 0.5,
+                            "ease": [
+                              0.44,
+                              0,
+                              0.56,
+                              1
+                            ],
+                            "type": "tween"
+                          },
+                          "opacity": 1,
+                          "x": 0,
+                          "y": 0,
+                          "scale": 1
+                        },
+                        "once": true
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480038-e17a",
+                          "label": "Frame 1707480038",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__heading-3-fb4a",
+                              "label": "Heading 3",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__scanning-for-package-entry-and-status-update-758a",
+                                  "label": "Scanning for package entry and status update",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-font-size": "20px",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "40px",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "manually-change-the-order-while-scanning-exp-e3f7bb"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__1c0xwt5",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-6bec",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-0079",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-dafa",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-523e",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "slide-up-the-bottom-sheet-to-access-movable-o-e8a3b8"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__zrjpw1",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-e409",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-a0c6",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-752e",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-990e",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "slide-down-the-bottom-sheet-returns-it-to-the-b240fd"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480632-f8f7",
+      "label": "Frame 1707480632",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480459-6a1d",
+          "label": "Frame 1707480459",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__div-reaction-fd-content-wrap-copy-margin-b70b",
+              "label": "div.reaction-fd-content-wrap-copy:margin",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__new22222222-1-6c32",
+                  "label": "new22222222 1",
+                  "style": {
+                    "transformPerspective": 1200,
+                    "transform": "translateY(-50%)"
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "image": {
+                    "src": "/assets/images/espoirer/09-scan-to-enroll-packages.gif",
+                    "alt": "",
+                    "fit": "stretch",
+                    "position": "center center"
+                  }
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-reaction-fd-content-wrap-copy-54c2",
+                  "label": "div.reaction-fd-content-wrap-copy",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480039-41ba",
+                      "label": "Frame 1707480039",
+                      "style": {
+                        "transformPerspective": 1200,
+                        "transform": "translateY(-50%)"
+                      },
+                      "appear": {
+                        "from": {
+                          "opacity": 0,
+                          "rotate": 0,
+                          "rotateX": 0,
+                          "rotateY": 0,
+                          "scale": 1,
+                          "skewX": 0,
+                          "skewY": 0,
+                          "transformPerspective": 1200,
+                          "x": 0,
+                          "y": 20
+                        },
+                        "to": {
+                          "transition": {
+                            "delay": 0,
+                            "duration": 0.5,
+                            "ease": [
+                              0.44,
+                              0,
+                              0.56,
+                              1
+                            ],
+                            "type": "tween"
+                          },
+                          "opacity": 1,
+                          "x": 0,
+                          "y": 0,
+                          "scale": 1
+                        },
+                        "once": true
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480038-3c3e",
+                          "label": "Frame 1707480038",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__heading-3-63d9",
+                              "label": "Heading 3",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__scanning-for-package-entry-and-status-update-2c25",
+                                  "label": "Scanning for package entry and status update",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-font-size": "20px",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "40px",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "slide-to-start-task-af1d80"
+                                        },
+                                        {
+                                          "tag": "br"
+                                        },
+                                        {
+                                          "text": "optimize-route-new-drivers-bd1d27"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__qrt9r",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-f7a3",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-89a5",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-a0b6",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-3db2",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "slide-to-start-task-button-to-prevent-acciden-2a1225"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__hnvnxv",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-e7dd",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-50f2",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-e0a3",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-9cfd",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "provide-new-drivers-with-smart-planning-for-d-f394fc"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__16dnmog",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__frame-1707480585-3d9d",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__rectangle-3463367-74b4",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__p-paragraph-light-ef99",
+                              "label": "p.paragraph-light",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__displaying-a-clear-package-quantity-count-ee32",
+                                  "label": "Displaying a clear package quantity count",
+                                  "rich": true,
+                                  "align": "center",
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-letter-spacing": "0.4px",
+                                        "--framer-line-height": "150%",
+                                        "--framer-text-color": "rgb(177, 177, 177)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "allows-experienced-drivers-to-skip-optimized-2615f2"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "final-design-scan-to-task-process",
+    "scanning-for-package-entry-and-status-update",
+    "manually-change-the-order-while-scanning-experienced-drivers",
+    "slide-to-start-task-optimize-route-new-drivers"
+  ]
+}

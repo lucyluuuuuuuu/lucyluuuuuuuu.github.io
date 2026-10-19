@@ -1,0 +1,58 @@
+{
+  "tag": "div",
+  "class": "conch-ai__1d3ogdr hidden-1ir4fay",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__7h6urt",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 80
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480593-1",
+          "label": "Frame 1707480593 1",
+          "image": {
+            "src": "/assets/images/conch-ai/19-evaluate-the-list-with-pm-and-em-regarding-of-the-visibility-and.png",
+            "alt": "",
+            "fit": "fit",
+            "position": "center center"
+          }
+        }
+      ]
+    }
+  ]
+}

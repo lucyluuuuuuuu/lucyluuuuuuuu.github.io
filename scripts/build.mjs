@@ -6,6 +6,7 @@ import { homePage } from '../src/pages/home.mjs';
 import { aboutPage } from '../src/pages/about.mjs';
 import { projectPage } from '../src/pages/project.mjs';
 import { contentPage } from '../src/pages/content.mjs';
+import { designPage } from '../src/pages/design.mjs';
 import { makeUrl, escapeHtml } from '../src/lib/html.mjs';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -47,6 +48,11 @@ export async function build() {
   await fs.cp(path.join(root, 'public'), output, { recursive: true });
   await fs.copyFile(path.join(root, 'src/styles/site.css'), path.join(output, 'assets/site.css'));
   await fs.copyFile(path.join(root, 'src/scripts/site.js'), path.join(output, 'assets/site.js'));
+  await fs.cp(path.join(root, 'src/styles/design'), path.join(output, 'assets/design'), {recursive:true});
+  await fs.copyFile(path.join(root, 'src/styles/design.css'), path.join(output, 'assets/design.css'));
+  await fs.copyFile(path.join(root, 'src/scripts/design.js'), path.join(output, 'assets/design.js'));
+  const hasDesign = async id => fs.access(path.join(root, `src/design/pages/${id}/index.json`)).then(()=>true,()=>false);
+  const renderDesign = id => designPage(id, {root,url,site,projects,pages:generalPages});
   const pages = [];
   async function writePage(route, options) {
     const filename = route === '/404.html' ? '404.html' : `${route.slice(1)}index.html`;
@@ -57,13 +63,18 @@ export async function build() {
   }
   for (const page of generalPages) {
     let body;
-    if (page.template === 'home') body = homePage(await json('src/content/home.json'), projects, site, url);
+    const restored = await hasDesign(page.id);
+    if (restored) body = await renderDesign(page.id);
+    else if (page.template === 'home') body = homePage(await json('src/content/home.json'), projects, site, url);
     else if (page.template === 'about') body = aboutPage(await sectionsFor(page.id), site, url);
     else if (page.template === 'content') body = contentPage(page, await sectionsFor(page.id), url);
     else throw new Error(`Unknown page template: ${page.template}`);
-    await writePage(page.path, { title: page.title || site.title, description: page.description || site.description, kind: page.template, body, image: page.template === 'home' ? projects[0]?.cover : undefined });
+    await writePage(page.path, { title: page.title || site.title, description: page.description || site.description, kind: page.template, body, restored, image: page.template === 'home' ? projects[0]?.cover : undefined });
   }
-  for (const project of projects) await writePage(project.path, { title: `${project.name} — ${site.name}`, description: project.summary, kind: 'project', image: project.cover, body: projectPage(project, await sectionsFor(project.id), projects, url) });
+  for (const project of projects) {
+    const restored = await hasDesign(project.id);
+    await writePage(project.path, { title: `${project.name} — ${site.name}`, description: project.summary, kind: 'project', image: project.cover, restored, body: restored ? await renderDesign(project.id) : projectPage(project, await sectionsFor(project.id), projects, url) });
+  }
   await writePage('/404.html', { title: `Page not found — ${site.name}`, description: 'This page is no longer available.', body: `<section class="not-found"><p class="eyebrow">404</p><h1>Let's find your way back.</h1><p>This page may have moved. Explore the selected work or get in touch.</p><a class="button" href="${url('/#works')}">View selected work →</a></section>` });
   await fs.writeFile(path.join(output, '.nojekyll'), '');
   await fs.writeFile(path.join(output, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${pages.filter(p => p !== '/404.html').map(p => `<url><loc>${escapeHtml(site.url + p)}</loc></url>`).join('')}</urlset>`);

@@ -1,0 +1,313 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-58e5",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707480716",
+      "label": "Frame 1707480716",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480715",
+          "label": "Frame 1707480715",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707479589-7ab5",
+              "label": "Frame 1707479589",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707479588-c0dc",
+                  "label": "Frame 1707479588",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__heading-5-11df",
+                      "label": "Heading 5",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__user-research",
+                          "label": "🗣 User Research",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                                "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                                "--framer-font-size": "12px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(24, 195, 171)"
+                              },
+                              "children": [
+                                {
+                                  "tag": "span",
+                                  "style": {
+                                    "--framer-text-color": "rgb(217, 79, 119)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-e290c4"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "span",
+                                  "style": {
+                                    "--framer-text-color": "rgb(23, 199, 174)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-521093"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "text": "user-research-b31597"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__users-struggle-with-action-item-management-and-question-ai-note-t",
+                      "label": "Users struggle with action item management and question AI note-taking accuracy.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(26, 28, 31)"
+                          },
+                          "children": [
+                            {
+                              "text": "users-struggle-with-action-item-management-an-8b07ee"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__sheet1-2",
+                      "label": "Sheet1 2",
+                      "image": {
+                        "src": "/assets/images/fleet-ai/09-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+                        "alt": "",
+                        "fit": "stretch",
+                        "position": "center center"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__div-text-block-7-a727",
+                  "label": "div.text-block-7",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__link-drayeasy-inc-b4ca",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "i-interviewed-220982"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "12-people-4e89e2"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "from-different-industries-who-frequently-tak-d783d2"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                            "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "tag": "br",
+                              "class": "trailing-break"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "and-i-constructed-5f0a25"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "20-interview-questions-f15fa8"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "about-their-journey-and-experience-before-du-130cb4"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                            "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "tag": "br",
+                              "class": "trailing-break"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "the-goal-is-to-find-common-pain-points-that-l-cee2d1"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__168tvsc",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-dd85",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-alignment": "center",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "class": "fleet-ai__styles-preset-jlbh0g",
+                      "children": [
+                        {
+                          "text": "see-detailed-interview-data-7942fe"
+                        }
+                      ],
+                      "link": "https://wwg57j84so2.feishu.cn/sheets/EYFwsMPn8hWe6btYSZXc6nC8nzh",
+                      "newTab": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__66",
+      "label": "$66",
+      "image": {
+        "src": "/assets/images/fleet-ai/10-users-struggle-with-action-item-management-and-question-ai-note-t.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ],
+  "aliases": [
+    "user-research"
+  ]
+}

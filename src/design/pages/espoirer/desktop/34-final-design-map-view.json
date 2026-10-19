@@ -1,0 +1,257 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-7c02",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-27cb",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-0930",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-0f5d",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 78, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "final-design-map-view-31f75b"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__creators-struggle-to-complete-the-character-creation-users-stop-e-8099",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "36px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "customized-map-view-for-enhanced-delivery-tas-be58b5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-9c99",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1pt3vnb",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-0468",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "i-also-87d738"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "customized-the-map-view-to-align-with-the-tas-a92572"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "providing-a-comprehensive-package-distributi-ff2a25"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "deliveries-in-a-local-area-can-be-easily-trac-ded3da"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "keeping-consistency-with-the-list-view-makes-58a3be"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480628",
+      "label": "Frame_1707480628",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 80
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "image": {
+        "src": "/assets/images/espoirer/29-customized-map-view-for-enhanced-delivery-task-management-and-eff.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ],
+  "aliases": [
+    "final-design-map-view"
+  ]
+}

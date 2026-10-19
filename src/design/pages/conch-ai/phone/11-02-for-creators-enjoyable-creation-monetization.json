@@ -1,0 +1,38 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479590",
+  "label": "Frame 1707479590",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-cba4",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__for-creators-enjoyable-creation-monetization",
+          "label": "For Creators - Enjoyable creation & Monetization",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "02-for-creators-enjoyable-creation-moneti-cb98d2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

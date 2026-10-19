@@ -1,0 +1,103 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-8c01",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-f7b1",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__bdtlej",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-be37",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "text": "by-mapping-out-the-interaction-points-through-c2904c"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-521093"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "the-main-direction-and-key-points-of-the-desi-2844fe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

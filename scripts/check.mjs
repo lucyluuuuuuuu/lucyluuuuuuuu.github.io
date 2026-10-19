@@ -34,13 +34,22 @@ for (const [file, html] of documents) {
     if (!knownFiles.has(target)) { errors.push(`${label}: missing ${ref}`); continue; }
     if (destination.hash && documents.has(target)) {
       const id = decodeURIComponent(destination.hash.slice(1));
-      if (!documents.get(target).includes(`id="${id}"`)) errors.push(`${label}: missing anchor ${ref}`);
+      if (!documents.get(target).includes(`id="${id}"`) && !documents.get(target).includes(`data-anchor="${id}"`)) errors.push(`${label}: missing anchor ${ref}`);
     }
   }
 }
 for (const file of files) {
   const stat = await fs.stat(file);
   if (stat.size > 95 * 1024 * 1024) errors.push(`${path.relative(output, file)} exceeds safe GitHub file size`);
+}
+for (const file of files.filter(f=>f.endsWith('.css'))) {
+  const css=await fs.readFile(file,'utf8');
+  for(const match of css.matchAll(/url\(['"]?([^)'"\s]+)['"]?\)/g)){
+    if(/^(data:|#)/.test(match[1]))continue;
+    if(/^https?:/.test(match[1])){errors.push(`${path.relative(output,file)}: external style asset ${match[1]}`);continue;}
+    const target=path.resolve(path.dirname(file),match[1]);
+    if(!knownFiles.has(target))errors.push(`${path.relative(output,file)}: missing style asset ${match[1]}`);
+  }
 }
 if (errors.length) { console.error(errors.join('\n')); process.exitCode = 1; }
 else console.log(`PASS: ${htmlFiles.length} pages, ${linkCount} local links/assets, all section anchors, no Framer runtime dependencies.`);

@@ -1,0 +1,131 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-ef0b",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-9199",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-a1ce",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-63ff",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 78, 119)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(102, 130, 236)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-5b290b"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "prioritize-ideas-4b9667"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__creators-struggle-to-complete-the-character-creation-users-stop-e-4b1a",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(26, 28, 31)"
+              },
+              "children": [
+                {
+                  "text": "organize-ideas-within-the-user-flow-framework-19fc79"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-5bd3",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__50jshr",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-ccbe",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "text": "we-began-developing-concepts-and-ideas-frami-fb1d19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-17074798272",
+      "label": "Frame_17074798272",
+      "image": {
+        "src": "/assets/images/espoirer/21-organize-ideas-within-the-user-flow-framework.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ],
+  "aliases": [
+    "prioritize-ideas"
+  ]
+}

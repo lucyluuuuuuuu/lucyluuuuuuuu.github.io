@@ -1,0 +1,488 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-53b2",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-ac5f",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-2326",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-b6e1",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 79, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "diving-deeper-into-details-we-try-to-iden-a4ee38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__creators-struggle-to-complete-the-character-creation-users-stop-e-bb4c",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "36px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(26, 28, 31)"
+              },
+              "children": [
+                {
+                  "text": "drivers-hope-to-quickly-and-efficiently-compl-dc8248"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-7a2d",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1b66sd5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-dad7",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(109, 110, 117)"
+                  },
+                  "children": [
+                    {
+                      "text": "we-interviewed-8-delivery-drivers-6-experien-89ea44"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-521093"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "identify-the-challenges-and-needs-they-face-d-5c6654"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__ja0k81",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__1m5xz38",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480586-6ccd",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__link-drayeasy-inc-bec9",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                                "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                                "--framer-font-size": "18px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(217, 78, 119)"
+                              },
+                              "children": [
+                                {
+                                  "text": "user-pain-points-17baf3"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480586-2889",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480585-1baf",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__rectangle-3463367-6e4e",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__link-drayeasy-inc-e0e8",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "18px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "manually-tab-package-id-one-by-one-whic-3fb191"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480586-2aec",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480585-b5b8",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__rectangle-3463367-0080",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__link-drayeasy-inc-1f84",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "18px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "unclear-about-which-packages-need-to-be-de-494d95"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480586-1f69",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480585-9f4e",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__rectangle-3463367-4666",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__link-drayeasy-inc-6120",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "18px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "unaware-of-the-most-efficient-delivery-rou-17ab5a"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480586-228d",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__frame-1707480585-bf3a",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__rectangle-3463367-de09",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "espoirer__link-drayeasy-inc-feae",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "18px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "have-no-knowledge-of-their-kpis-913b48"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__frame-1707480027",
+                  "label": "Frame_1707480027",
+                  "image": {
+                    "src": "/assets/images/espoirer/17-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "50% 50%"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479827",
+      "label": "Frame_1707479827",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 80
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "image": {
+        "src": "/assets/images/espoirer/18-drivers-hope-to-quickly-and-efficiently-complete-their-daily-deli.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ],
+  "aliases": [
+    "diving-deeper-into-details-we-try-to-identify-the-needs-of-the-de"
+  ]
+}

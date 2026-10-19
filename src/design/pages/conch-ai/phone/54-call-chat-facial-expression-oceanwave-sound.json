@@ -1,0 +1,78 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479589-a3ca",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-d4c0",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__creators-struggle-to-complete-the-character-creation-users-stop-e-0e7f",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "call-chat-facial-expression-oceanwave-soun-70d083"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-text-block-7-7133",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1qiyzpl",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-6135",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "to-evoke-the-concept-of-the-magic-conch-crea-594fab"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "call-chat-facial-expression-oceanwave-sound"
+  ]
+}

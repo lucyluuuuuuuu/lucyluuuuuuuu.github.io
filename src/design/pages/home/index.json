@@ -1,0 +1,41 @@
+{
+  "desktop": {
+    "tag": "div",
+    "class": "home__root home__1q8k1yr",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "desktop/01-shared-component.json",
+      "desktop/02-section-1-hero-section.json",
+      "desktop/03-section-5-works.json",
+      "desktop/04-cta2.json"
+    ]
+  },
+  "tablet": {
+    "tag": "div",
+    "class": "home__root home__1q8k1yr",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "tablet/01-shared-component.json",
+      "tablet/02-section-1-hero-section.json",
+      "tablet/03-section-5-works.json",
+      "tablet/04-cta2.json"
+    ]
+  },
+  "phone": {
+    "tag": "div",
+    "class": "home__root home__1q8k1yr",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "phone/01-section-1-hero-section.json",
+      "phone/02-section-5-works.json",
+      "phone/03-cta2.json",
+      "phone/04-shared-component.json"
+    ]
+  }
+}

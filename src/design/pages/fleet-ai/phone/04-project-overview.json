@@ -1,0 +1,178 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__project-overview",
+  "label": "Project Overview",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__1v4ysm0",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707479589",
+          "label": "Frame 1707479589",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707479588",
+              "label": "Frame 1707479588",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__heading-5",
+                  "label": "Heading 5",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__project-overview-aa2a",
+                      "label": "ℹ️ Project overview",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(23, 199, 174)"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(217, 79, 119)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-9a8db4"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "problem-statement-6a5eb4"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__making-ai-more-loving-ai-characters-co-creation-platform-integrat",
+                  "label": "Making AI more loving - AI characters co-creation platform integrating LLMs and affective computing.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "challenges-in-extracting-key-meeting-informat-00151e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__div-text-block-7-5a11",
+              "label": "div.text-block-7",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-29e7",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "since-the-pandemic-virtual-and-hybrid-meetin-fbb1ee"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "struggle-with-extracting-and-organizing-key-m-66c81a"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "others-also-complain-that-ai-meeting-summarie-a346c5"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "do-not-trust-ai-generated-content-1291c8"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__1",
+          "label": "_å_å_1",
+          "image": {
+            "src": "/assets/images/fleet-ai/03-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480713",
+          "label": "Frame_1707480713",
+          "image": {
+            "src": "/assets/images/fleet-ai/04-challenges-in-extracting-key-meeting-information-from-meetings-an.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "problem-statement"
+  ]
+}

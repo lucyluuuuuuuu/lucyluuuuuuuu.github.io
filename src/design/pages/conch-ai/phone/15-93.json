@@ -1,0 +1,585 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480020",
+  "label": "Frame 1707480020",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480019",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480018",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__1e2antr",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__u08od8",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__93",
+                              "label": "93",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "60px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "98px",
+                                    "--framer-text-color": "rgb(102, 130, 236)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "93-c39a14"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__layer",
+                              "label": "%",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "40px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "70px",
+                                    "--framer-text-color": "rgb(102, 130, 236)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-aae8bb"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1-4dc4",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__satisfaction-rate",
+                      "label": "Satisfaction Rate",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "rgb(102, 130, 236)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "satisfaction-rate-521432"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__p-paragraph-m",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__93-of-users-are-looking-forward-to-the-official-launch-and-can-t-",
+                  "label": "93% of users are looking forward to the official launch and can't wait to use our product.",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "93-of-users-are-looking-forward-to-the-offic-0e2d14"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404-575f",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480019-a344",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480018-0926",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1-8fef",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__2m65xu",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__pyaj6h",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__layer-8002",
+                              "label": "+",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "60px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "98px",
+                                    "--framer-text-color": "rgb(102, 130, 236)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-7297d2"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__32",
+                              "label": "32",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "60px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "98px",
+                                    "--framer-text-color": "rgb(102, 130, 236)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "28-5defc9"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__layer-5f38",
+                              "label": "%",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "40px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "70px",
+                                    "--framer-text-color": "rgb(102, 130, 236)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-aae8bb"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1-8ca2",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__task-success-rate",
+                      "label": "TASK SUCCESS RATE",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "rgb(102, 130, 236)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "task-success-rate-56eb54"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__p-paragraph-m-77ce",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__enhance-the-task-success-rate-to-start-a-new-conversion-with-ai-c",
+                  "label": "Enhance the task success rate to start a new conversion with AI characters from 62% to 94%.",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "enhance-the-task-success-rate-to-bad466"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(255, 255, 255)"
+                          },
+                          "children": [
+                            {
+                              "text": "start-a-new-chat-with-ai-characters-cbdd3f"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "from-62-to-90-f5cf47"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404-845c",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480019-c147",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480018-6f73",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1-89de",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__683m2f",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__qe3p87",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__heading-1-dafd",
+                              "label": "Heading 1",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "conch-ai__mxq6kc",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "class": "conch-ai__1e1c3y7",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "class": "conch-ai__layer-eebf",
+                                          "label": "-",
+                                          "rich": true,
+                                          "align": "top",
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "style": {
+                                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                                "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                                "--framer-font-size": "90px",
+                                                "--framer-letter-spacing": "-0.5px",
+                                                "--framer-line-height": "98px",
+                                                "--framer-text-color": "rgb(102, 130, 236)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "text": "layer-0933fb"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "class": "conch-ai__32-d660",
+                                          "label": "32",
+                                          "rich": true,
+                                          "align": "center",
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "style": {
+                                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                                "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                                "--framer-font-size": "60px",
+                                                "--framer-letter-spacing": "-0.5px",
+                                                "--framer-line-height": "98px",
+                                                "--framer-text-color": "rgb(102, 130, 236)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "text": "31-227e49"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "class": "conch-ai__layer-23fe",
+                                          "label": "%",
+                                          "rich": true,
+                                          "align": "center",
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "style": {
+                                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                                "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                                "--framer-font-size": "40px",
+                                                "--framer-letter-spacing": "-0.5px",
+                                                "--framer-line-height": "70px",
+                                                "--framer-text-color": "rgb(102, 130, 236)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "text": "layer-aae8bb"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-1-1f94",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__bounce-rates",
+                      "label": "BOUNCE RATES",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "rgb(102, 130, 236)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "drop-out-rate-88f1f8"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__p-paragraph-m-9d2f",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__the-bounce-rates-for-the-character-creation-process-drop-from-54-",
+                  "label": "The bounce rates for the character creation process drop from  54% to 18%. ",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "the-drop-out-rates-for-a17618"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(255, 255, 255)"
+                          },
+                          "children": [
+                            {
+                              "text": "the-character-creation-process-21a368"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-521093"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "drop-from-54-to-23-88cfd4"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

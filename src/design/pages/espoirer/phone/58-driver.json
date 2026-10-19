@@ -1,0 +1,144 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480630-8a29 hidden-133ambs hidden-v2ja2v",
+  "label": "Frame 1707480630",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__driver-struggle-to-manage-the-task-list-6d05",
+      "label": "Driver struggle to manage the task list",
+      "rich": true,
+      "align": "center",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+            "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+            "--framer-font-size": "12px",
+            "--framer-line-height": "20px",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(177, 177, 177)"
+          },
+          "children": [
+            {
+              "text": "driver-80912c"
+            },
+            {
+              "tag": "span",
+              "style": {
+                "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC01MDA=",
+                "--framer-font-weight": "500",
+                "--framer-text-color": "rgb(255, 255, 255)"
+              },
+              "children": [
+                {
+                  "text": "struggle-to-21812f"
+                }
+              ]
+            },
+            {
+              "text": "manage-the-task-list-9d3417"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__mar-02-2024-20-28-07-1-91b6",
+      "label": "Mar-02-2024 20-28-07 1",
+      "image": {
+        "src": "/assets/images/espoirer/49-designed-for-internal-designers-to-make-our-team-faster.png",
+        "alt": "",
+        "fit": "stretch",
+        "position": "center center"
+      }
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480629-294c",
+      "label": "Frame 1707480629",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__blockquote-d5fe",
+          "label": "Blockquote",
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__emphasis-720f",
+              "label": "Emphasis",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__every-day-i-have-to-deliver-a-bunch-of-packages-and-require-manua-6b6c",
+                  "label": "“Every day, I have to deliver a bunch of packages and require manually typing the package ID on the small screen, really inefficient!”",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZCBJdGFsaWM=",
+                        "--framer-font-family": "\"Neue Montreal Bold Italic\", \"Neue Montreal Bold Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "every-day-i-have-to-deliver-a-bunch-of-pack-a3e32e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__blockquote-7236",
+          "label": "Blockquote",
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__emphasis-a156",
+              "label": "Emphasis",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__i-m-not-quite-sure-how-to-plan-routes-more-effectively-often-endi-ec96",
+                  "label": "“I'm not quite sure how to plan routes more effectively, often ending up working overtime and spending more on fuel. ”",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZCBJdGFsaWM=",
+                        "--framer-font-family": "\"Neue Montreal Bold Italic\", \"Neue Montreal Bold Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-not-quite-sure-how-to-plan-routes-more-e-4767a6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

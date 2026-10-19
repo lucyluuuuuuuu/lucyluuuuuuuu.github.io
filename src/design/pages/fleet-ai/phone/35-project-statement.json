@@ -1,0 +1,175 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__project-statement-0945",
+  "label": "Project Statement",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707479588-c567",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__heading-5-1aab",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__problem-statement-e6e1",
+              "label": "ℹ️ Problem statement",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "solution-1-142dfb"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__low-user-engagement-and-decreasing-profitability-fe0d",
+          "label": "Low user engagement and decreasing profitability",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "sort-by-action-items-smart-search-and-sorti-37fae7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-6846",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__1o56una",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-4e27",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "pain-points-solved-d964b1"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-dc359b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__1ub6dxp",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480586-ce9c",
+                  "label": "Frame 1707480586",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480585-d65e",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__rectangle-3463367-ec43",
+                          "label": "Rectangle 3463367",
+                          "style": {
+                            "rotate": 1,
+                            "transform": "translate(-50%, -50%)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__link-drayeasy-inc-d09d",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(177, 177, 177)"
+                          },
+                          "children": [
+                            {
+                              "text": "spend-long-time-sorting-information-37208d"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "solution-1",
+    "solution-1-2",
+    "solution-1-3"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "tag": "div",
+  "class": "espoirer__text",
+  "label": "text",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch",
+      "label": "Revamping Conch AI with Enhanced Emotional Connection & Seamless Character Creation and Management",
+      "rich": true,
+      "align": "bottom",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "40px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "accelerating-the-last-mile-delivery-through-e-d492ba"
+            },
+            {
+              "tag": "br"
+            },
+            {
+              "text": "task-management-streamlined-process-aa4586"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-project-tags",
+      "label": "div.project-tags",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1s3aji6",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__div-project-tag-text",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__will-be-launched-in-q2-2024",
+                  "label": "Will be launched in Q2, 2024",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "launched-in-japan-december-2023-f1d024"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__ekr0am",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-project-tag-text-5d05",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__ai-llm",
+                      "label": "AI & LLM",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                            "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "14px",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "cross-border-delivery-service-160167"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-project-tag-text-5c6d hidden-v2ja2v",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__affective-computing",
+                      "label": "Affective Computing",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                            "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "14px",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "b2b-6a5a40"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__em79kh",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__div-project-tag-text-dd6a",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__b2c",
+                  "label": "B2C",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "0-to-1-e48683"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__div-project-tag-text-be50",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__redesign",
+                  "label": "Redesign",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "mobile-8a0f0d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "accelerating-the-last-mile-delivery-through-enhanced-task-managem"
+  ]
+}

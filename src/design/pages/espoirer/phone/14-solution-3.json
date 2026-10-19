@@ -1,0 +1,122 @@
+{
+  "tag": "div",
+  "class": "espoirer__div-reaction-fd-content-wrap-copy-margin",
+  "label": "div.reaction-fd-content-wrap-copy:margin",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__div-reaction-fd-content-wrap-copy",
+      "label": "div.reaction-fd-content-wrap-copy",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480039-2f3e",
+          "label": "Frame 1707480039",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480038-5399",
+              "label": "Frame 1707480038",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__p-label-serif-c8e2",
+                  "label": "p.label-serif",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__solution-3-enjoyable-creation",
+                      "label": "Solution 3. Enjoyable creation",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0.8px",
+                            "--framer-line-height": "16px",
+                            "--framer-text-color": "rgb(217, 78, 119)",
+                            "--framer-text-transform": "capitalize"
+                          },
+                          "children": [
+                            {
+                              "text": "solution-3-584039"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-3-8550",
+                  "label": "Heading 3",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__create-characters-with-distinct-personalities",
+                      "label": "Create characters with distinct personalities.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-letter-spacing": "0.4px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "manage-task-5cf03d"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480512",
+          "label": "Frame 1707480512",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-08-21-53-35-1",
+              "label": "2024-04-08 21-53-35 1",
+              "image": {
+                "src": "/assets/images/espoirer/11-scan-to-enroll-packages.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-07-17-28-39-1",
+              "label": "2024-04-07 17-28-39 1",
+              "image": {
+                "src": "/assets/images/espoirer/12-scan-to-enroll-packages.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

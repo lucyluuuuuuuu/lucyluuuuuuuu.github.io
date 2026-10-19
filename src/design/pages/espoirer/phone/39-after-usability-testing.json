@@ -1,0 +1,165 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-523b",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-f3d0",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-cefd",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-ee8a",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 78, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "after-usability-testing-5c21c0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__creators-struggle-to-complete-the-character-creation-users-stop-e-9bf5",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "how-to-effectively-display-multiple-packages-af1025"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-16b1",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__uu04tr",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-4597",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "edge-case-1-unstable-scanning-07140b"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-170748045709-1",
+      "label": "Frame 170748045709 1",
+      "image": {
+        "src": "/assets/images/espoirer/35-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-5787",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1473u4a",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-04f3",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "edge-case-2-scan-error-add-manual-barcode-8a61d6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480631",
+      "label": "Frame_1707480631",
+      "image": {
+        "src": "/assets/images/espoirer/36-consider-the-edge-case-unstable-scan-and-scan-errors.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

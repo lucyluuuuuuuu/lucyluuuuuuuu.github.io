@@ -1,0 +1,43 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480622",
+  "label": "Frame 1707480622",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480376-1",
+      "label": "Frame 1707480376 1",
+      "image": {
+        "src": "/assets/images/conch-ai/48-display-token-balance-in-real-time-during-the-conversions-can-mot.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__iteration-1",
+      "label": "Iteration 1",
+      "rich": true,
+      "align": "center",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+            "--framer-font-size": "12px",
+            "--framer-line-height": "150%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(255, 255, 255)"
+          },
+          "children": [
+            {
+              "text": "iteration-1-8c5193"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

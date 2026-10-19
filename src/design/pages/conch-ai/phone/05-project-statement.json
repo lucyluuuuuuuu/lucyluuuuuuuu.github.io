@@ -1,0 +1,246 @@
+{
+  "tag": "div",
+  "class": "conch-ai__project-statement",
+  "label": "Project Statement",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-930f",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-5-7ed4",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__problem-statement",
+              "label": "ℹ️ Problem statement",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(102, 130, 236)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(217, 79, 119)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-9a8db4"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "problem-statement-adc4f5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__low-user-engagement-and-decreasing-profitability",
+          "label": "Low user engagement and decreasing profitability",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "low-user-engagement-and-decreasing-profitabil-2ecf28"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__1ujc6be",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__link-drayeasy-inc-6c8f",
+          "label": "Link → DrayEasy Inc.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "low-user-engagement-user-facing-ad75c0"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-521093"
+                    }
+                  ]
+                },
+                {
+                  "text": "users-are-not-actively-using-the-characters-a-aa882a"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "decreasing-profitability-creator-facing-04fafe"
+                    }
+                  ]
+                },
+                {
+                  "text": "creators-lack-the-motivation-to-innovate-due-fa37bf"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "layer-042ed3"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "consequently-730a0f"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-521093"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "this-negative-loop-exacerbates-business-chall-4b04d0"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-521093"
+                    }
+                  ]
+                },
+                {
+                  "text": "affecting-the-product-s-viability-and-growth-bee8ce"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480582-1",
+          "label": "Frame 1707480582 1",
+          "image": {
+            "src": "/assets/images/conch-ai/04-low-user-engagement-and-decreasing-profitability.png",
+            "alt": "",
+            "fit": "fit",
+            "position": "center center"
+          }
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "problem-statement"
+  ]
+}

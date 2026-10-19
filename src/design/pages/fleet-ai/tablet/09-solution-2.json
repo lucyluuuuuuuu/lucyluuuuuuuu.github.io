@@ -1,0 +1,176 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__solution-2",
+  "label": "Solution 2",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707480039",
+      "label": "Frame 1707480039",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": -50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480038",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__p-label-serif",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__solution-2-personalization",
+                  "label": "Solution 2. Personalization",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(23, 199, 174)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "feature-1-trusted-ai-generated-tools-e955cc"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__heading-3",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__chat-emotionally-just-like-talking-to-a-real-one",
+                  "label": "Chat emotionally, just like talking to a real one.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "20px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "extract-action-items-accurately-with-our-ai-m-5ce394"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__w3ruey",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__2024-04-16-21-42-59-2024-04-16-21-46-57",
+          "label": "$2024_04_16_21_42_59_2024_04_16_21_46_57",
+          "image": {
+            "src": "/assets/images/fleet-ai/06-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__1k81jfm"
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__101eehm"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "extract-action-items-accurately-with-our-ai-meeting-assistant"
+  ]
+}

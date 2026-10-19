@@ -1,83 +1,47 @@
 # Lucy Lu Portfolio
 
-从 Framer 迁移重建的作品集。页面、案例章节、导航和图片分开管理；使用 Node.js 生成普通静态 HTML，部署到 GitHub Pages，无第三方运行时依赖。
+从 Framer 迁移到 GitHub Pages 的作品集，使用本地图片、字体、普通 HTML/CSS/JavaScript，不依赖 Framer 运行时。
 
-## 页面与内容位置
+网站：https://lucyluuuuuuuu.github.io/
 
-| 页面 | 保留的网址路径 | 编辑位置 |
-| --- | --- | --- |
-| 首页 | `/` | `src/content/home.json` |
-| About | `/About-lucy-lu/` | `src/content/about/` |
-| Espoirer | `/work/Espoirer/` | `src/content/espoirer/` |
-| Conch.AI | `/work/Conch.AI/` | `src/content/conch-ai/` |
-| Fleet.AI | `/work/Fleet.AI/` | `src/content/fleet-ai/` |
+## 找到要修改的位置
 
-每个内容目录里的 `index.json` 决定章节顺序；编号和语义文件名帮助定位具体段落。每个章节有固定 `id`，用于页面目录和锚点跳转。修改标题时保留 `id`，已有章节链接就不会改变。
+| 内容 | 编辑位置 |
+| --- | --- |
+| 首页布局 | `src/design/pages/home/` |
+| About 布局 | `src/design/pages/about/` |
+| 三个案例布局 | `src/design/pages/espoirer/`、`conch-ai/`、`fleet-ai/` |
+| 各页正文 | `src/content/design-copy.json`，搜索页面上的原句 |
+| 首页作品顺序、标题、封面、上下线 | `src/data/projects.json` |
+| 页面地址、上下线 | `src/data/pages.json`、`projects.json` |
+| 导航、简历、邮箱、Instagram | `src/data/site.json` |
+| 某页的样式 | `src/styles/design/<页面名>.css` |
+| 卡片、按钮、导航的共用样式 | `src/styles/design/work-card.css`、`button.css`、`navigation.css` 等 |
+| 滚动、轮播、菜单交互 | `src/scripts/design.js` |
 
-```text
-src/
-  data/
-    site.json          # 姓名、简历、邮箱、导航、页脚
-    pages.json         # 普通页面的路径、模板、发布状态
-    projects.json      # 作品排序、卡片、路径、发布状态
-  content/
-    home.json
-    about/             # About 的正文与图片
-    conch-ai/           # 一个 JSON 文件对应一个案例章节
-    fleet-ai/
-    espoirer/
-  components/          # 导航、页脚、卡片、内容块
-  layouts/site.mjs      # 所有页面共用的 HTML 外壳和搜索元信息
-  pages/               # 首页、About、作品详情、普通内容页模板
-  styles/site.css      # 全站颜色、字号、布局和移动端规则
-  scripts/site.js      # 手机菜单、轮播、图片放大
-public/assets/
-  images/<作品名>/     # 已本地化的原站图片和 GIF
-  fonts/               # 原站字体
-scripts/               # 构建、本地预览、链接检查
-.github/workflows/     # GitHub Pages 自动发布
-docs/                  # 维护、迁移记录
-```
+每页 `index.json` 按 desktop / tablet / phone 列出章节文件。文件中保留嵌套布局、可读的图层名称和本地图片路径。正文独立存储，三种布局引用同一份文字，避免改三遍。共用组件位于 `src/design/components/`。
 
-## 本地预览
+2026-10-19 的还原更新恢复了原站浅色作品区、多列案例布局、各断点的字号与间距、原字体、卡片收起封面后露出按钮的悬停效果、滚动标签、连续图片组和手动轮播。还原依据是原站发布源文件中的布局、状态和动画数值。浏览器已检查主要页面与交互，但没有完成原站与新版每个像素、每一帧的全量对比。
 
-需要 Node.js 20 或更新版本。不需要安装 npm 依赖。
+## 本地预览与发布
+
+需要 Node.js 20 或更新版本，无需安装 npm 依赖。
 
 ```sh
 npm run dev
 ```
 
-打开终端显示的地址。修改内容后停止并重新运行预览命令。发布前检查：
+编辑后重新运行预览，或运行构建后刷新已打开的预览页面。
 
 ```sh
 npm run build
 npm run check
 ```
 
-生成的 `dist/` 不需手工编辑，也不提交到仓库。检查程序会验证页面路径、图片、章节锚点和是否仍引用 Framer 运行时。
+`main` 的提交会通过 GitHub Actions 自动构建、检查并发布到 GitHub Pages。`dist/` 是构建产物，不手工修改，也不提交。链接检查包括页面、锚点、图片、样式和字体。
 
-## 发布到 GitHub Pages
+新增页面、章节、隐藏作品与修改跳转见 [维护指南](docs/MAINTENANCE.md)。还原细节及验证边界见 [迁移说明](docs/MIGRATION.md)。
 
-建议仓库名为 `lucyluuuuuuuu.github.io`。上传源码后，在仓库的 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。以后向 `main` 提交更新，会先构建和检查，再自动发布。
+首次迁移的简化内容保存在 `examples/initial-migration-content/`，供新页面模板参考；这份归档不驱动当前五个页面。新的普通内容页和案例可继续使用 `src/content/<id>/index.json` 与现有通用模板，也可以复制已还原页面的布局。
 
-目标 GitHub Pages 地址为 `https://lucyluuuuuuuu.github.io/`；这只是部署目标，是否已上线以 GitHub Actions 的部署结果为准。
-
-普通项目仓库名也支持：工作流会自动添加相应路径前缀。
-
-## 常见修改
-
-- 修改首页介绍：`src/content/home.json`。
-- 修改项目卡片或排序：`src/data/projects.json`。
-- 修改简历、邮箱、Instagram：`src/data/site.json`。
-- 修改案例某一段：找到对应 `src/content/<项目>/NN-章节名.json`。
-- 隐藏作品：把 `projects.json` 中对应作品的 `published` 改为 `false`。首页卡片和相邻作品跳转会一起更新。
-- 隐藏普通页面：把 `pages.json` 中相应页面的 `published` 改为 `false`，共用导航也会移除其入口。首页必须保留。
-- 详细增删页面步骤见 [维护指南](docs/MAINTENANCE.md)。
-
-## 迁移范围
-
-保留五个原页面的 URL、正文、案例图片、GIF、原有外部简历与社交链接；重建共享布局和交互，并将素材放到本仓库。不是 Framer 编辑器工程，也不依赖 Framer 的托管和压缩运行时代码。布局与动画采用可维护的实现，未声称逐像素复制原站。
-
-原站项目状态和数据保持原内容，例如 2023/2024 年的项目时间与状态，没有据此推断项目现在的进展。迁移记录与验证边界见 [迁移说明](docs/MIGRATION.md)。
-
-作品、文字、图片与字体的权利仍归原权利人所有；本仓库未添加将这些素材重新授权为开源的许可证。
+原有 2023/2024 项目状态和文案保持原样。文字、图片、字体的权利仍归原权利人所有，本仓库没有添加重新授权这些素材的开源许可证。

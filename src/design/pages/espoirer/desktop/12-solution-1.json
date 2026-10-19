@@ -1,0 +1,198 @@
+{
+  "tag": "div",
+  "class": "espoirer__solution-1",
+  "label": "Solution 1",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__text-6656",
+      "label": "Text",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": -50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480038",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__p-label-serif",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__solution-1-streamlining-onboarding",
+                  "label": "Solution 1. Streamlining Onboarding",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(217, 78, 119)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "solution-1-abfcd0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__heading-3",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__find-ai-characters-for-everyone",
+                  "label": "Find AI characters for everyone.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "28px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "40px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "scan-to-enroll-9e449c"
+                        },
+                        {
+                          "tag": "br"
+                        },
+                        {
+                          "text": "packages-e89dff"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479653",
+      "label": "Frame 1707479653",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1lkkgtp",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-07-15-17-24-2024-04-07-15-19-48",
+              "label": "$2024_04_07_15_17_24_2024_04_07_15_19_48",
+              "image": {
+                "src": "/assets/images/espoirer/07-scan-to-enroll-packages.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__pwbfwl",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-07-15-39-11-2024-04-07-15-41-20",
+              "label": "$2024_04_07_15_39_11_2024_04_07_15_41_20",
+              "image": {
+                "src": "/assets/images/espoirer/08-scan-to-enroll-packages.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "scan-to-enroll-packages"
+  ]
+}

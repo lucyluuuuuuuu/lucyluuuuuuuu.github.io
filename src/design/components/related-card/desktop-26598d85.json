@@ -1,0 +1,135 @@
+{
+  "tag": "a",
+  "class": "related-card__root related-card__tablet-card-work related-card__variant-tablet-card-work related-card__tablet-card-work-3e3d",
+  "label": "Tablet Card Work",
+  "style": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 20,
+    "borderBottomRightRadius": 20,
+    "borderTopLeftRadius": 20,
+    "borderTopRightRadius": 20,
+    "height": "100%",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "related-card__10hkt3j",
+      "style": {
+        "borderBottomLeftRadius": 20,
+        "borderBottomRightRadius": 20,
+        "borderTopLeftRadius": 20,
+        "borderTopRightRadius": 20
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "related-card__image",
+          "label": "Image",
+          "style": {
+            "borderBottomLeftRadius": 20,
+            "borderBottomRightRadius": 20,
+            "borderTopLeftRadius": 20,
+            "borderTopRightRadius": 20
+          },
+          "image": {
+            "src": "/assets/images/espoirer/01-project-cover.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "center top"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "related-card__text",
+      "label": "Text",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "hover": {
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "related-card__title",
+          "label": "Title",
+          "children": [
+            {
+              "tag": "div",
+              "class": "related-card__struktura",
+              "label": "Struktura",
+              "style": {
+                "--extracted-1lwpl3i": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                "--framer-paragraph-spacing": "0px"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "h5",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "22px",
+                    "--framer-letter-spacing": "-0.02em",
+                    "--framer-line-height": "150%",
+                    "--framer-text-alignment": "left",
+                    "--framer-text-color": "var(--extracted-1lwpl3i, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                  },
+                  "children": [
+                    {
+                      "text": "accelerating-the-last-mile-delivery-through-e-7edd8c"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "related-card__category",
+              "label": "Category",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "related-card__construction-company",
+                  "label": "Construction Company",
+                  "style": {
+                    "--extracted-r6o4lv": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+                    "--framer-paragraph-spacing": "0px"
+                  },
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                      },
+                      "children": [
+                        {
+                          "text": "espoirer-033df3"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": "/work/Espoirer/",
+  "newTab": false,
+  "component": "related-card",
+  "project": "ESPOIRER"
+}

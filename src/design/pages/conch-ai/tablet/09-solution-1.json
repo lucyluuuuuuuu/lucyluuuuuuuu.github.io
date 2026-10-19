@@ -1,0 +1,225 @@
+{
+  "tag": "div",
+  "class": "conch-ai__solution-1",
+  "label": "Solution 1",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__text-aee1",
+      "label": "Text",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": -50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480038",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__p-label-serif",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__solution-1-streamlining-onboarding",
+                  "label": "Solution 1. Streamlining Onboarding",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(102, 130, 236)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "solution-1-streamlining-onboarding-a06fb5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-3",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__find-ai-characters-for-everyone",
+                  "label": "Find AI characters for everyone.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "40px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "find-ai-characters-for-everyone-73e1d8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__p-paragraph-light",
+          "label": "p.paragraph-light",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__create-a-series-of-onboarding-experience-that-communicates-the-va",
+              "label": "Create a series of onboarding experience that communicates the value prop and gathers users’ interests to personalize their feed.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-letter-spacing": "0.4px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "create-a-series-of-onboarding-experience-that-119af3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479653",
+      "label": "Frame 1707479653",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1n1jed4",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-07-15-17-24-2024-04-07-15-19-48",
+              "label": "$2024_04_07_15_17_24_2024_04_07_15_19_48",
+              "image": {
+                "src": "/assets/images/conch-ai/05-find-ai-characters-for-everyone.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__wut7aa",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-07-15-39-11-2024-04-07-15-41-20",
+              "label": "$2024_04_07_15_39_11_2024_04_07_15_41_20",
+              "image": {
+                "src": "/assets/images/conch-ai/06-find-ai-characters-for-everyone.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "find-ai-characters-for-everyone",
+    "solution-1"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480630 hidden-1py0rzo",
+  "label": "Frame 1707480630",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480629",
+      "label": "Frame 1707480629",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__blockquote",
+          "label": "Blockquote",
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "x": 0,
+              "y": 20
+            },
+            "to": {
+              "transition": {
+                "damping": 30,
+                "delay": 0.2,
+                "mass": 1,
+                "stiffness": 400,
+                "type": "spring"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__emphasis",
+              "label": "Emphasis",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__every-day-i-have-to-deliver-a-bunch-of-packages-and-require-manua",
+                  "label": "“Every day, I have to deliver a bunch of packages and require manually typing the package ID on the small screen, really inefficient!”",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZCBJdGFsaWM=",
+                        "--framer-font-family": "\"Neue Montreal Bold Italic\", \"Neue Montreal Bold Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "28px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "every-day-i-have-to-deliver-a-bunch-of-pack-a3e32e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__blockquote-2f67",
+          "label": "Blockquote",
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "x": 0,
+              "y": 20
+            },
+            "to": {
+              "transition": {
+                "damping": 30,
+                "delay": 0.2,
+                "mass": 1,
+                "stiffness": 400,
+                "type": "spring"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__emphasis-ac6d",
+              "label": "Emphasis",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__i-m-not-quite-sure-how-to-plan-routes-more-effectively-often-endi",
+                  "label": "“I'm not quite sure how to plan routes more effectively, often ending up working overtime and spending more on fuel. ”",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZCBJdGFsaWM=",
+                        "--framer-font-family": "\"Neue Montreal Bold Italic\", \"Neue Montreal Bold Italic Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "28px",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-not-quite-sure-how-to-plan-routes-more-e-4767a6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__driver-struggle-to-manage-the-task-list",
+          "label": "Driver struggle to manage the task list",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "14px",
+                "--framer-line-height": "20px",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "driver-80912c"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-521093"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "struggle-e93264"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "to-32827d"
+                    }
+                  ]
+                },
+                {
+                  "text": "manage-the-task-list-9d3417"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__mar-02-2024-20-28-07-1",
+          "label": "Mar-02-2024 20-28-07 1",
+          "image": {
+            "src": "/assets/images/espoirer/31-customized-map-view-for-enhanced-delivery-task-management-and-eff.gif",
+            "alt": "",
+            "fit": "stretch",
+            "position": "center center"
+          }
+        }
+      ]
+    }
+  ]
+}

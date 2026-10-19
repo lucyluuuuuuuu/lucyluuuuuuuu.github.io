@@ -1,0 +1,187 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-04d7",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-1674",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__8bnjax",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-ec89",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(26, 28, 31)"
+                  },
+                  "children": [
+                    {
+                      "text": "pain-points-f80fad"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__1dg7h5c",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480586-06f5",
+                  "label": "Frame 1707480586",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480585-8b4c",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__rectangle-3463367-7d95",
+                          "label": "Rectangle 3463367",
+                          "style": {
+                            "rotate": 1,
+                            "transform": "translate(-50%, -50%)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__link-drayeasy-inc-b2fa",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "cannot-get-co-workers-feedback-asap-4ead7c"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-ca2e",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__hsp3dy",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-8be1",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(26, 28, 31)"
+                  },
+                  "children": [
+                    {
+                      "text": "opportunity-23d2d6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__7kxdvm",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480586-32cc",
+                  "label": "Frame 1707480586",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480585-9520",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__rectangle-3463367-b488",
+                          "label": "Rectangle 3463367",
+                          "style": {
+                            "rotate": 1,
+                            "transform": "translate(-50%, -50%)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__link-drayeasy-inc-7a75",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "have-more-interactions-between-colleagues-e13598"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

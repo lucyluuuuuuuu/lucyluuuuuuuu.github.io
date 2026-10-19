@@ -1,0 +1,43 @@
+{
+  "tag": "div",
+  "class": "conch-ai__1u6ai6n",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480522-1",
+      "label": "Frame 1707480522 1",
+      "image": {
+        "src": "/assets/images/conch-ai/47-text-chat-gif-emoji-dialogue-box-effect.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__vector-1683",
+      "label": "Vector 1683",
+      "style": {
+        "rotate": 90
+      },
+      "svg": "<svg width=\"64\" height=\"65\" viewBox=\"-2 -2 64 65\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.15385 16.4848H30C30.6373 16.4848 31.1538 15.9682 31.1538 15.3309V3.74951C31.1538 2.7106 32.4193 2.20089 33.1394 2.94977L59.231 30.085C59.6605 30.5317 59.6605 31.2378 59.231 31.6845L33.1394 58.8198C32.4193 59.5686 31.1538 59.0589 31.1538 58.02V48.2386C31.1538 47.6014 30.6373 47.0848 30 47.0848H1.15385C0.516595 47.0848 0 46.5682 0 45.9309V17.6386C0 17.0014 0.516594 16.4848 1.15385 16.4848Z\" fill=\"url(#paint0_linear_7016_53527)\"/>\n<defs>\n<linearGradient id=\"paint0_linear_7016_53527\" x1=\"60\" y1=\"30.8848\" x2=\"-79.8214\" y2=\"30.8848\" gradientUnits=\"userSpaceOnUse\">\n<stop stop-color=\"#6783ED\"/>\n<stop offset=\"1\" stop-color=\"white\" stop-opacity=\"0.07\"/>\n</linearGradient>\n</defs>\n</svg>\n"
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__11djne3",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__2024-04-07-16-23-29-2024-04-07-16-24-49-1351",
+          "label": "$2024_04_07_16_23_29_2024_04_07_16_24_49",
+          "image": {
+            "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ]
+}

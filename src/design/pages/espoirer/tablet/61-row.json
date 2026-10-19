@@ -1,0 +1,22 @@
+{
+  "tag": "div",
+  "class": "espoirer__row",
+  "label": "Row",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__1mn7g1y",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1vh7g07-container",
+          "children": [
+            {
+              "include": "related-card/tablet-b28a16b6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

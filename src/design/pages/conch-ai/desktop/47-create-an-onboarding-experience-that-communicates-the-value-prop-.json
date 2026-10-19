@@ -1,0 +1,354 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480609",
+  "label": "Frame 1707480609",
+  "style": {
+    "transformPerspective": 1200
+  },
+  "appear": {
+    "from": {
+      "opacity": 0,
+      "rotate": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "transformPerspective": 1200,
+      "x": 0,
+      "y": 80
+    },
+    "to": {
+      "transition": {
+        "delay": 0,
+        "duration": 0.5,
+        "ease": [
+          0.44,
+          0,
+          0.56,
+          1
+        ],
+        "type": "tween"
+      },
+      "opacity": 1,
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "once": true
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480606",
+      "label": "Frame 1707480606",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__htgi57",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-09-14-21-30-2024-04-09-14-22-47",
+              "label": "$2024_04_09_14_21_30_2024_04_09_14_22_47",
+              "image": {
+                "src": "/assets/images/conch-ai/33-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479746",
+          "label": "Frame 1707479746",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__create-an-onboarding-experience-that-communicates-the-value-prop-",
+              "label": "Create an onboarding experience that communicates the value prop and gathers users’ interests to personalize their feed.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                        "--framer-font-family": "\"Neue Montreal\"",
+                        "--framer-font-size": "12px",
+                        "--framer-text-color": "rgba(177, 177, 177, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "create-an-onboarding-experience-that-communic-9ef828"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__value-prop",
+              "label": "Value Prop",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7U2hhcnAgR3JvdGVzay02MDA=",
+                        "--framer-font-family": "\"Sharp Grotesk\"",
+                        "--framer-font-size": "18px",
+                        "--framer-font-weight": "600",
+                        "--framer-text-color": "rgba(255, 255, 255, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "value-prop-5c244b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480607",
+      "label": "Frame 1707480607",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__20uw7w",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-09-14-26-53-2024-04-09-14-28-20",
+              "label": "$2024_04_09_14_26_53_2024_04_09_14_28_20",
+              "image": {
+                "src": "/assets/images/conch-ai/34-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480564",
+          "label": "Frame 1707480564",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__to-help-users-discover-ai-characters-that-interests-them-and-incr",
+              "label": "To help users discover AI characters that interests them and increase conversion rate from exploration to starting a new conversion.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                        "--framer-font-family": "\"Neue Montreal\"",
+                        "--framer-font-size": "12px",
+                        "--framer-text-color": "rgba(177, 177, 177, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "to-help-users-discover-ai-characters-that-int-c7ccab"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__personalization",
+              "label": "Personalization",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7U2hhcnAgR3JvdGVzay02MDA=",
+                        "--framer-font-family": "\"Sharp Grotesk\"",
+                        "--framer-font-size": "18px",
+                        "--framer-font-weight": "600",
+                        "--framer-text-color": "rgba(255, 255, 255, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "personalization-bb22f5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480608",
+      "label": "Frame 1707480608",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1w2umeq",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-09-14-30-12-2024-04-09-14-32-31",
+              "label": "$2024_04_09_14_30_12_2024_04_09_14_32_31",
+              "image": {
+                "src": "/assets/images/conch-ai/35-communicate-the-value-prop-gather-users-interests-to-personalize.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480565",
+          "label": "Frame 1707480565",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__onboard-and-educate-new-users-step-by-step-to-make-it-easier-to-p",
+              "label": "Onboard and educate new users step by step to make it easier to perceive and use, thus creating and maintaining a high engagement rate.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                        "--framer-font-family": "\"Neue Montreal\"",
+                        "--framer-font-size": "12px",
+                        "--framer-text-color": "rgba(177, 177, 177, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "onboard-and-educate-new-users-step-by-step-to-eee823"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__guidance",
+              "label": "Guidance",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "R0Y7U2hhcnAgR3JvdGVzay02MDA=",
+                        "--framer-font-family": "\"Sharp Grotesk\"",
+                        "--framer-font-size": "18px",
+                        "--framer-font-weight": "600",
+                        "--framer-text-color": "rgba(255, 255, 255, 1)"
+                      },
+                      "children": [
+                        {
+                          "text": "guidance-fd4c29"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

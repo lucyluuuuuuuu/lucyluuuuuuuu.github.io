@@ -1,0 +1,55 @@
+{
+  "tag": "a",
+  "class": "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+  "label": "Variant 1",
+  "style": {
+    "height": "100%",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "logo__frame-1707480640",
+      "label": "Frame 1707480640",
+      "style": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderBottomLeftRadius": 17.05,
+        "borderBottomRightRadius": 17.05,
+        "borderTopLeftRadius": 17.05,
+        "borderTopRightRadius": 17.05
+      }
+    },
+    {
+      "tag": "div",
+      "class": "logo__frame-1707480641",
+      "label": "Frame 1707480641",
+      "style": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderBottomLeftRadius": 20.45,
+        "borderBottomRightRadius": 20.45,
+        "borderTopLeftRadius": 20.45,
+        "borderTopRightRadius": 20.45
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "logo__rectangle-3463368",
+          "label": "Rectangle 3463368",
+          "style": {
+            "backgroundColor": "rgb(18, 18, 18)",
+            "borderBottomLeftRadius": 20.45,
+            "borderBottomRightRadius": 20.45,
+            "borderTopLeftRadius": 20.45,
+            "borderTopRightRadius": 20.45,
+            "transform": "translateY(-50%)"
+          }
+        }
+      ]
+    }
+  ],
+  "link": {
+    "webPageId": "UAB0yLDj9"
+  },
+  "newTab": false,
+  "component": "logo"
+}

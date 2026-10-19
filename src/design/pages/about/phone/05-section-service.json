@@ -1,0 +1,195 @@
+{
+  "tag": "div",
+  "class": "about__section-service-69a5",
+  "label": "Section - Service",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__container-218a",
+      "label": "Container",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.9,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "about__text-1a53",
+          "label": "Text",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__headline-b8e1",
+              "label": "Headline",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__let-me-assist-you-in-achieving-your-goals-3015",
+                  "label": "Let me assist you in achieving your goals",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "h5",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(17, 17, 17)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-a-visual-storyteller-dbc085"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__i-offer-expertise-in-web-development-problem-solving-and-strategi-5b15",
+                  "label": "I offer expertise in web development, problem-solving, and strategic planning for tailored solutions that match your unique needs.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128))"
+                      },
+                      "children": [
+                        {
+                          "text": "my-passion-for-design-is-driven-by-curiosity-5a23d6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "about__services-d43f",
+          "label": "Services",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__service-company-website-design-16b5",
+              "label": "Service - Company website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-4540",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/10-i-m-a-visual-storyteller.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left center"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-full-pages-website-design-3fd3",
+              "label": "Service - Full pages Website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-5cbc",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/11-i-m-a-visual-storyteller.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-landing-page-design-4cc0",
+              "label": "Service - Landing page design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-577c",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/12-i-m-a-visual-storyteller.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left center"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-full-pages-website-design-6519",
+              "label": "Service - Full pages Website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-5930",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/13-i-m-a-visual-storyteller.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "i-m-a-visual-storyteller"
+  ]
+}

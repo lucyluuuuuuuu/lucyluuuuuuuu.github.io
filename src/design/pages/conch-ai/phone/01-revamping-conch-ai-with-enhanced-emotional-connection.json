@@ -1,0 +1,270 @@
+{
+  "tag": "div",
+  "class": "conch-ai__text",
+  "label": "text",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch",
+      "label": "Revamping Conch AI with Enhanced Emotional Connection & Seamless Character Creation and Management",
+      "rich": true,
+      "align": "bottom",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "20px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "revamping-conch-ai-with-enhanced-emotional-co-7028f8"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "20px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "seamless-character-creation-and-management-7000f2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-project-tags",
+      "label": "div.project-tags",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1yx5kge",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__div-project-tag-text",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__will-be-launched-in-q2-2024",
+                  "label": "Will be launched in Q2, 2024",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "will-be-launched-in-q2-2024-c2bbcb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__1ni0rk8",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__div-project-tag-text-81f2",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__ai-llm",
+                      "label": "AI & LLM",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                            "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "ai-llm-c2d0e0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__div-project-tag-text-3378",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__affective-computing",
+                      "label": "Affective Computing",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                            "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "affective-computing-41bf16"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__10ispz9",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__div-project-tag-text-7777",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__b2c",
+                  "label": "B2C",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "b2c-1350ee"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__div-project-tag-text-4848",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__redesign",
+                  "label": "Redesign",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "redesign-f75c47"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__div-project-tag-text-b0d2",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__motion-design",
+                  "label": "Motion Design",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "motion-design-9d1109"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch"
+  ]
+}

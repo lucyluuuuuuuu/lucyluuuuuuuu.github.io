@@ -1,0 +1,22 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__row",
+  "label": "Row",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__4lmq6q",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__1977r11-container",
+          "children": [
+            {
+              "include": "related-card/desktop-17d42a44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "div",
+  "class": "conch-ai__o3tdxn-container hidden-us1cmy hidden-1ir4fay",
+  "style": {
+    "transformPerspective": 1200
+  },
+  "appear": {
+    "from": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "transformPerspective": 1200,
+      "x": 0,
+      "y": 0
+    },
+    "to": {
+      "opacity": 1,
+      "rotate": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "transformPerspective": 1200,
+      "transition": {
+        "delay": 0,
+        "duration": 0.5,
+        "ease": [
+          0.44,
+          0,
+          0.56,
+          1
+        ],
+        "type": "tween"
+      },
+      "x": 0,
+      "y": 0
+    },
+    "once": true
+  },
+  "children": [
+    {
+      "include": "navigation/desktop-95344da1"
+    }
+  ]
+}

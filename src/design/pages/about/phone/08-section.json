@@ -1,0 +1,51 @@
+{
+  "tag": "div",
+  "class": "about__ixim7p hidden-1ynaae3 hidden-6o19c3",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__9mrsks",
+      "children": [
+        {
+          "tag": "div",
+          "class": "about__selected-works-e060",
+          "label": "Selected works",
+          "rich": true,
+          "align": "top",
+          "children": [
+            {
+              "tag": "h4",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(17, 17, 17)"
+              },
+              "children": [
+                {
+                  "text": "layer-bb1554"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-line-height": "150%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(17, 17, 17)"
+              },
+              "children": [
+                {
+                  "text": "i-enjoy-shooting-film-in-my-spare-time-2a71c8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

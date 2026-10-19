@@ -1,0 +1,18 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480597-973d",
+  "label": "Frame 1707480597",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480478",
+      "label": "Frame_1707480478",
+      "image": {
+        "src": "/assets/images/espoirer/43-highlight-task-call-to-action-to-ensure-drivers-can-find-the-most.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

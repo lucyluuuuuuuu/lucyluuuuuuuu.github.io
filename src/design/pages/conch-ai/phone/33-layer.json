@@ -1,0 +1,209 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479589-7148",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-c9b3",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-5-8645",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__after-usability-testing",
+              "label": "After usability testing...",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(102, 130, 236)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-font-size": "18px",
+                        "--framer-text-color": "rgb(217, 78, 119)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-7791e4"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "after-usability-testing-c2e35c"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__mbti-the-foundation-for-backend-character-modeling-however-unknow",
+          "label": "MBTI - The foundation for backend character modeling, however unknown to many users.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "mbti-the-foundation-for-backend-character-m-119281"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-text-block-7-851d",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__link-drayeasy-inc-5c1b",
+          "label": "Link → DrayEasy Inc.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "i-created-a-low-fidelity-prototype-for-the-ch-3d699f"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "creators-got-stuck-in-step-2-because-they-did-47811b"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC01MDA=",
+                "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-font-weight": "500",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "tag": "br",
+                  "class": "trailing-break"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "however-due-to-the-creation-logic-of-the-bac-3ec041"
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-521093"
+                    }
+                  ]
+                },
+                {
+                  "text": "our-backend-use-mbti-personality-types-to-cre-93543b"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-45d380"
+                    }
+                  ]
+                },
+                {
+                  "text": "and-further-tailored-with-different-prompts-104338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480117-1",
+          "label": "Frame 1707480117 1",
+          "image": {
+            "src": "/assets/images/conch-ai/25-mbti-the-foundation-for-backend-character-modeling-however-unknow.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "after-usability-testing"
+  ]
+}

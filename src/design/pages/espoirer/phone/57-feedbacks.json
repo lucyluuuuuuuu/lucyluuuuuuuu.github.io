@@ -1,0 +1,38 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-7a9b",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-7fa4",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__current-user-journey-pain-points-d4d0",
+          "label": "🗣 Current user journey & Pain points",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(217, 79, 119)"
+              },
+              "children": [
+                {
+                  "text": "feedbacks-0f55c4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

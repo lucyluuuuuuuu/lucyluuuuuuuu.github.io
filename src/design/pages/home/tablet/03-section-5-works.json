@@ -1,0 +1,205 @@
+{
+  "tag": "div",
+  "class": "home__section-5-works",
+  "label": "Section 5 - Works",
+  "anchor": "works",
+  "children": [
+    {
+      "tag": "div",
+      "class": "home__selected-works",
+      "label": "Selected works",
+      "rich": true,
+      "align": "top",
+      "children": [
+        {
+          "tag": "h4",
+          "style": {
+            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+            "--framer-font-size": "24px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "left",
+            "--framer-text-color": "rgb(17, 17, 17)"
+          },
+          "children": [
+            {
+              "text": "selected-works-a1bf1f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home__container-dea0",
+      "label": "Container",
+      "children": [
+        {
+          "tag": "div",
+          "class": "home__row home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__1heycwl-container",
+              "children": [
+                {
+                  "include": "work-card/tablet-c935d97e"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "U1cJqybpf"
+          },
+          "newTab": false
+        },
+        {
+          "tag": "div",
+          "class": "home__row-1022 home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__bz50wz-container",
+              "children": [
+                {
+                  "include": "work-card/tablet-195bccdf"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "i8Gkkkz1B"
+          },
+          "newTab": false
+        },
+        {
+          "tag": "div",
+          "class": "home__row-3f35 home__row-b1a9",
+          "label": "Row",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 150
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__1xjvnqw-container",
+              "children": [
+                {
+                  "include": "work-card/tablet-baffc868"
+                }
+              ]
+            }
+          ],
+          "link": {
+            "webPageId": "po8hl0KmD"
+          },
+          "newTab": false
+        }
+      ]
+    }
+  ]
+}

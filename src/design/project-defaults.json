@@ -1,0 +1,50 @@
+[
+  {
+    "id": "espoirer",
+    "path": "/work/Espoirer/",
+    "name": "ESPOIRER",
+    "published": true,
+    "summary": "Accelerating the Last Mile Delivery through Enhanced Task Management & Streamlined Process",
+    "status": "Launched in Japan, December 2023",
+    "tags": [
+      "Cross-border Delivery Service",
+      "B2B",
+      "0 to 1",
+      "IOS & Andriod"
+    ],
+    "cover": "/assets/images/espoirer/01-project-cover.png",
+    "accent": "#4266c9"
+  },
+  {
+    "id": "conch-ai",
+    "path": "/work/Conch.AI/",
+    "name": "CONCH.AI",
+    "published": true,
+    "summary": "Revamping Conch AI with Emotional Connection & Seamless Character Creation and Management",
+    "status": "Will be launched in Q2, 2024",
+    "tags": [
+      "AI & LLM",
+      "B2C",
+      "Redesign",
+      "Motion Design"
+    ],
+    "cover": "/assets/images/conch-ai/01-project-cover.png",
+    "accent": "#8056cf"
+  },
+  {
+    "id": "fleet-ai",
+    "path": "/work/Fleet.AI/",
+    "name": "FLEET.AI",
+    "published": true,
+    "summary": "An AI powered short-term meeting task management tool with soft reminders to boost productivity",
+    "status": "Concept Project",
+    "tags": [
+      "AI & ML",
+      "Saas",
+      "B2B",
+      "0 to 1"
+    ],
+    "cover": "/assets/images/fleet-ai/01-project-cover.png",
+    "accent": "#365ac9"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__project-statement-3e46",
+  "label": "Project Statement",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__bp8dmi",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__2024-04-16-12-10-48-2024-04-16-12-12-19-0a1f",
+          "label": "$2024_04_16_12_10_48_2024_04_16_12_12_19",
+          "image": {
+            "src": "/assets/images/fleet-ai/33-switch-between-different-views-tailored-for-various-roles-during.gif",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ]
+}

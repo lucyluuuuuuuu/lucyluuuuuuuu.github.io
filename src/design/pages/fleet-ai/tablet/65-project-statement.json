@@ -1,0 +1,58 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__project-statement-f478",
+  "label": "Project Statement",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__uzdofd",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 80
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__2024-04-16-12-10-48-2024-04-16-12-12-19-a3cb",
+          "label": "$2024_04_16_12_10_48_2024_04_16_12_12_19",
+          "image": {
+            "src": "/assets/images/fleet-ai/36-apply-soft-reminder-to-nudge-without-overwhelming.gif",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ]
+}

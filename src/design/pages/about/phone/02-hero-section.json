@@ -1,0 +1,350 @@
+{
+  "tag": "div",
+  "class": "about__hero-section",
+  "label": "Hero section",
+  "anchor": "hero",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__container",
+      "label": "Container",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "about__wechatimg1335",
+          "label": "WechatIMG1335",
+          "image": {
+            "src": "/assets/images/about/01-introduction.jpg",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        },
+        {
+          "tag": "div",
+          "class": "about__information",
+          "label": "Information",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__body",
+              "label": "Body",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__website-designer-based-in-jakarta-indonesia",
+                  "label": "Website designer based in Jakarta, Indonesia.",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "h6",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "hi-there-again-i-m-lucy-lu-a314b3"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "as-a-designer-deeply-passionate-about-emergin-040bd9"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product-535c",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "after-working-in-the-architectural-filed-for-719205"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product-96f4",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "now-as-a-product-designer-i-am-excited-to-b-de0d85"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product-6874",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "master-of-landscape-architecture-the-uni-476b05"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product-ad0d",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "my-mbti-personality-infp-5b4678"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__passionate-creating-great-experiences-for-digital-product-74a3",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "recent-obsession-film-photography-1f6340"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__actions",
+              "label": "Actions",
+              "children": [
+                {
+                  "tag": "a",
+                  "class": "about__121y3fr about__9x8fx9",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "about__14aq6op-container",
+                      "children": [
+                        {
+                          "include": "button/phone-66ebff51"
+                        }
+                      ]
+                    }
+                  ],
+                  "link": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+                  "newTab": true
+                },
+                {
+                  "tag": "div",
+                  "class": "about__socials-2",
+                  "label": "Socials - 2",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0.001,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 0
+                    },
+                    "to": {
+                      "opacity": 1,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "x": 0,
+                      "y": 0
+                    },
+                    "once": true
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "about__1gqnup6-container",
+                      "children": [
+                        {
+                          "include": "social/phone-10fe4baa"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "about__1rkijd7-container",
+                      "children": [
+                        {
+                          "include": "social/phone-a895a7b5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "introduction",
+    "hi-there-again-i-m-lucy-lu"
+  ]
+}

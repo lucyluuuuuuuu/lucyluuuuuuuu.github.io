@@ -1,0 +1,43 @@
+{
+  "tag": "div",
+  "class": "conch-ai__gradient-21",
+  "label": "Gradient 21",
+  "appear": {
+    "from": {
+      "opacity": 1,
+      "rotate": 0,
+      "rotateX": 30,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 0
+    },
+    "to": {
+      "opacity": 1,
+      "rotate": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "transition": {
+        "damping": 100,
+        "delay": 0,
+        "mass": 1,
+        "stiffness": 500,
+        "type": "spring"
+      },
+      "x": 0,
+      "y": 0
+    },
+    "once": true
+  },
+  "image": {
+    "src": "/assets/images/conch-ai/02-revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch.png",
+    "alt": "",
+    "fit": "cover",
+    "position": "50% 50%"
+  }
+}

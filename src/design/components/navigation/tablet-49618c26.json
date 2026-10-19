@@ -1,0 +1,93 @@
+{
+  "tag": "div",
+  "class": "navigation__root navigation__desktop navigation__variant-tablet-close",
+  "label": "Tablet - Close",
+  "style": {
+    "backgroundColor": "rgb(0, 0, 0)",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "navigation__container-responsive",
+      "label": "Container - Responsive",
+      "children": [
+        {
+          "tag": "div",
+          "class": "navigation__846vcz",
+          "children": [
+            {
+              "tag": "div",
+              "class": "navigation__1u93b7b-container",
+              "children": [
+                {
+                  "include": "logo/tablet-ff2a4511"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "navigation__ls5ov9",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "navigation__menu-151c",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "navigation__menu-8819",
+                      "label": "Menu",
+                      "children": [
+                        {
+                          "include": "menu-item/tablet-4bae9bb9"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "navigation__menu-c8e5",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "navigation__menu-01d7",
+                      "label": "Menu",
+                      "children": [
+                        {
+                          "include": "menu-item/tablet-06762485"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "class": "navigation__menu-3f41 navigation__menu-6202",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "navigation__menu-b136",
+                      "label": "Menu",
+                      "children": [
+                        {
+                          "include": "menu-item/tablet-19b19ff0"
+                        }
+                      ]
+                    }
+                  ],
+                  "link": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+                  "newTab": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "component": "navigation"
+}

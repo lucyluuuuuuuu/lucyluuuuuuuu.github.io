@@ -1,0 +1,225 @@
+{
+  "tag": "div",
+  "class": "conch-ai__solution-2",
+  "label": "Solution 2",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480511",
+      "label": "Frame 1707480511",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": -50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1k2nq44",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-07-16-23-29-2024-04-07-16-24-49",
+              "label": "$2024_04_07_16_23_29_2024_04_07_16_24_49",
+              "image": {
+                "src": "/assets/images/conch-ai/07-find-ai-characters-for-everyone.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__ntimma",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-21-19-16-27-2024-04-21-19-19-50",
+              "label": "$2024_04_21_19_16_27_2024_04_21_19_19_50",
+              "image": {
+                "src": "/assets/images/conch-ai/08-find-ai-characters-for-everyone.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480039",
+      "label": "Frame 1707480039",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480038-2da1",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__p-label-serif-0346",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__solution-2-personalization",
+                  "label": "Solution 2. Personalization",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(102, 130, 236)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "solution-2-personalization-9235c5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-3-87e4",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__chat-emotionally-just-like-talking-to-a-real-one",
+                  "label": "Chat emotionally, just like talking to a real one.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "28px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "40px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "chat-emotionally-just-like-talking-to-a-real-67fc56"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__p-paragraph-light-3b4c",
+          "label": "p.paragraph-light",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__a-familiar-chat-experience-with-emotional-expressions-from-the-ma",
+              "label": "A familiar chat experience with emotional expressions from the machine, which bonds the user and AI character together.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "14px",
+                    "--framer-letter-spacing": "0.4px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "a-familiar-chat-experience-with-emotional-exp-a91102"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "chat-emotionally-just-like-talking-to-a-real-one",
+    "solution-2"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tag": "div",
+  "class": "navigation__root navigation__desktop navigation__variant-desktop",
+  "label": "Desktop",
+  "style": {
+    "backgroundColor": "rgb(0, 0, 0)",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "navigation__container-desktop",
+      "label": "Container - Desktop",
+      "children": [
+        {
+          "tag": "div",
+          "class": "navigation__oky6bi-container",
+          "children": [
+            {
+              "include": "logo/desktop-ff2a4511"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "navigation__menus",
+          "label": "Menus",
+          "children": [
+            {
+              "tag": "div",
+              "class": "navigation__menu",
+              "label": "Menu",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "navigation__menu-ddce",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "include": "menu-item/desktop-4bae9bb9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "navigation__menu-f4be",
+              "label": "Menu",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "navigation__menu-172f",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "include": "menu-item/desktop-06762485"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "class": "navigation__menu-58b3 navigation__menu-6202",
+              "label": "Menu",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "navigation__menu-4b45",
+                  "label": "Menu",
+                  "children": [
+                    {
+                      "include": "menu-item/desktop-19b19ff0"
+                    }
+                  ]
+                }
+              ],
+              "link": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
+              "newTab": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "component": "navigation"
+}

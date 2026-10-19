@@ -1,0 +1,187 @@
+{
+  "tag": "div",
+  "class": "espoirer__div-reaction-fd-content-wrap-copy-margin-2f1c",
+  "label": "div.reaction-fd-content-wrap-copy:margin",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__div-reaction-fd-content-wrap-copy-390f",
+      "label": "div.reaction-fd-content-wrap-copy",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707479653-39c0",
+          "label": "Frame 1707479653",
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "x": -50,
+              "y": 0
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.3,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-05-16-15-1",
+              "label": "截屏2024-04-05 16.15 1",
+              "image": {
+                "src": "/assets/images/espoirer/13-scan-to-enroll-packages.png",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__2024-04-05-16-16-1",
+              "label": "截屏2024-04-05 16.16 1",
+              "image": {
+                "src": "/assets/images/espoirer/14-scan-to-enroll-packages.png",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480039-2156",
+          "label": "Frame 1707480039",
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "x": 50,
+              "y": 0
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.3,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480038-63e2",
+              "label": "Frame 1707480038",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__p-label-serif-40c8",
+                  "label": "p.label-serif",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__solution-4-monetization",
+                      "label": "Solution 4. Monetization",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-font-size": "14px",
+                            "--framer-letter-spacing": "0.8px",
+                            "--framer-line-height": "16px",
+                            "--framer-text-color": "rgb(217, 78, 119)",
+                            "--framer-text-transform": "capitalize"
+                          },
+                          "children": [
+                            {
+                              "text": "solution-4-b76930"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-3-8882",
+                  "label": "Heading 3",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__let-s-talk-about-money",
+                      "label": "Let‘s talk about money!",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "28px",
+                            "--framer-letter-spacing": "0.4px",
+                            "--framer-line-height": "40px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "home-analytics-90723c"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "home-analytics"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-0184",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__77",
+      "label": "$77",
+      "image": {
+        "src": "/assets/images/fleet-ai/19-find-inspiration-and-gaps-among-existing-products-to-identify-opp.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-2f64",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707479588-3c6b",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__heading-5-b625",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__impact-4785",
+              "label": "🚀 Impact",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "thus-we-ask-c8a997"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__user-testing-shows-exciting-results-f0f2",
+          "label": "User testing shows exciting results !",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "32px",
+                "--framer-line-height": "150%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "how-might-we-07a25e"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "simplify-6f023f"
+                    }
+                  ]
+                },
+                {
+                  "text": "the-process-of-76fe58"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "extracting-949368"
+                    }
+                  ]
+                },
+                {
+                  "text": "action-items-5407a8"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "updating-682849"
+                    }
+                  ]
+                },
+                {
+                  "text": "action-items-5407a8"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "and-following-up-5f52fa"
+                    }
+                  ]
+                },
+                {
+                  "text": "action-items-for-meetings-9bfce4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "how-might-we-simplify-the-process-of-extracting-action-items-upda"
+  ]
+}

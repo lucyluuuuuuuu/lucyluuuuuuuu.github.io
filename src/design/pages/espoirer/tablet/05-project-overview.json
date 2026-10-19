@@ -1,0 +1,335 @@
+{
+  "tag": "div",
+  "class": "espoirer__project-overview-1337",
+  "label": "Project Overview",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__1p2za5l",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__1gloz3x",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707479589-9c62",
+              "label": "Frame 1707479589",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-text-block-7-8932",
+                  "label": "div.text-block-7",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__link-drayeasy-inc-0b3a",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(177, 177, 177)"
+                          },
+                          "children": [
+                            {
+                              "text": "for-the-whole-project-5a8e30"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(245, 245, 247)"
+                              },
+                              "children": [
+                                {
+                                  "text": "we-designed-an-ios-and-android-mobile-applica-86719e"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "for-espoirer-staff-courier-managers-and-the-ebf709"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707479589-84ab hidden-133ambs hidden-1py0rzo",
+              "label": "Frame 1707479589",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-text-block-7-569e",
+                  "label": "div.text-block-7",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__link-drayeasy-inc-117e",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(177, 177, 177)"
+                          },
+                          "children": [
+                            {
+                              "text": "for-the-whole-project-5a8e30"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(245, 245, 247)"
+                              },
+                              "children": [
+                                {
+                                  "text": "we-designed-an-ios-and-android-mobile-applica-86719e"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "for-espoirer-staff-courier-managers-and-the-ebf709"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707479589-50cd",
+              "label": "Frame 1707479589",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__div-text-block-7-3c7b",
+                  "label": "div.text-block-7",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 20
+                    },
+                    "to": {
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "opacity": 1,
+                      "x": 0,
+                      "y": 0,
+                      "scale": 1
+                    },
+                    "once": true
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__link-drayeasy-inc-944f",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(177, 177, 177)"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(245, 245, 247)"
+                              },
+                              "children": [
+                                {
+                                  "text": "i-am-the-design-owner-of-two-features-in-the-019707"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "aiming-to-streamline-the-task-management-and-79c3f5"
+                            },
+                            {
+                              "tag": "br"
+                            },
+                            {
+                              "text": "while-several-other-designers-focused-on-feat-632979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480227-1-6db5",
+          "label": "Frame 1707480227 1",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 80
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "image": {
+            "src": "/assets/images/espoirer/04-we-are-taking-care-of-the-last-mile-delivery.png",
+            "alt": "",
+            "fit": "fit",
+            "position": "center center"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+/* Original work-card layout, responsive variants and hover states. */
+@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }
+.work-card__root.work-card__button-dff2, .work-card__root .work-card__button-dff2 { display: block; }
+.work-card__root.work-card__card-work { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 52px; height: 790px; justify-content: flex-start; overflow: hidden; padding: 20px; position: relative; width: 1040px; will-change: var(--framer-will-change-override, transform); }
+.work-card__root .work-card__content { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 52px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.work-card__root .work-card__content-5210 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.work-card__root .work-card__b5nvzu { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; z-index: 0; }
+.work-card__root .work-card__image { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 520px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 1px; z-index: 0; }
+.work-card__root .work-card__text { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; z-index: 2; }
+.work-card__root .work-card__title { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.work-card__root .work-card__construction-company, .work-card__root .work-card__struktura { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }
+.work-card__root .work-card__optional-tags { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: min-content; }
+.work-card__root .work-card__qtckj0, .work-card__root .work-card__1dxycj5 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 12px; height: 44px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }
+.work-card__root .work-card__tag, .work-card__root .work-card__tag-dbcf, .work-card__root .work-card__tag-3eb5, .work-card__root .work-card__tag-071f, .work-card__root .work-card__tag-9374 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 8px; height: auto; justify-content: flex-start; overflow: hidden; padding: 10px 20px 10px 20px; position: relative; width: min-content; will-change: var(--framer-will-change-override, transform); }
+.work-card__root .work-card__1y3yxsz, .work-card__root .work-card__1t3a5hq, .work-card__root .work-card__1m4dyom, .work-card__root .work-card__11tb5fa, .work-card__root .work-card__ty73wk { flex: none; height: auto; position: relative; white-space: pre; width: auto; }
+.work-card__root .work-card__button { flex: none; height: 48px; overflow: visible; position: relative; width: 169px; }
+.work-card__root .work-card__1042hl0-container { flex: none; height: auto; left: 50%; position: absolute; top: 50%; width: auto; }
+.work-card__root .work-card__button-2115 { flex: none; height: 48px; overflow: visible; position: relative; width: 610px; }
+.work-card__root .work-card__g154c9-container { flex: none; height: auto; left: 1px; position: absolute; top: 50%; width: auto; }
+
+.work-card__root.work-card__variant-tablet-card-work.work-card__card-work { height: 700px; width: 650px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__content { align-content: center; align-items: center; gap: 40px; width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__content-5210 { height: 770px; justify-content: flex-start; width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__b5nvzu { height: 400px; width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__image { flex: none; height: 400px; width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__text, .work-card__root.work-card__variant-tablet-card-work .work-card__title, .work-card__root.work-card__variant-tablet-card-work .work-card__construction-company, .work-card__root.work-card__variant-tablet-card-work .work-card__struktura { width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__optional-tags { flex-direction: column; width: 610px; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__qtckj0, .work-card__root.work-card__variant-tablet-card-work .work-card__1dxycj5, .work-card__root.work-card__variant-variant-5 .work-card__qtckj0, .work-card__root.work-card__variant-variant-5 .work-card__1dxycj5, .work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__content-5210 { height: min-content; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__tag, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-dbcf, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-3eb5, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-071f, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-9374 { height: 41px; }
+
+.work-card__root.work-card__variant-phone.work-card__card-work { cursor: unset; height: min-content; padding: 12px; width: 350px; }
+.work-card__root.work-card__variant-phone .work-card__content { align-content: center; align-items: center; gap: 28px; width: 326px; }
+.work-card__root.work-card__variant-phone .work-card__b5nvzu, .work-card__root.work-card__variant-phone .work-card__construction-company, .work-card__root.work-card__variant-phone .work-card__struktura { width: 326px; }
+.work-card__root.work-card__variant-phone .work-card__image { flex: none; height: 240px; width: 326px; }
+.work-card__root.work-card__variant-phone .work-card__text { gap: 20px; }
+.work-card__root.work-card__variant-phone .work-card__optional-tags { align-content: center; align-items: center; flex-direction: column; width: 326px; }
+.work-card__root.work-card__variant-phone .work-card__qtckj0 { flex-direction: column; height: min-content; }
+.work-card__root.work-card__variant-phone .work-card__tag, .work-card__root.work-card__variant-phone .work-card__tag-dbcf { padding: 8px 16px 8px 16px; }
+.work-card__root.work-card__variant-phone .work-card__1dxycj5 { height: 34px; }
+.work-card__root.work-card__variant-phone .work-card__tag-3eb5 { order: 0; padding: 8px 16px 8px 16px; }
+.work-card__root.work-card__variant-phone .work-card__1m4dyom { order: 0; }
+.work-card__root.work-card__variant-phone .work-card__tag-071f { order: 1; padding: 8px 16px 8px 16px; }
+.work-card__root.work-card__variant-phone .work-card__tag-9374 { order: 2; padding: 8px 16px 8px 16px; }
+.work-card__root.work-card__variant-phone .work-card__button { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 45px; justify-content: center; padding: 0px; text-decoration: none; width: 151px; }
+.work-card__root.work-card__variant-phone .work-card__1042hl0-container { left: unset; position: relative; top: unset; }
+
+.work-card__root.work-card__variant-variant-5.work-card__card-work { height: 810px; width: 589px; }
+.work-card__root.work-card__variant-variant-5 .work-card__image { flex: none; width: 549px; }
+.work-card__root.work-card__variant-variant-5 .work-card__optional-tags { flex-direction: column; }
+
+.work-card__root.work-card__variant-card-work:is(:hover,:focus-within) .work-card__b5nvzu { height: 420px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-card-work:is(:hover,:focus-within) .work-card__image { bottom: -100px; flex: none; height: unset; left: calc(50.00000000000002% - max(400px, 100%) / 2); min-width: 400px; overflow: hidden; position: absolute; top: 0px; width: 100%; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-variant-5:active .work-card__content { gap: 40px; }
+.work-card__root.work-card__variant-variant-5:active .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 432px; overflow: hidden; width: 549px; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-variant-5:active .work-card__image { display: block; order: 0; padding: unset; }
+
+.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__content { align-content: flex-start; align-items: flex-start; justify-content: flex-start; }
+.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 312px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__image { justify-content: flex-start; order: 0; }
+.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__button-2115 { text-decoration: none; }

@@ -1,0 +1,272 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__18w31s3",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__13fwcjk",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__1u0ik3z",
+          "style": {
+            "transform": "translateX(-50%)"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480684-e4cf",
+              "label": "Frame 1707480684",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480101-f92a",
+                  "label": "Frame 1707480101",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__1-2d9a",
+                      "label": "1",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0.08px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-alignment": "center",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "1-391552"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__switch-between-focusing-on-lists-of-action-items-and-detailed-con-10ab",
+              "label": "Switch between focusing on lists of action items and detailed contents of specific action items.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-letter-spacing": "-0.02em",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "action-items-are-editable-and-can-be-regener-923cee"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__1ksdom7",
+          "style": {
+            "transform": "translateX(-50%)"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-1fe0",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-350a",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-634c",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-45f5",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "130%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "regenerate-947a27"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "providing-different-options-e14b5a"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-a152",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-54db",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-4da1",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-d063",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "mark-3b8464"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "save-for-later-consideration-36eb5a"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480586-9ba8",
+              "label": "Frame 1707480586",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__frame-1707480585-c54c",
+                  "label": "Frame 1707480585",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__rectangle-3463367-b837",
+                      "label": "Rectangle 3463367",
+                      "style": {
+                        "rotate": 1,
+                        "transform": "translate(-50%, -50%)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-052d",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "edit-496931"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "support-manual-modification-5bf4f0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

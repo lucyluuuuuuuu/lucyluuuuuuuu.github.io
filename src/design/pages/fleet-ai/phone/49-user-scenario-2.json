@@ -1,0 +1,85 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-f193",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-1561",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__8ece10",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-053a",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(24, 195, 171)"
+                  },
+                  "children": [
+                    {
+                      "text": "user-scenario-2-331452"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__ienqzs",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__link-drayeasy-inc-035a",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(26, 28, 31)"
+                  },
+                  "children": [
+                    {
+                      "text": "towards-the-end-of-the-meeting-the-meeting-h-988203"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707480729-2f27 hidden-1oq2z4x hidden-wuwcaq",
+      "label": "Frame_1707480729",
+      "image": {
+        "src": "/assets/images/fleet-ai/23-in-order-to-understand-how-features-can-be-realize-i-create-3-sto.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "tag": "div",
+  "class": "contact__root contact__desktop contact__variant-desktop",
+  "label": "Desktop",
+  "style": {
+    "backgroundColor": "var(--token-77dfc939-fcb4-4afe-aa3a-8eac9edd37f6, rgb(255, 255, 255))",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "contact__container",
+      "label": "Container",
+      "children": [
+        {
+          "tag": "div",
+          "class": "contact__headline",
+          "label": "Headline",
+          "children": [
+            {
+              "tag": "div",
+              "class": "contact__have-a-project",
+              "label": "Have a project?",
+              "style": {
+                "--extracted-r6o4lv": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "20px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-alignment": "center",
+                    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                  },
+                  "children": [
+                    {
+                      "text": "thank-you-for-your-scrolling-5593d1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "contact__let-s-talk-with-me",
+              "label": "Let's talk with me",
+              "style": {
+                "--extracted-gdpscs": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+              },
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "h2",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "40px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-alignment": "center",
+                    "--framer-text-color": "var(--extracted-gdpscs, var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17)))"
+                  },
+                  "children": [
+                    {
+                      "text": "open-to-interesting-challenges-9dd4d4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "contact__action",
+          "label": "Action",
+          "children": [
+            {
+              "tag": "div",
+              "class": "contact__449829-container",
+              "children": [
+                {
+                  "include": "button/tablet-c5e3e753"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "contact__time",
+              "label": "Time",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "contact__my-local-time",
+                  "label": "My local time",
+                  "style": {
+                    "--extracted-3sq8v0": "rgb(17, 17, 17)",
+                    "--extracted-r6o4lv": "var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128))"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-line-height": "160%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128)))"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--framer-font-size": "18px"
+                          },
+                          "children": [
+                            {
+                              "text": "this-website-is-best-viewed-on-desktop-67827f"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "SW50ZXI=",
+                            "--framer-font-family": "\"Inter\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-text-color": "var(--extracted-3sq8v0, rgb(17, 17, 17))"
+                          },
+                          "children": [
+                            {
+                              "tag": "br"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--framer-font-size": "18px"
+                          },
+                          "children": [
+                            {
+                              "text": "2024-built-with-by-lucy-lu-c7eb35"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "component": "contact"
+}

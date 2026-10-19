@@ -1,0 +1,43 @@
+/* Original related-card layout, responsive variants and hover states. */
+@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }
+.related-card__root.related-card__tablet-card-work-3e3d, .related-card__root .related-card__tablet-card-work-3e3d { display: block; }
+.related-card__root.related-card__tablet-card-work { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 52px; height: 599px; justify-content: flex-start; overflow: hidden; padding: 20px; position: relative; width: 440px; will-change: var(--framer-will-change-override, transform); }
+.related-card__root .related-card__10hkt3j { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: 320px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; z-index: 0; }
+.related-card__root .related-card__image { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 320px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 400px; z-index: 0; }
+.related-card__root .framer-pv4b49-container { flex: none; height: auto; position: relative; width: auto; }
+.related-card__root .related-card__text { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 91%; z-index: 2; }
+.related-card__root .related-card__title { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 12px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.related-card__root .related-card__struktura, .related-card__root .related-card__construction-company { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }
+.related-card__root .related-card__category { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }
+.related-card__root .framer-13kd7kt { flex: none; height: 72px; overflow: hidden; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }
+
+.related-card__root.related-card__variant-tablet-card-work.related-card__tablet-card-work { cursor: pointer; height: min-content; text-decoration: none; width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work .related-card__10hkt3j, .related-card__root.related-card__variant-tablet-card-work .related-card__image { height: 240px; width: 360px; }
+.related-card__root.related-card__variant-tablet-card-work .related-card__text { width: 332px; }
+.related-card__root.related-card__variant-tablet-card-work .related-card__title, .related-card__root.related-card__variant-tablet-card-work .related-card__construction-company { width: 360px; }
+.related-card__root.related-card__variant-tablet-card-work .related-card__struktura { order: 1; width: 360px; }
+.related-card__root.related-card__variant-tablet-card-work .related-card__category { order: 0; width: 360px; }
+.related-card__root.related-card__variant-phone.related-card__tablet-card-work { height: min-content; width: 520px; }
+.related-card__root.related-card__variant-phone .related-card__10hkt3j { height: min-content; }
+.related-card__root.related-card__variant-phone .related-card__image { flex: 1 0 0px; height: 240px; width: 1px; }
+.related-card__root.related-card__variant-tablet.related-card__tablet-card-work { cursor: pointer; height: min-content; text-decoration: none; width: 320px; }
+.related-card__root.related-card__variant-tablet .related-card__10hkt3j, .related-card__root.related-card__variant-tablet .related-card__image { height: 200px; width: 280px; }
+.related-card__root.related-card__variant-tablet .related-card__text, .related-card__root.related-card__variant-tablet .related-card__title, .related-card__root.related-card__variant-tablet .related-card__construction-company { width: 280px; }
+.related-card__root.related-card__variant-tablet .related-card__struktura { order: 1; width: 280px; }
+.related-card__root.related-card__variant-tablet .related-card__category { order: 0; width: 280px; }
+.related-card__root.related-card__variant-iso.related-card__tablet-card-work { gap: 16px; height: min-content; padding: 0px 0px 16px 0px; text-decoration: none; width: 160px; }
+.related-card__root.related-card__variant-iso .related-card__10hkt3j, .related-card__root.related-card__variant-iso .related-card__image { height: 120px; width: 160px; }
+.related-card__root.related-card__variant-iso .related-card__text, .related-card__root.related-card__variant-iso .related-card__construction-company { width: 160px; }
+.related-card__root.related-card__variant-iso .related-card__title { gap: 8px; width: 160px; }
+.related-card__root.related-card__variant-iso .related-card__struktura { order: 1; width: 160px; }
+.related-card__root.related-card__variant-iso .related-card__category { order: 0; width: 160px; }
+
+.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within).related-card__tablet-card-work { gap: 45px; padding: 0px 0px 20px 0px; }
+.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__10hkt3j { aspect-ratio: 1.5 / 1; height: var(--framer-aspect-ratio-supported, 267px); width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__image { aspect-ratio: 1.5 / 1; height: 267px; width: var(--framer-aspect-ratio-supported, 400px); }
+.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__text { width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__title { padding: 0px 0px 0px 20px; width: 400px; }
+
+.related-card__root.related-card__variant-tablet:is(:hover,:focus-within).related-card__tablet-card-work { gap: 37px; padding: 0px 0px 20px 0px; }
+.related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__10hkt3j, .related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__image { height: 235px; width: 320px; }
+.related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__text { padding: 0px 0px 0px 20px; width: 320px; }

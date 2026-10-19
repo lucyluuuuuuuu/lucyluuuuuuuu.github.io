@@ -1,0 +1,195 @@
+{
+  "tag": "div",
+  "class": "about__section-service",
+  "label": "Section - Service",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__container-0608",
+      "label": "Container",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.9,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "about__text",
+          "label": "Text",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__headline",
+              "label": "Headline",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__let-me-assist-you-in-achieving-your-goals",
+                  "label": "Let me assist you in achieving your goals",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "h5",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-a-good-team-player-743589"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__i-offer-expertise-in-web-development-problem-solving-and-strategi",
+                  "label": "I offer expertise in web development, problem-solving, and strategic planning for tailored solutions that match your unique needs.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128))"
+                      },
+                      "children": [
+                        {
+                          "text": "4-years-of-professional-experience-has-trans-a2ece6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "about__services",
+          "label": "Services",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__service-full-pages-website-design",
+              "label": "Service - Full pages Website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/02-i-m-a-good-team-player.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-framer-development",
+              "label": "Service - Framer development",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-ebac",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/03-i-m-a-good-team-player.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-company-website-design",
+              "label": "Service - Company website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-8385",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/04-i-m-a-good-team-player.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-landing-page-design",
+              "label": "Service - Landing page design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-f826",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/05-i-m-a-good-team-player.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "left top"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "i-m-a-good-team-player"
+  ]
+}

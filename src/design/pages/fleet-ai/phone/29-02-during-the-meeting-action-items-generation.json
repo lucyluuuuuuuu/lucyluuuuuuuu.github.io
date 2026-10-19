@@ -1,0 +1,64 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707480586-ab9a hidden-1oq2z4x hidden-wuwcaq",
+  "label": "Frame 1707480586",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__1al3rb3-container hidden-1oq2z4x",
+      "children": [
+        {
+          "tag": "div",
+          "style": {
+            "height": "100%",
+            "width": "100%"
+          },
+          "motion": {
+            "kind": "ticker",
+            "direction": "left",
+            "gap": 10,
+            "speed": 100,
+            "padding": 10,
+            "fade": true,
+            "fadeWidth": 25,
+            "alignment": "center"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__1krylxs",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__heading-2-03-task-list-map-view-7d5c",
+                  "label": "Heading 2 → 03. Task List & Map View",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "24px",
+                        "--framer-letter-spacing": "-1px",
+                        "--framer-line-height": "115.2px",
+                        "--framer-text-color": "rgb(255, 255, 255)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "02-during-the-meeting-action-items-generati-db0486"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

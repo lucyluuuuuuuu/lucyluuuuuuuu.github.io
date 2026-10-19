@@ -1,0 +1,244 @@
+{
+  "tag": "div",
+  "class": "conch-ai__rwh8jz",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480032",
+      "label": "Frame 1707480032",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479588-8e46",
+          "label": "Frame 1707479588",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 20
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-5-d2c2",
+              "label": "Heading 5",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__in-order-to-get-inspiration-i-conduct-the-competitive-analysis",
+                  "label": "👩‍💻 In order to get inspiration, I conduct the competitive analysis.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(102, 130, 236)"
+                      },
+                      "children": [
+                        {
+                          "text": "in-order-to-get-inspiration-i-conduct-527e76"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__enhancing-interactions-through-character-design-motion-solutions-",
+              "label": "Enhancing interactions through character design, motion solutions, paid features, and community engagement.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "28px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(26, 28, 31)"
+                  },
+                  "children": [
+                    {
+                      "text": "enhancing-interactions-through-character-desi-5d3cb7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480592",
+          "label": "Frame 1707480592",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 20
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__div-text-block-7-0e36",
+              "label": "div.text-block-7",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__link-drayeasy-inc-aac4",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(110, 110, 115)"
+                      },
+                      "children": [
+                        {
+                          "text": "before-brainstorming-innovative-solutions-i-ca3dbc"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(26, 28, 31)"
+                          },
+                          "children": [
+                            {
+                              "text": "conducted-an-in-depth-analysis-of-ai-companio-98efac"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "to-identify-how-competitors-are-22c79b"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(26, 28, 31)"
+                          },
+                          "children": [
+                            {
+                              "text": "enhancing-interactions-between-humans-and-ai-721880"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "and-7b9b27"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(26, 28, 31)"
+                          },
+                          "children": [
+                            {
+                              "text": "stimulating-the-creation-process-8317de"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "this-analysis-helped-me-to-uncover-our-oppo-fc683d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-03-02-16-43-1",
+              "label": "截屏2024-03-02 16.43 1",
+              "image": {
+                "src": "/assets/images/conch-ai/16-enhancing-interactions-through-character-design-motion-solutions.png",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "in-order-to-get-inspiration-i-conduct-the-competitive-analysis"
+  ]
+}

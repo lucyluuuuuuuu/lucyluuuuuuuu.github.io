@@ -1,0 +1,53 @@
+{
+  "tag": "a",
+  "class": "button__root button__variant-16 button__variant-primary-active button__variant-16-6456",
+  "label": "Primary , Active",
+  "style": {
+    "--border-bottom-width": "0px",
+    "--border-color": "rgba(0, 0, 0, 0)",
+    "--border-left-width": "0px",
+    "--border-right-width": "0px",
+    "--border-style": "solid",
+    "--border-top-width": "0px",
+    "backgroundColor": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))",
+    "borderBottomLeftRadius": 100,
+    "borderBottomRightRadius": 100,
+    "borderTopLeftRadius": 100,
+    "borderTopRightRadius": 100
+  },
+  "hover": {
+    "backgroundColor": "var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128))"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "button__placeholder",
+      "label": "Placeholder",
+      "style": {
+        "--extracted-r6o4lv": "var(--token-77dfc939-fcb4-4afe-aa3a-8eac9edd37f6, rgb(255, 255, 255))"
+      },
+      "rich": true,
+      "align": "center",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+            "--framer-line-height": "150%",
+            "--framer-text-alignment": "left",
+            "--framer-text-color": "var(--extracted-r6o4lv, var(--token-77dfc939-fcb4-4afe-aa3a-8eac9edd37f6, rgb(255, 255, 255)))"
+          },
+          "children": [
+            {
+              "text": "let-s-connect-f09b95"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": "mailto:lusiyi1994@outlook.com",
+  "newTab": false,
+  "component": "button"
+}

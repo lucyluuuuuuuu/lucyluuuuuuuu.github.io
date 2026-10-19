@@ -1,0 +1,231 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480612",
+  "label": "Frame 1707480612",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480521",
+      "label": "Frame 1707480521",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 80
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1vob35f",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__2024-04-09-15-06-35-2024-04-09-15-08-24",
+              "label": "$2024_04_09_15_06_35_2024_04_09_15_08_24",
+              "image": {
+                "src": "/assets/images/conch-ai/40-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479962",
+          "label": "Frame 1707479962",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__background-wave-sound-with-the-option-for-users-to-turn-it-on-or-",
+              "label": "Background wave sound with the option for users to turn it on or off.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "background-wave-sound-with-the-option-for-use-fe7453"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480371",
+          "label": "Frame 1707480371",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__different-facial-expressions-to-provide-users-with-immediate-emot",
+              "label": "Different facial expressions to provide users with immediate emotional feedbacks.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "different-facial-expressions-to-provide-users-32b3fe"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480372",
+          "label": "Frame 1707480372",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__edge-case-interrupting-ai-to-stop-it-from-talking-and-listen-to-t",
+              "label": "Edge Case: Interrupting AI to stop it from talking and listen to the user instead.",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "edge-case-interrupting-ai-to-stop-it-from-ta-f3fdfd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__vector-1680",
+          "label": "Vector 1680",
+          "svg": "<svg width=\"86\" height=\"10\" viewBox=\"-1 -1 86 10\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M84 4C84 1.79086 82.2091 0 80 0C77.7909 0 76 1.79086 76 4C76 6.20914 77.7909 8 80 8C82.2091 8 84 6.20914 84 4ZM8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8C6.20914 8 8 6.20914 8 4ZM80 3.25H78.5385V4.75H80V3.25ZM75.6154 3.25L72.6923 3.25V4.75H75.6154V3.25ZM69.7692 3.25L66.8462 3.25V4.75L69.7692 4.75V3.25ZM63.9231 3.25L61 3.25V4.75L63.9231 4.75V3.25ZM58.0769 3.25L55.1538 3.25V4.75H58.0769V3.25ZM52.2308 3.25H49.3077V4.75H52.2308V3.25ZM46.3846 3.25L43.4615 3.25V4.75H46.3846V3.25ZM40.5385 3.25L37.6154 3.25V4.75H40.5385V3.25ZM34.6923 3.25L31.7692 3.25V4.75L34.6923 4.75V3.25ZM28.8462 3.25L25.9231 3.25V4.75L28.8462 4.75V3.25ZM23 3.25H20.0769V4.75H23V3.25ZM17.1539 3.25L14.2308 3.25V4.75H17.1539V3.25ZM11.3077 3.25L8.38461 3.25V4.75H11.3077V3.25ZM5.46153 3.25L4 3.25V4.75H5.46153V3.25Z\" fill=\"#6783ED\"/>\n</svg>\n"
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__vector-1681",
+          "label": "Vector 1681",
+          "svg": "<svg width=\"86\" height=\"10\" viewBox=\"-1 -1 86 10\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M84 4C84 1.79086 82.2091 0 80 0C77.7909 0 76 1.79086 76 4C76 6.20914 77.7909 8 80 8C82.2091 8 84 6.20914 84 4ZM8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8C6.20914 8 8 6.20914 8 4ZM80 3.25H78.5385V4.75H80V3.25ZM75.6154 3.25L72.6923 3.25V4.75H75.6154V3.25ZM69.7692 3.25L66.8462 3.25V4.75L69.7692 4.75V3.25ZM63.9231 3.25L61 3.25V4.75L63.9231 4.75V3.25ZM58.0769 3.25L55.1538 3.25V4.75H58.0769V3.25ZM52.2308 3.25H49.3077V4.75H52.2308V3.25ZM46.3846 3.25L43.4615 3.25V4.75H46.3846V3.25ZM40.5385 3.25L37.6154 3.25V4.75H40.5385V3.25ZM34.6923 3.25L31.7692 3.25V4.75L34.6923 4.75V3.25ZM28.8462 3.25L25.9231 3.25V4.75L28.8462 4.75V3.25ZM23 3.25H20.0769V4.75H23V3.25ZM17.1539 3.25L14.2308 3.25V4.75H17.1539V3.25ZM11.3077 3.25L8.38461 3.25V4.75H11.3077V3.25ZM5.46153 3.25L4 3.25V4.75H5.46153V3.25Z\" fill=\"#6783ED\"/>\n</svg>\n"
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__vector-1682",
+          "label": "Vector 1682",
+          "svg": "<svg width=\"137\" height=\"10\" viewBox=\"-1 -1 137 10\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M135 4C135 1.79086 133.209 0 131 0C128.791 0 127 1.79086 127 4C127 6.20914 128.791 8 131 8C133.209 8 135 6.20914 135 4ZM8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8C6.20914 8 8 6.20914 8 4ZM131 3.25H129.488V4.75H131V3.25ZM126.464 3.25L123.44 3.25V4.75H126.464V3.25ZM120.417 3.25L117.393 3.25V4.75H120.417V3.25ZM114.369 3.25L111.345 3.25V4.75L114.369 4.75V3.25ZM108.321 3.25L105.298 3.25V4.75L108.321 4.75V3.25ZM102.274 3.25L99.25 3.25V4.75H102.274V3.25ZM96.2262 3.25H93.2024V4.75H96.2262V3.25ZM90.1786 3.25L87.1548 3.25V4.75H90.1786V3.25ZM84.131 3.25L81.1071 3.25V4.75L84.131 4.75V3.25ZM78.0833 3.25L75.0595 3.25V4.75L78.0833 4.75V3.25ZM72.0357 3.25L69.0119 3.25V4.75H72.0357V3.25ZM65.9881 3.25L62.9643 3.25V4.75H65.9881V3.25ZM59.9405 3.25H56.9166V4.75H59.9405V3.25ZM53.8928 3.25L50.869 3.25V4.75H53.8928V3.25ZM47.8452 3.25L44.8214 3.25V4.75H47.8452V3.25ZM41.7976 3.25L38.7738 3.25V4.75L41.7976 4.75V3.25ZM35.75 3.25L32.7262 3.25V4.75L35.75 4.75V3.25ZM29.7023 3.25L26.6785 3.25V4.75H29.7023V3.25ZM23.6547 3.25H20.6309V4.75H23.6547V3.25ZM17.6071 3.25L14.5833 3.25V4.75H17.6071V3.25ZM11.5595 3.25L8.53567 3.25V4.75L11.5595 4.75V3.25ZM5.51186 3.25L4 3.25V4.75L5.51186 4.75V3.25Z\" fill=\"#6783ED\"/>\n</svg>\n"
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__1vss8c5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480585-367f",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__rectangle-3463367-7f0d",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__when-ai-characters-express-joy-during-call-chats",
+              "label": "When AI characters express joy during call chats.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "14px",
+                    "--framer-line-height": "130%",
+                    "--framer-text-color": "rgb(255, 255, 255)"
+                  },
+                  "children": [
+                    {
+                      "text": "when-ai-characters-express-joy-during-call-ch-1e9daa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

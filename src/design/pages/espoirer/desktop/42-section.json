@@ -1,0 +1,18 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480597-f649",
+  "label": "Frame 1707480597",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479634-884c",
+      "label": "Frame_1707479634",
+      "image": {
+        "src": "/assets/images/espoirer/37-slide-to-start-task-optimize-route-new-drivers.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

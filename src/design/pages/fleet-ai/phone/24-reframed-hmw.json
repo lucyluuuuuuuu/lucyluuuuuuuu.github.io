@@ -1,0 +1,197 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-7424",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707479588-24e3",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__heading-5-104e",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__impact-f820",
+              "label": "🚀 Impact",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "14px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "reframed-hmw-2de637"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__user-testing-shows-exciting-results-63f2",
+          "label": "User testing shows exciting results !",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "how-might-we-07a25e"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(14, 211, 184)"
+              },
+              "children": [
+                {
+                  "text": "organize-meeting-action-items-logically-8e4203"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-15c5e7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "tag": "br"
+                },
+                {
+                  "text": "how-can-ai-powered-products-039dc3"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(14, 211, 184)"
+              },
+              "children": [
+                {
+                  "text": "build-trust-between-humans-and-ai-17c3cc"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-15c5e7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "tag": "br"
+                },
+                {
+                  "text": "how-might-we-complete-short-term-tasks-effici-1f13b2"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-line-height": "130%",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(14, 211, 184)"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "to-519f74"
+                    }
+                  ]
+                },
+                {
+                  "text": "improve-team-coordination-4c7c39"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "layer-15c5e7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "how-might-we-organize-meeting-action-items-logically-how-can-ai-p"
+  ]
+}

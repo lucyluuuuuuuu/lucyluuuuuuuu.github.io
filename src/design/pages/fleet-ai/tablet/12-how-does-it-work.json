@@ -1,0 +1,325 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-9865",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707479588-f2e9",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__heading-5-da0f",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__impact",
+              "label": "🚀 Impact",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "how-does-it-work-834ca1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__user-testing-shows-exciting-results",
+          "label": "User testing shows exciting results !",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "28px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "empowering-immediate-action-the-essential-sh-8452c8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707480714",
+      "label": "Frame 1707480714",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__meeting-notes-is-the-best-place-to-generate-action-items-and-we-w",
+          "label": "Meeting notes is the best place to generate action items, and we want to make this process as smooth as possible.",
+          "rich": true,
+          "align": "top",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "14px",
+                "--framer-letter-spacing": "0.5px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "meeting-notes-is-the-best-place-to-generate-a-204466"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__we-are-not-here-to-manage-quarter-milestones-and-yearly-goals-but",
+          "label": "We are not here to manage quarter milestones and yearly goals, but a small yet beautiful tool to help you jump start the tasks at hand - no matter how small they are. Day to day, we aim to help you focus on the meetings you participate and get productivity out of it. In the end, it’s the small achievements that add up to a big success.",
+          "rich": true,
+          "align": "top",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                "--framer-font-size": "14px",
+                "--framer-letter-spacing": "0.5px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(177, 177, 177)"
+              },
+              "children": [
+                {
+                  "text": "we-are-not-here-to-manage-quarter-milestones-0a022f"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480584",
+          "label": "Frame 1707480584",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480583",
+              "label": "Frame 1707480583",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__1-2597",
+                  "label": "1",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                        "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-letter-spacing": "0.5px",
+                        "--framer-line-height": "140%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "1-391552"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__meetings-are-the-places-where-the-most-action-items-are-generated",
+              "label": "Meetings are the places where the most action items are generated!",
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-letter-spacing": "0.5px",
+                    "--framer-line-height": "140%",
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "meetings-are-the-places-where-the-most-action-688374"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480585-d5dc",
+          "label": "Frame 1707480585",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__frame-1707480583-19d7",
+              "label": "Frame 1707480583",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__2",
+                  "label": "2",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                        "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-letter-spacing": "0.5px",
+                        "--framer-line-height": "140%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(255, 255, 255)"
+                      },
+                      "children": [
+                        {
+                          "text": "2-cc1131"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__focused-on-the-next-2-weeks-we-are-a-great-supplement-to-your-lon",
+              "label": "Focused on the next 2 weeks, we are a great supplement to your long-term planners.",
+              "rich": true,
+              "align": "top",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-letter-spacing": "0.5px",
+                    "--framer-line-height": "140%",
+                    "--framer-text-color": "rgb(23, 199, 174)"
+                  },
+                  "children": [
+                    {
+                      "text": "focused-on-the-next-2-weeks-we-are-a-great-s-96842a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "how-does-it-work"
+  ]
+}

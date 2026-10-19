@@ -1,0 +1,5 @@
+/* Original menu-item layout, responsive variants and hover states. */
+@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }
+.menu-item__root.menu-item__variant-1-c290, .menu-item__root .menu-item__variant-1-c290 { display: block; }
+.menu-item__root.menu-item__variant-1 { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 8px; height: min-content; justify-content: flex-start; overflow: visible; padding: 8px 0px 8px 0px; position: relative; text-decoration: none; width: min-content; }
+.menu-item__root .menu-item__playground { flex: none; height: auto; position: relative; white-space: pre; width: auto; }

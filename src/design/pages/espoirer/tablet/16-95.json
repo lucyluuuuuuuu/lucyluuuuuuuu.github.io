@@ -1,0 +1,641 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480020",
+  "label": "Frame 1707480020",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 40
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480019",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480018",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__1rgt7cx",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__u66h27",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__93",
+                              "label": "93",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "60px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "98px",
+                                    "--framer-text-color": "rgb(217, 78, 119)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "95-05d169"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__layer",
+                              "label": "%",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "44px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "70px",
+                                    "--framer-text-color": "rgb(217, 78, 119)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "layer-aae8bb"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1-e9a7",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__satisfaction-rate",
+                      "label": "Satisfaction Rate",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-color": "rgb(217, 78, 119)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "delivery-rate-96eb1f"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__p-paragraph-m",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__93-of-users-are-looking-forward-to-the-official-launch-and-can-t-",
+                  "label": "93% of users are looking forward to the official launch and can't wait to use our product.",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                        "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "140%",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "the-delivery-rate-has-increased-460049"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(244, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "from-79-to-95-d73976"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404-b9c3",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 40
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480019-5115",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480018-b820",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1-a65d",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__s7f02y",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__lyfkqa",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__32",
+                              "label": "32",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "60px",
+                                    "--framer-letter-spacing": "-0.5px",
+                                    "--framer-line-height": "98px",
+                                    "--framer-text-color": "rgb(217, 78, 119)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "30-f20e45"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "espoirer__layer-ce1e",
+                              "label": "%",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                    "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                    "--framer-font-size": "52px",
+                                    "--framer-letter-spacing": "0px",
+                                    "--framer-line-height": "70px",
+                                    "--framer-text-color": "rgb(217, 78, 119)"
+                                  },
+                                  "children": [
+                                    {
+                                      "text": "x-ba2df4"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1-ce03",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__task-success-rate",
+                      "label": "TASK SUCCESS RATE",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-color": "rgb(217, 78, 119)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "package-enrollment-ee6126"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__p-paragraph-m-c91d",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__enhance-the-task-success-rate-to-start-a-new-conversion-with-ai-c",
+                  "label": "Enhance the task success rate to start a new conversion with AI characters from 62% to 94%.",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "single-package-enrollment-time-has-been-reduc-9b4bb9"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(244, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "over-30s-to-1s-0cc3fc"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-w-node-1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404-e458",
+      "label": "div#w-node-_1ac5be23-d0a2-0c54-0f3a-bf46f1a0d171-a13d7404",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 40
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480019-8011",
+          "label": "Frame 1707480019",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480018-9177",
+              "label": "Frame 1707480018",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1-fabb",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__138i0ix",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__1xznkja",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "espoirer__heading-1-1590",
+                              "label": "Heading 1",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "espoirer__1irwih3",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "class": "espoirer__lvrah1",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "class": "espoirer__32-e24b",
+                                          "label": "32",
+                                          "rich": true,
+                                          "align": "center",
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "style": {
+                                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                                "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                                "--framer-font-size": "60px",
+                                                "--framer-letter-spacing": "-0.5px",
+                                                "--framer-line-height": "98px",
+                                                "--framer-text-color": "rgb(217, 78, 119)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "text": "2-cc1131"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "class": "espoirer__layer-27c0",
+                                          "label": "%",
+                                          "rich": true,
+                                          "align": "center",
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "style": {
+                                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                                                "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                                                "--framer-font-size": "52px",
+                                                "--framer-letter-spacing": "-0.5px",
+                                                "--framer-line-height": "70px",
+                                                "--framer-text-color": "rgb(217, 78, 119)"
+                                              },
+                                              "children": [
+                                                {
+                                                  "text": "x-ba2df4"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__heading-1-8886",
+                  "label": "Heading 1",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__bounce-rates",
+                      "label": "BOUNCE RATES",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                            "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "24px",
+                            "--framer-text-color": "rgb(217, 78, 119)",
+                            "--framer-text-transform": "uppercase"
+                          },
+                          "children": [
+                            {
+                              "text": "order-volumn-50e524"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__p-paragraph-m-eb87",
+              "label": "p.paragraph-m",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__the-bounce-rates-for-the-character-creation-process-drop-from-54-",
+                  "label": "The bounce rates for the character creation process drop from  54% to 18%. ",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(182, 182, 182)"
+                      },
+                      "children": [
+                        {
+                          "text": "the-order-volume-of-espoirer-has-increased-by-f0f2c9"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-521093"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(244, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "more-than-doubled-20a3ff"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

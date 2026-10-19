@@ -1,0 +1,193 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707479589-3b48",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-text-block-7-a8f4",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__ljnis1",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__1wd04ye",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__link-drayeasy-inc-8d0d",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "our-target-users-are-1cd15e"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__rndkbh",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480586",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__frame-1707480585",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "fleet-ai__rectangle-3463367",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "rotate": 1,
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__link-drayeasy-inc-1d5a",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "12px",
+                                "--framer-line-height": "130%",
+                                "--framer-text-color": "rgb(177, 177, 177)"
+                              },
+                              "children": [
+                                {
+                                  "text": "small-to-mid-size-business-professionals-a-c4afa6"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480586-defc",
+                      "label": "Frame 1707480586",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__frame-1707480585-83eb",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "fleet-ai__rectangle-3463367-5cfb",
+                              "label": "Rectangle 3463367",
+                              "style": {
+                                "rotate": 1,
+                                "transform": "translate(-50%, -50%)"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__link-drayeasy-inc-1630",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "12px",
+                                "--framer-line-height": "150%",
+                                "--framer-text-color": "rgb(177, 177, 177)"
+                              },
+                              "children": [
+                                {
+                                  "text": "people-who-work-in-collaborative-office-se-2697c6"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__frame-1707480588",
+                      "label": "Frame 1707480588",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__frame-1707480585-5ac5",
+                          "label": "Frame 1707480585",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "fleet-ai__rectangle-3463367-401d",
+                              "label": "Rectangle 3463367"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "fleet-ai__link-drayeasy-inc-32ef",
+                          "label": "Link → DrayEasy Inc.",
+                          "rich": true,
+                          "align": "center",
+                          "children": [
+                            {
+                              "tag": "p",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-font-size": "12px",
+                                "--framer-line-height": "130%",
+                                "--framer-text-color": "rgb(177, 177, 177)"
+                              },
+                              "children": [
+                                {
+                                  "text": "companies-that-want-to-manage-tasks-organ-a2212a"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

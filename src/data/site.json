@@ -8,11 +8,11 @@
   "resume": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:f247ca78-76c9-4478-adc9-278416057aae",
   "navigation": [
     {
-      "label": "Works",
+      "label": "Work.",
       "href": "/#works"
     },
     {
-      "label": "About",
+      "label": "About me.",
       "href": "/About-lucy-lu/"
     }
   ],

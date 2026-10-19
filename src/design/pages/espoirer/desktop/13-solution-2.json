@@ -1,0 +1,177 @@
+{
+  "tag": "div",
+  "class": "espoirer__solution-2",
+  "label": "Solution 2",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480511",
+      "label": "Frame 1707480511",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": -50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__2024-04-07-16-23-29-1",
+          "label": "2024-04-07 16-23-29 1",
+          "image": {
+            "src": "/assets/images/espoirer/09-scan-to-enroll-packages.gif",
+            "alt": "",
+            "fit": "stretch",
+            "position": "center center"
+          }
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__2024-04-08-22-07-55-1",
+          "label": "2024-04-08 22-07-55 1",
+          "image": {
+            "src": "/assets/images/espoirer/10-scan-to-enroll-packages.gif",
+            "alt": "",
+            "fit": "stretch",
+            "position": "center center"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707480039",
+      "label": "Frame 1707480039",
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 50,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.3,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480038-da3b",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__p-label-serif-4460",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__solution-2-personalization",
+                  "label": "Solution 2. Personalization",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "14px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(217, 78, 119)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "solution-2-cdb50b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__heading-3-6c28",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__chat-emotionally-just-like-talking-to-a-real-one",
+                  "label": "Chat emotionally, just like talking to a real one.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "28px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "40px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "optimize-route-fea561"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

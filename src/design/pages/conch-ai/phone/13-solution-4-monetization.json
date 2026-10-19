@@ -1,0 +1,169 @@
+{
+  "tag": "div",
+  "class": "conch-ai__div-reaction-fd-content-wrap-copy-margin-0e9d",
+  "label": "div.reaction-fd-content-wrap-copy:margin",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__div-reaction-fd-content-wrap-copy-500f",
+      "label": "div.reaction-fd-content-wrap-copy",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479653-6922",
+          "label": "Frame 1707479653",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__1ns88ft",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__2024-04-07-19-48-05-2024-04-07-19-49-48",
+                  "label": "$2024_04_07_19_48_05_2024_04_07_19_49_48",
+                  "image": {
+                    "src": "/assets/images/conch-ai/11-create-characters-with-distinct-personalities.gif",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "50% 50%"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__8a2fzd",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__2024-04-07-20-01-37-2024-04-07-20-02-35",
+                  "label": "$2024_04_07_20_01_37_2024_04_07_20_02_35",
+                  "image": {
+                    "src": "/assets/images/conch-ai/12-create-characters-with-distinct-personalities.gif",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "50% 50%"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480039-715b",
+          "label": "Frame 1707480039",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480038-a049",
+              "label": "Frame 1707480038",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__p-label-serif-d1eb",
+                  "label": "p.label-serif",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__solution-4-monetization",
+                      "label": "Solution 4. Monetization",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0.8px",
+                            "--framer-line-height": "16px",
+                            "--framer-text-color": "rgb(102, 130, 236)",
+                            "--framer-text-transform": "capitalize"
+                          },
+                          "children": [
+                            {
+                              "text": "solution-4-monetization-4e8055"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-3-bda7",
+                  "label": "Heading 3",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__let-s-talk-about-money",
+                      "label": "Let‘s talk about money!",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-letter-spacing": "0.4px",
+                            "--framer-line-height": "40px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "let-s-talk-about-money-beaa9e"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__p-paragraph-light-98cf",
+              "label": "p.paragraph-light",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__a-comprehensive-system-to-manage-the-in-app-finance-characters-an",
+                  "label": "A comprehensive system to manage the in-app finance, characters, and referrals. The obvious incentives encourage users to stay active, continue to contribute, and advocate.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "a-comprehensive-system-to-manage-the-in-app-f-3e6b72"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "lets-talk-about-money"
+  ]
+}

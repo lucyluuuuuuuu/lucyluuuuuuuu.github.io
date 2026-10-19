@@ -1,0 +1,301 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-9204",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-a2ff",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__ib5gdn",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-a2a7",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-line-height": "220%",
+                    "--framer-text-color": "rgb(217, 79, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "key-findings-2355a4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__1612u4c",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__frame-1707480586-2c28",
+                  "label": "Frame 1707480586",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480585-c4f1",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__rectangle-3463367-4cd8",
+                          "label": "Rectangle 3463367",
+                          "style": {
+                            "transform": "translate(-50%, -50%)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__link-drayeasy-inc-3a5c",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "130%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "prioritize-monitoring-866d88"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "the-delivery-completion-rates-for-packages-la-00a489"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "1-day-and-2-day-935ef9"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "since-these-tasks-68c038"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "are-directly-linked-to-kpis-5c4ab4"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "and-lines-up-with-achieving-the-ideal-deliver-2fd644"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "espoirer__frame-1707480587",
+                  "label": "Frame 1707480587",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "espoirer__frame-1707480585-b362",
+                      "label": "Frame 1707480585",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "espoirer__rectangle-3463367-3c13",
+                          "label": "Rectangle 3463367"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "espoirer__link-drayeasy-inc-73d5",
+                      "label": "Link → DrayEasy Inc.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "18px",
+                            "--framer-line-height": "130%",
+                            "--framer-text-color": "rgb(110, 110, 115)"
+                          },
+                          "children": [
+                            {
+                              "text": "the-delivery-drivers-are-all-1b7a8e"
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "full-time-workers-more-than-70-of-the-deliv-dd07a9"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-text-color": "rgb(26, 28, 31)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "text": "at-espoirer-are-typically-experienced-drivers-835af4"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

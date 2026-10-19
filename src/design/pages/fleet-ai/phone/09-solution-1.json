@@ -1,0 +1,106 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__solution-1",
+  "label": "Solution 1",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__1rdj4d8",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__2024-04-16-20-42-40-2024-04-16-20-45-05",
+          "label": "$2024_04_16_20_42_40_2024_04_16_20_45_05",
+          "image": {
+            "src": "/assets/images/fleet-ai/07-extract-action-items-accurately-with-our-ai-meeting-assistant.gif",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__text-61c2",
+      "label": "Text",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480038-76ff",
+          "label": "Frame 1707480038",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__p-label-serif-8d45",
+              "label": "p.label-serif",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__solution-1-streamlining-onboarding",
+                  "label": "Solution 1. Streamlining Onboarding",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0.8px",
+                        "--framer-line-height": "16px",
+                        "--framer-text-color": "rgb(23, 199, 174)",
+                        "--framer-text-transform": "capitalize"
+                      },
+                      "children": [
+                        {
+                          "text": "feature-2-improve-efficiency-734962"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__heading-3-b9a0",
+              "label": "Heading 3",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__find-ai-characters-for-everyone",
+                  "label": "Find AI characters for everyone.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-letter-spacing": "0.4px",
+                        "--framer-line-height": "24px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "manage-short-term-tasks-of-your-meeting-in-an-a7255c"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "manage-short-term-tasks-of-your-meeting-in-an-efficient-way"
+  ]
+}

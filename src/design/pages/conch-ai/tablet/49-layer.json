@@ -1,0 +1,434 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479589-15da",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-a8bf",
+      "label": "Frame 1707479588",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-5-30ae",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__current-user-journey-pain-points-3271",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(102, 130, 236)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(217, 78, 119)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-d80470"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "engineering-capability-25ccaf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__creators-struggle-to-complete-the-character-creation-users-stop-e-ce8b",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "28px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "evaluate-ideas-with-pm-and-em-regarding-of-th-b7009b"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-text-block-7-f4cd",
+      "label": "div.text-block-7",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 20
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__92lecw",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-b858",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "i-initiated-a-team-wide-discussion-on-the-emo-60e67d"
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-521093"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "in-collaboration-with-the-development-team-w-bc539f"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__19iik9",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__link-drayeasy-inc-b9ef",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "constrains-d5c9e5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__c3bf06",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__whskkk",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__frame-1707480586-4adc",
+                          "label": "Frame 1707480586",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__frame-1707480585-0de3",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "conch-ai__rectangle-3463367-324b",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__link-drayeasy-inc-a012",
+                              "label": "Link → DrayEasy Inc.",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                    "--framer-font-size": "18px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-color": "rgb(177, 177, 177)"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "technical-77657f"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "text": "during-the-call-interactions-it-is-technical-462b98"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__frame-1707480586-6c18",
+                          "label": "Frame 1707480586",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__frame-1707480585-bd7d",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "conch-ai__rectangle-3463367-a2df",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__link-drayeasy-inc-b2bd",
+                              "label": "Link → DrayEasy Inc.",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                    "--framer-font-size": "18px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-color": "rgb(177, 177, 177)"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "time-57900f"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "text": "the-project-development-timeline-is-tight-an-90acb7"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "class": "conch-ai__frame-1707480586-1a2d",
+                          "label": "Frame 1707480586",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__frame-1707480585-6080",
+                              "label": "Frame 1707480585",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "conch-ai__rectangle-3463367-6dc7",
+                                  "label": "Rectangle 3463367",
+                                  "style": {
+                                    "transform": "translate(-50%, -50%)"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "conch-ai__link-drayeasy-inc-cf7a",
+                              "label": "Link → DrayEasy Inc.",
+                              "rich": true,
+                              "align": "center",
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "style": {
+                                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                    "--framer-font-size": "18px",
+                                    "--framer-line-height": "150%",
+                                    "--framer-text-color": "rgb(177, 177, 177)"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "system-b6a3b6"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "text": "our-app-is-not-one-figure-based-this-should-0b31a1"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "engineering-capability"
+  ]
+}

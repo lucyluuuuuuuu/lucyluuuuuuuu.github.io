@@ -1,0 +1,80 @@
+{
+  "tag": "div",
+  "class": "navigation__root navigation__desktop navigation__variant-phone-close",
+  "label": "Phone - Close",
+  "style": {
+    "backgroundColor": "rgb(0, 0, 0)",
+    "width": "100%"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "navigation__container-responsive",
+      "label": "Container - Responsive",
+      "children": [
+        {
+          "tag": "div",
+          "class": "navigation__846vcz",
+          "children": [
+            {
+              "tag": "div",
+              "class": "navigation__icon",
+              "label": "Icon",
+              "action": "open-menu",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "navigation__bottom",
+                  "label": "Bottom",
+                  "style": {
+                    "backgroundColor": "rgb(153, 153, 153)",
+                    "borderBottomLeftRadius": 10,
+                    "borderBottomRightRadius": 10,
+                    "borderTopLeftRadius": 10,
+                    "borderTopRightRadius": 10,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "tag": "div",
+                  "class": "navigation__mid",
+                  "label": "Mid",
+                  "style": {
+                    "backgroundColor": "rgb(153, 153, 153)",
+                    "borderBottomLeftRadius": 10,
+                    "borderBottomRightRadius": 10,
+                    "borderTopLeftRadius": 10,
+                    "borderTopRightRadius": 10
+                  }
+                },
+                {
+                  "tag": "div",
+                  "class": "navigation__top",
+                  "label": "Top",
+                  "style": {
+                    "backgroundColor": "rgb(153, 153, 153)",
+                    "borderBottomLeftRadius": 10,
+                    "borderBottomRightRadius": 10,
+                    "borderTopLeftRadius": 10,
+                    "borderTopRightRadius": 10,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "navigation__kouc07-container",
+              "children": [
+                {
+                  "include": "logo/phone-ff2a4511"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "component": "navigation"
+}

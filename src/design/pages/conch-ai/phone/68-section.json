@@ -1,0 +1,24 @@
+{
+  "tag": "div",
+  "class": "conch-ai__1lghles",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480624",
+      "label": "Frame 1707480624",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__2024-04-09-16-31-1",
+          "label": "截屏2024-04-09 16.31 1",
+          "image": {
+            "src": "/assets/images/conch-ai/51-collaborating-with-pms-and-engineering-team-to-ensure-feasibility.png",
+            "alt": "",
+            "fit": "cover",
+            "position": "50% 50%"
+          }
+        }
+      ]
+    }
+  ]
+}

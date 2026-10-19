@@ -1,0 +1,684 @@
+{
+  "tag": "div",
+  "class": "home__section-1-hero-section",
+  "label": "Section 1 - Hero section",
+  "anchor": "hero",
+  "children": [
+    {
+      "tag": "div",
+      "class": "home__container",
+      "label": "Container",
+      "children": [
+        {
+          "tag": "div",
+          "class": "home__headline",
+          "label": "Headline",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0.001,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 0
+            },
+            "to": {
+              "opacity": 1,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "transition": {
+                "delay": 0,
+                "duration": 0.7,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "x": 0,
+              "y": 0
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__wv5aum",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home__ln6bq3",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "home__2024-04-22-20-08-11-2024-04-22-20-10-57",
+                      "label": "$2024_04_22_20_08_11_2024_04_22_20_10_57",
+                      "image": {
+                        "src": "/assets/images/home/01-lucy-animated-portrait.gif",
+                        "alt": "",
+                        "fit": "cover",
+                        "position": "50% 50%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "home__hello-i-m-sebastian-brooks",
+                  "label": "Hello! I’m Sebastian Brooks",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0.001,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 0
+                    },
+                    "to": {
+                      "opacity": 1,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.7,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "x": 0,
+                      "y": 0
+                    },
+                    "once": true
+                  },
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "h5",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgQm9sZA==",
+                        "--framer-font-family": "\"Neue Montreal Bold\", \"Neue Montreal Bold Placeholder\", sans-serif",
+                        "--framer-font-size": "32px",
+                        "--framer-letter-spacing": "-0.04em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "hi-i-m-e330b4"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-521093"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "lucy-lu-89c3c6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "home__body",
+          "label": "Body",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0.001,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 0
+            },
+            "to": {
+              "opacity": 1,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "transition": {
+                "delay": 0,
+                "duration": 0.7,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "x": 0,
+              "y": 0
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "home__text",
+              "label": "Text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home__vqwham",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "home__a-website-designer-based-in-jakarta-indonesia",
+                      "label": "A Website designer based in Jakarta, Indonesia.",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                            "--framer-font-size": "22px",
+                            "--framer-line-height": "150%",
+                            "--framer-text-alignment": "left",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "product-designer-96aa9a"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "home__1ds18e5-container hidden-1q8k1yr hidden-1ncfflc",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "style": {
+                            "height": "100%",
+                            "width": "100%"
+                          },
+                          "motion": {
+                            "kind": "ticker",
+                            "direction": "top",
+                            "gap": 10,
+                            "speed": 55,
+                            "padding": 0,
+                            "fade": false,
+                            "fadeWidth": 25,
+                            "alignment": "flex-start"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "class": "home__ncd60s",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "home__hello-i-m-sebastian-brooks-c44d",
+                                  "label": "Hello! I’m Sebastian Brooks",
+                                  "style": {
+                                    "transformPerspective": 1200
+                                  },
+                                  "appear": {
+                                    "from": {
+                                      "opacity": 0.001,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "to": {
+                                      "opacity": 1,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "transition": {
+                                        "delay": 0,
+                                        "duration": 0.7,
+                                        "ease": [
+                                          0.44,
+                                          0,
+                                          0.56,
+                                          1
+                                        ],
+                                        "type": "tween"
+                                      },
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "once": true
+                                  },
+                                  "rich": true,
+                                  "align": "top",
+                                  "children": [
+                                    {
+                                      "tag": "h2",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-font-size": "22px",
+                                        "--framer-line-height": "130%",
+                                        "--framer-text-alignment": "left",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "uxui-designer-65f0c9"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "home__116d2jx",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "home__hello-i-m-sebastian-brooks-9fc3",
+                                  "label": "Hello! I’m Sebastian Brooks",
+                                  "style": {
+                                    "transformPerspective": 1200
+                                  },
+                                  "appear": {
+                                    "from": {
+                                      "opacity": 0.001,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "to": {
+                                      "opacity": 1,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "transition": {
+                                        "delay": 0,
+                                        "duration": 0.7,
+                                        "ease": [
+                                          0.44,
+                                          0,
+                                          0.56,
+                                          1
+                                        ],
+                                        "type": "tween"
+                                      },
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "once": true
+                                  },
+                                  "rich": true,
+                                  "align": "top",
+                                  "children": [
+                                    {
+                                      "tag": "h2",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-font-size": "22px",
+                                        "--framer-line-height": "130%",
+                                        "--framer-text-alignment": "left",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "system-thinker-f7ae91"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "home__lfftm7",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "home__hello-i-m-sebastian-brooks-1d2c",
+                                  "label": "Hello! I’m Sebastian Brooks",
+                                  "style": {
+                                    "transformPerspective": 1200
+                                  },
+                                  "appear": {
+                                    "from": {
+                                      "opacity": 0.001,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "to": {
+                                      "opacity": 1,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "transition": {
+                                        "delay": 0,
+                                        "duration": 0.7,
+                                        "ease": [
+                                          0.44,
+                                          0,
+                                          0.56,
+                                          1
+                                        ],
+                                        "type": "tween"
+                                      },
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "once": true
+                                  },
+                                  "rich": true,
+                                  "align": "top",
+                                  "children": [
+                                    {
+                                      "tag": "h2",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-font-size": "22px",
+                                        "--framer-line-height": "130%",
+                                        "--framer-text-alignment": "left",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "visual-stroyteller-cbad76"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "class": "home__1cbcrwt",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "class": "home__hello-i-m-sebastian-brooks-8fb7",
+                                  "label": "Hello! I’m Sebastian Brooks",
+                                  "style": {
+                                    "transformPerspective": 1200
+                                  },
+                                  "appear": {
+                                    "from": {
+                                      "opacity": 0.001,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "to": {
+                                      "opacity": 1,
+                                      "rotate": 0,
+                                      "rotateX": 0,
+                                      "rotateY": 0,
+                                      "scale": 1,
+                                      "skewX": 0,
+                                      "skewY": 0,
+                                      "transformPerspective": 1200,
+                                      "transition": {
+                                        "delay": 0,
+                                        "duration": 0.7,
+                                        "ease": [
+                                          0.44,
+                                          0,
+                                          0.56,
+                                          1
+                                        ],
+                                        "type": "tween"
+                                      },
+                                      "x": 0,
+                                      "y": 0
+                                    },
+                                    "once": true
+                                  },
+                                  "rich": true,
+                                  "align": "top",
+                                  "children": [
+                                    {
+                                      "tag": "h2",
+                                      "style": {
+                                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                                        "--framer-font-size": "22px",
+                                        "--framer-line-height": "130%",
+                                        "--framer-text-alignment": "left",
+                                        "--framer-text-color": "rgb(245, 245, 247)"
+                                      },
+                                      "children": [
+                                        {
+                                          "text": "curious-learner-0459e9"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "home__passionate-creating-great-experiences-for-digital-product",
+                  "label": "Passionate creating great experiences for Digital Product",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "-0.02em",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-a-multidisciplinary-designer-with-over-4-bab223"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "home__actions",
+              "label": "Actions",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home__1s4739t-container",
+                  "children": [
+                    {
+                      "include": "button/phone-50b556a2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "home__socials-2",
+                  "label": "Socials - 2",
+                  "style": {
+                    "transformPerspective": 1200
+                  },
+                  "appear": {
+                    "from": {
+                      "opacity": 0.001,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "x": 0,
+                      "y": 0
+                    },
+                    "to": {
+                      "opacity": 1,
+                      "rotate": 0,
+                      "rotateX": 0,
+                      "rotateY": 0,
+                      "scale": 1,
+                      "skewX": 0,
+                      "skewY": 0,
+                      "transformPerspective": 1200,
+                      "transition": {
+                        "delay": 0,
+                        "duration": 0.5,
+                        "ease": [
+                          0.44,
+                          0,
+                          0.56,
+                          1
+                        ],
+                        "type": "tween"
+                      },
+                      "x": 0,
+                      "y": 0
+                    },
+                    "once": true
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "home__bub6kc-container",
+                      "children": [
+                        {
+                          "include": "social/phone-f3c2cce7"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "class": "home__rw8m79-container",
+                      "children": [
+                        {
+                          "include": "social/phone-8e6b6ae8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

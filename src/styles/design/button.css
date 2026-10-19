@@ -1,0 +1,26 @@
+/* Original button layout, responsive variants and hover states. */
+@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }
+.button__root.button__variant-16-6456, .button__root .button__variant-16-6456 { display: block; }
+.button__root.button__variant-16 { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 8px; height: min-content; justify-content: center; overflow: visible; padding: 12px 24px 12px 24px; position: relative; text-decoration: none; width: min-content; }
+.button__root .framer-1m11sxb-container { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 24px); position: relative; width: 24px; }
+.button__root .button__placeholder { flex: none; height: auto; position: relative; white-space: pre; width: auto; }
+.button__root .framer-1xtfzvo { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); overflow: visible; position: relative; width: 16px; }
+.button__root .framer-15p56if { flex: none; height: 16px; left: 0px; position: absolute; top: 0px; width: 16px; }
+.button__root .framer-golbhy { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 16px); left: 0px; overflow: visible; position: absolute; top: 0px; width: 16px; }
+.button__root .framer-1odved7 { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; }
+.button__root .framer-wk21cf { flex: none; height: 16px; overflow: visible; position: relative; width: 16px; }
+
+.button__root.button__variant-primary-disabled.button__variant-16, .button__root.button__variant-primary-with-icon.button__variant-16, .button__root.button__variant-seconday-disabled.button__variant-16, .button__root.button__variant-secondary-with-icon.button__variant-16, .button__root.button__variant-download-cv.button__variant-16, .button__root.button__variant-variant.button__variant-16 { cursor: unset; }
+.button__root.button__variant-primary-with-icon .button__placeholder { order: 2; }
+.button__root.button__variant-primary-with-icon .framer-1xtfzvo, .button__root.button__variant-primary-icon-only .framer-1xtfzvo, .button__root.button__variant-secondary-icon-only .framer-1xtfzvo { order: 1; }
+.button__root.button__variant-primary-icon-only.button__variant-16, .button__root.button__variant-secondary-icon-only.button__variant-16 { cursor: unset; height: 48px; width: 48px; }
+.button__root.button__variant-secondary-active.button__variant-16 { flex-wrap: wrap; }
+.button__root.button__variant-secondary-with-icon .button__placeholder, .button__root.button__variant-download-cv .button__placeholder { order: 3; }
+.button__root.button__variant-secondary-with-icon .framer-wk21cf, .button__root.button__variant-download-cv .framer-wk21cf { height: 19px; order: 2; }
+.button__root.button__variant-back-to-top.button__variant-16 { cursor: unset; padding: 12px; }
+.button__root.button__variant-back-to-top .framer-1m11sxb-container, .button__root.button__variant-back-to-top-2 .framer-1m11sxb-container, .button__root.button__variant-back-to-top-3 .framer-1m11sxb-container { height: var(--framer-aspect-ratio-supported, 28px); order: 0; }
+.button__root.button__variant-back-to-top-2.button__variant-16 { cursor: unset; padding: 16px 12px 8px 12px; }
+.button__root.button__variant-back-to-top-3.button__variant-16 { cursor: unset; padding: 8px 12px 16px 12px; }
+.button__root.button__variant-back-to-top-mobile.button__variant-16 { cursor: unset; padding: 8px; }
+.button__root.button__variant-back-to-top-mobile .framer-1m11sxb-container { aspect-ratio: unset; height: 20px; order: 0; width: 20px; }
+.button__root[data-border="true"]::after, .button__root [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }

@@ -1,0 +1,231 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480611",
+  "label": "Frame 1707480611",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707480368",
+      "label": "Frame 1707480368",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479588-6cf5",
+          "label": "Frame 1707479588",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 20
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__heading-5-7c9f",
+              "label": "Heading 5",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__cross-team-collaboration",
+                  "label": "⚙️ Cross-team collaboration",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                        "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(102, 130, 236)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--framer-text-color": "rgb(217, 78, 119)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-66d5d2"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "cross-team-collaboration-8841fe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__propose-motion-designs-that-align-with-backend-emotion-categories",
+              "label": "Propose motion designs that align with backend emotion categories for engineering efficiency.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "36px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(245, 245, 247)"
+                  },
+                  "children": [
+                    {
+                      "text": "propose-motion-designs-that-align-with-backen-c1e832"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__div-text-block-7-bd25",
+          "label": "div.text-block-7",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-d14b",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "our-backend-integrates-affective-computing-wi-6ef1ad"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__link-drayeasy-inc-468d",
+          "label": "Link → DrayEasy Inc.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "18px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "for-engineering-efficiency-i-proposed-to-5d6623"
+                },
+                {
+                  "tag": "span",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "follow-this-same-wheel-of-emotions-and-propo-a34ba0"
+                    }
+                  ]
+                },
+                {
+                  "text": "quickly-captured-and-rooted-into-those-backen-d22a50"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__image-595",
+          "label": "image 595",
+          "image": {
+            "src": "/assets/images/conch-ai/39-propose-motion-designs-that-align-with-backend-emotion-categories.png",
+            "alt": "",
+            "fit": "stretch",
+            "position": "center center"
+          }
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__plutchik-s-wheel-of-emotions",
+          "label": "Plutchik’s Wheel of Emotions",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-line-height": "200%",
+                "--framer-text-color": "rgb(255, 255, 255)"
+              },
+              "children": [
+                {
+                  "text": "plutchik-s-wheel-of-emotions-41fa76"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "cross-team-collaboration"
+  ]
+}

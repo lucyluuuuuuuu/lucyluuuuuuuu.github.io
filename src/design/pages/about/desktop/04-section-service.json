@@ -1,0 +1,194 @@
+{
+  "tag": "div",
+  "class": "about__section-service-8eb6",
+  "label": "Section - Service",
+  "children": [
+    {
+      "tag": "div",
+      "class": "about__container-05a6",
+      "label": "Container",
+      "style": {
+        "transformPerspective": 1200
+      },
+      "appear": {
+        "from": {
+          "opacity": 0,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transformPerspective": 1200,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "transition": {
+            "delay": 0,
+            "duration": 0.9,
+            "ease": [
+              0.44,
+              0,
+              0.56,
+              1
+            ],
+            "type": "tween"
+          },
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "once": true
+      },
+      "children": [
+        {
+          "tag": "div",
+          "class": "about__text-041c",
+          "label": "Text",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__headline-ff6b",
+              "label": "Headline",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__let-me-assist-you-in-achieving-your-goals-be58",
+                  "label": "Let me assist you in achieving your goals",
+                  "rich": true,
+                  "align": "top",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "44px",
+                        "--framer-line-height": "130%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "rgb(17, 17, 17)"
+                      },
+                      "children": [
+                        {
+                          "text": "i-m-a-systematic-thinker-1b8e42"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "about__i-offer-expertise-in-web-development-problem-solving-and-strategi-3c2e",
+                  "label": "I offer expertise in web development, problem-solving, and strategic planning for tailored solutions that match your unique needs.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "left",
+                        "--framer-text-color": "var(--token-9bcddf14-b403-452d-b2fc-a46e6da45e10, rgb(128, 128, 128))"
+                      },
+                      "children": [
+                        {
+                          "text": "my-systematic-thinking-enables-me-to-merge-us-f8487d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "about__services-7f00",
+          "label": "Services",
+          "children": [
+            {
+              "tag": "div",
+              "class": "about__service-landing-page-design-e2a0",
+              "label": "Service - Landing page design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-9c57",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/06-i-m-a-systematic-thinker.png",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "center top"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-company-website-design-4928",
+              "label": "Service - Company website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-c1f4",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/07-i-m-a-systematic-thinker.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "center center"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-full-pages-website-design-0509",
+              "label": "Service - Full pages Website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-7906",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/08-i-m-a-systematic-thinker.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "center center"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "about__service-full-pages-website-design-0003",
+              "label": "Service - Full pages Website design",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "about__portfolio-4540",
+                  "label": "Portfolio",
+                  "image": {
+                    "src": "/assets/images/about/09-i-m-a-systematic-thinker.jpg",
+                    "alt": "",
+                    "fit": "cover",
+                    "position": "center center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "i-m-a-systematic-thinker"
+  ]
+}

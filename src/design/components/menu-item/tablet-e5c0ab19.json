@@ -1,0 +1,40 @@
+{
+  "tag": "a",
+  "class": "menu-item__root menu-item__variant-1 menu-item__variant-1-0651 menu-item__variant-1-c290",
+  "label": "Variant 1",
+  "children": [
+    {
+      "tag": "div",
+      "class": "menu-item__playground",
+      "label": "Playground",
+      "style": {
+        "--extracted-gdpscs": "var(--variable-reference-dKpntCLKY-REoj48fxT)",
+        "--variable-reference-dKpntCLKY-REoj48fxT": "rgb(245, 245, 247)"
+      },
+      "rich": true,
+      "align": "center",
+      "children": [
+        {
+          "tag": "h2",
+          "style": {
+            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+            "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+            "--framer-font-size": "18px",
+            "--framer-letter-spacing": "-0.02em",
+            "--framer-line-height": "150%",
+            "--framer-text-alignment": "left",
+            "--framer-text-color": "var(--extracted-gdpscs, var(--variable-reference-dKpntCLKY-REoj48fxT))"
+          },
+          "children": [
+            {
+              "text": "work-c525ee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": "/",
+  "newTab": false,
+  "component": "menu-item"
+}

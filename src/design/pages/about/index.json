@@ -1,0 +1,52 @@
+{
+  "desktop": {
+    "tag": "div",
+    "class": "about__root about__1ynaae3",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "desktop/01-navigation.json",
+      "desktop/02-hero-section.json",
+      "desktop/03-section-service.json",
+      "desktop/04-section-service.json",
+      "desktop/05-section-service.json",
+      "desktop/06-section.json",
+      "desktop/07-shared-component.json"
+    ]
+  },
+  "tablet": {
+    "tag": "div",
+    "class": "about__root about__1ynaae3",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "tablet/01-navigation.json",
+      "tablet/02-hero-section.json",
+      "tablet/03-section-service.json",
+      "tablet/04-section-service.json",
+      "tablet/05-section-service.json",
+      "tablet/06-section.json",
+      "tablet/07-shared-component.json",
+      "tablet/08-section.json"
+    ]
+  },
+  "phone": {
+    "tag": "div",
+    "class": "about__root about__1ynaae3",
+    "style": {
+      "width": "100%"
+    },
+    "sections": [
+      "phone/01-navigation.json",
+      "phone/02-hero-section.json",
+      "phone/03-section-service.json",
+      "phone/04-section-service.json",
+      "phone/05-section-service.json",
+      "phone/06-shared-component.json",
+      "phone/07-section.json",
+      "phone/08-section.json"
+    ]
+  }
+}

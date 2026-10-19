@@ -1,0 +1,234 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707479589-8366",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479588-b8dc",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__heading-5-9581",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__current-user-journey-pain-points-20a6",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(217, 79, 119)"
+                  },
+                  "children": [
+                    {
+                      "text": "takeaway-47b4e6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "espoirer__div-text-block-7-2ead",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480586-a026",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480585-77f0",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__rectangle-3463367-ce73",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-fd97",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "addressing-complexity-and-variability-in-b2b-1c5ef2"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "when-designing-the-b2b-product-we-faced-chal-310044"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480586-cdd0",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480585-b86f",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__rectangle-3463367-9dc0",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-d528",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 32)"
+                      },
+                      "children": [
+                        {
+                          "text": "adjust-designs-based-on-language-culture-de-1149c1"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "the-focus-on-localization-emphasized-adapting-6c461a"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "espoirer__frame-1707480586-4ce7",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "espoirer__frame-1707480585-6066",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "espoirer__rectangle-3463367-0e18",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "espoirer__link-drayeasy-inc-e810",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                    "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(26, 28, 31)"
+                  },
+                  "children": [
+                    {
+                      "text": "propose-design-assumptions-and-drive-the-desi-262275"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "text": "during-the-internal-and-external-meetings-we-ab17a2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

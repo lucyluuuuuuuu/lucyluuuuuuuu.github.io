@@ -1,0 +1,97 @@
+{
+  "tag": "div",
+  "class": "conch-ai__1s0t3jp",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__tocvic-container",
+      "children": [
+        {
+          "tag": "div",
+          "style": {
+            "height": "100%",
+            "width": "100%"
+          },
+          "motion": {
+            "kind": "slideshow",
+            "direction": "left",
+            "gap": 0,
+            "speed": 100,
+            "padding": 0,
+            "fade": false,
+            "fadeWidth": 25,
+            "alignment": "center",
+            "arrows": {
+              "arrowFill": "rgba(41, 41, 42, 0.2)",
+              "arrowGap": 10,
+              "arrowPadding": -20,
+              "arrowPaddingBottom": 0,
+              "arrowPaddingLeft": 0,
+              "arrowPaddingRight": 0,
+              "arrowPaddingTop": 0,
+              "arrowPosition": "auto",
+              "arrowRadius": 40,
+              "arrowShouldFadeIn": null,
+              "arrowShouldSpace": true,
+              "arrowSize": 40,
+              "showMouseControls": true
+            },
+            "dots": {
+              "dotsActiveOpacity": 1,
+              "dotsBackground": "rgba(41, 41, 42, 0.2)",
+              "dotsBlur": 0,
+              "dotsFill": "rgb(255, 255, 255)",
+              "dotsGap": 10,
+              "dotsInset": 10,
+              "dotSize": 10,
+              "dotsOpacity": 0.5,
+              "dotsPadding": 10,
+              "dotsRadius": 50,
+              "showProgressDots": true
+            },
+            "transition": {
+              "damping": 40,
+              "stiffness": 200,
+              "type": "spring"
+            }
+          },
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480604",
+              "label": "Frame_1707480604",
+              "image": {
+                "src": "/assets/images/conch-ai/30-final-design-character-creation-process.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480603-1",
+              "label": "Frame_1707480603_1",
+              "image": {
+                "src": "/assets/images/conch-ai/31-final-design-character-creation-process.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480605",
+              "label": "Frame_1707480605",
+              "image": {
+                "src": "/assets/images/conch-ai/32-final-design-character-creation-process.png",
+                "alt": "",
+                "fit": "cover",
+                "position": "50% 50%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

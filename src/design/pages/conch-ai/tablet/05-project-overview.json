@@ -1,0 +1,347 @@
+{
+  "tag": "div",
+  "class": "conch-ai__project-overview",
+  "label": "Project Overview",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__48x717",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707479589",
+          "label": "Frame 1707479589",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707479588",
+              "label": "Frame 1707479588",
+              "style": {
+                "transformPerspective": 1200
+              },
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "transformPerspective": 1200,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "delay": 0,
+                    "duration": 0.5,
+                    "ease": [
+                      0.44,
+                      0,
+                      0.56,
+                      1
+                    ],
+                    "type": "tween"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__heading-5",
+                  "label": "Heading 5",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "conch-ai__project-overview-b9df",
+                      "label": "ℹ️ Project overview",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                            "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                            "--framer-line-height": "150%",
+                            "--framer-text-color": "rgb(102, 130, 236)"
+                          },
+                          "children": [
+                            {
+                              "text": "project-overview-3fa1b4"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "conch-ai__making-ai-more-loving-ai-characters-co-creation-platform-integrat",
+                  "label": "Making AI more loving - AI characters co-creation platform integrating LLMs and affective computing.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "28px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "making-ai-more-loving-ai-characters-co-crea-b165e1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__div-text-block-7-c8f1",
+              "label": "div.text-block-7",
+              "style": {
+                "transformPerspective": 1200
+              },
+              "appear": {
+                "from": {
+                  "opacity": 0,
+                  "rotate": 0,
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "scale": 1,
+                  "skewX": 0,
+                  "skewY": 0,
+                  "transformPerspective": 1200,
+                  "x": 0,
+                  "y": 20
+                },
+                "to": {
+                  "transition": {
+                    "delay": 0,
+                    "duration": 0.5,
+                    "ease": [
+                      0.44,
+                      0,
+                      0.56,
+                      1
+                    ],
+                    "type": "tween"
+                  },
+                  "opacity": 1,
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1
+                },
+                "once": true
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__link-drayeasy-inc-7c30",
+                  "label": "Link → DrayEasy Inc.",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "18px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-color": "rgb(177, 177, 177)"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "conch-ai-f743e9"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVtIEl0YWxpYw==",
+                            "--framer-font-family": "\"Neue Montreal Medium Italic\", \"Neue Montreal Medium Italic Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-0ff1e8"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "class": "conch-ai__styles-preset-xsu5vy",
+                          "children": [
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVtIEl0YWxpYw==",
+                                "--framer-font-family": "\"Neue Montreal Medium Italic\", \"Neue Montreal Medium Italic Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(245, 245, 247)"
+                              },
+                              "children": [
+                                {
+                                  "text": "layer-521093"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVtIEl0YWxpYw==",
+                                "--framer-font-family": "\"Neue Montreal Medium Italic\", \"Neue Montreal Medium Italic Placeholder\", sans-serif",
+                                "--framer-text-color": "rgb(245, 245, 247)",
+                                "--framer-text-decoration": "underline"
+                              },
+                              "children": [
+                                {
+                                  "text": "ionic-tech-134b07"
+                                }
+                              ]
+                            }
+                          ],
+                          "link": "https://lonic.tech/",
+                          "newTab": true
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVtIEl0YWxpYw==",
+                            "--framer-font-family": "\"Neue Montreal Medium Italic\", \"Neue Montreal Medium Italic Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)",
+                            "--framer-text-decoration": "underline"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-4e7f28"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVtIEl0YWxpYw==",
+                            "--framer-font-family": "\"Neue Montreal Medium Italic\", \"Neue Montreal Medium Italic Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-8f5da9"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "is-a-product-based-on-large-language-models-9de807"
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                            "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "creators-can-create-personalized-ai-character-3adcf9"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "style": {
+                            "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC1yZWd1bGFy",
+                            "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif"
+                          },
+                          "children": [
+                            {
+                              "text": "layer-521093"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "when-i-joined-the-team-there-was-already-an-2bfa2d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480227-1",
+          "label": "Frame 1707480227 1",
+          "style": {
+            "transformPerspective": 1200
+          },
+          "appear": {
+            "from": {
+              "opacity": 0,
+              "rotate": 0,
+              "rotateX": 0,
+              "rotateY": 0,
+              "scale": 1,
+              "skewX": 0,
+              "skewY": 0,
+              "transformPerspective": 1200,
+              "x": 0,
+              "y": 80
+            },
+            "to": {
+              "transition": {
+                "delay": 0,
+                "duration": 0.5,
+                "ease": [
+                  0.44,
+                  0,
+                  0.56,
+                  1
+                ],
+                "type": "tween"
+              },
+              "opacity": 1,
+              "x": 0,
+              "y": 0,
+              "scale": 1
+            },
+            "once": true
+          },
+          "image": {
+            "src": "/assets/images/conch-ai/03-making-ai-more-loving-ai-characters-co-creation-platform-integrat.png",
+            "alt": "",
+            "fit": "fit",
+            "position": "center center"
+          }
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "i-project-overview"
+  ]
+}

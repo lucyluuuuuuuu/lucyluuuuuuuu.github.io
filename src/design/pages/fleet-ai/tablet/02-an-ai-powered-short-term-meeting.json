@@ -1,0 +1,309 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__text",
+  "label": "text",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__revamping-conch-ai-with-enhanced-emotional-connection-seamless-ch",
+      "label": "Revamping Conch AI with Enhanced Emotional Connection & Seamless Character Creation and Management",
+      "rich": true,
+      "align": "bottom",
+      "children": [
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "40px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "an-ai-powered-short-term-meeting-7e9846"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "40px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "task-management-tool-with-e28c49"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "style": {
+            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgQm9sZA==",
+            "--framer-font-family": "\"Satoshi Bold\", \"Satoshi Bold Placeholder\", sans-serif",
+            "--framer-font-size": "40px",
+            "--framer-letter-spacing": "0px",
+            "--framer-line-height": "130%",
+            "--framer-text-alignment": "center",
+            "--framer-text-color": "rgb(245, 245, 247)"
+          },
+          "children": [
+            {
+              "text": "soft-reminders-to-boost-productivity-85cbab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "fleet-ai__div-project-tags",
+      "label": "div.project-tags",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__ox33eo",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__div-project-tag-text",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__will-be-launched-in-q2-2024",
+                  "label": "Will be launched in Q2, 2024",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "concept-project-6b4d1e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__1undzmk",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__div-project-tag-text-3326",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__ai-llm",
+                      "label": "AI & LLM",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                            "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "text": "ai-ml-845582"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__div-project-tag-text-520b",
+                  "label": "div.project-tag-text",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "class": "fleet-ai__affective-computing",
+                      "label": "Affective Computing",
+                      "rich": true,
+                      "align": "center",
+                      "children": [
+                        {
+                          "tag": "p",
+                          "style": {
+                            "--font-selector": "R0Y7U2F0b3NoaS01MDA=",
+                            "--framer-font-family": "\"Satoshi\", \"Satoshi Placeholder\", sans-serif",
+                            "--framer-font-size": "12px",
+                            "--framer-font-weight": "500",
+                            "--framer-letter-spacing": "0px",
+                            "--framer-line-height": "20px",
+                            "--framer-text-color": "rgb(245, 245, 247)"
+                          },
+                          "children": [
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--framer-font-size": "14px"
+                              },
+                              "children": [
+                                {
+                                  "text": "affective-395a25"
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "style": {
+                                "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                                "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                                "--framer-font-weight": "400"
+                              },
+                              "children": [
+                                {
+                                  "text": "computing-c9e9f4"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__1gbweop",
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__div-project-tag-text-69ef",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__b2c",
+                  "label": "B2C",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "b2b-6a5a40"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__div-project-tag-text-d99b",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__redesign",
+                  "label": "Redesign",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "0-to-1-e48683"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "fleet-ai__div-project-tag-text-54b8",
+              "label": "div.project-tag-text",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "fleet-ai__motion-design",
+                  "label": "Motion Design",
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO1NhdG9zaGkgTWVkaXVt",
+                        "--framer-font-family": "\"Satoshi Medium\", \"Satoshi Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "12px",
+                        "--framer-letter-spacing": "0px",
+                        "--framer-line-height": "20px",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "web-design-08bf04"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "an-ai-powered-short-term-meeting-task-management-tool-with-soft-r"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479589-a6d9",
+  "label": "Frame 1707479589",
+  "style": {
+    "transformPerspective": 1200
+  },
+  "appear": {
+    "from": {
+      "opacity": 0,
+      "rotate": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "transformPerspective": 1200,
+      "x": 0,
+      "y": 20
+    },
+    "to": {
+      "transition": {
+        "delay": 0,
+        "duration": 0.5,
+        "ease": [
+          0.44,
+          0,
+          0.56,
+          1
+        ],
+        "type": "tween"
+      },
+      "opacity": 1,
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "once": true
+  },
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-b4d9",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__creators-struggle-to-complete-the-character-creation-users-stop-e-73cd",
+          "label": "Creators struggle to complete the character creation; users stop exploring if they aren't engaged in the interactions quickly.",
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                "--framer-font-size": "36px",
+                "--framer-line-height": "150%",
+                "--framer-text-color": "rgb(245, 245, 247)"
+              },
+              "children": [
+                {
+                  "text": "text-chat-gif-emoji-dialogue-box-effect-cee758"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-text-block-7-4504",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__1mbwyln",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-2d16",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "18px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(177, 177, 177)"
+                  },
+                  "children": [
+                    {
+                      "text": "during-the-text-chats-using-large-emoji-gifs-794d66"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

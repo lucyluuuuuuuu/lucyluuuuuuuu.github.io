@@ -1,0 +1,18 @@
+{
+  "tag": "div",
+  "class": "espoirer__frame-1707480597",
+  "label": "Frame 1707480597",
+  "children": [
+    {
+      "tag": "div",
+      "class": "espoirer__frame-1707479634",
+      "label": "Frame_1707479634",
+      "image": {
+        "src": "/assets/images/espoirer/23-after-two-rounds-of-workshops-i-streamlined-the-user-flows-for-th.png",
+        "alt": "",
+        "fit": "cover",
+        "position": "50% 50%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707479589-7f1b",
+  "label": "Frame 1707479589",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__frame-1707479588-94b7",
+      "label": "Frame 1707479588",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__heading-5-2f77",
+          "label": "Heading 5",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__current-user-journey-pain-points-a724",
+              "label": "🗣 Current user journey & Pain points",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO1NoYXJwIEdyb3Rlc2sgTWVkaXVtIDIw",
+                    "--framer-font-family": "\"Sharp Grotesk Medium 20\", \"Sharp Grotesk Medium 20 Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(102, 130, 236)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--framer-text-color": "rgb(217, 79, 119)"
+                      },
+                      "children": [
+                        {
+                          "text": "layer-19e34b"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "takeaway-9225ef"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__div-text-block-7-2ff6",
+      "label": "div.text-block-7",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480586-9c02",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480585-6a20",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__rectangle-3463367-0c1e",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-8863",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 31)"
+                      },
+                      "children": [
+                        {
+                          "text": "adapting-roles-and-prioritizing-goals-in-star-2f1379"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "working-in-a-startup-gave-more-opportunities-6d4503"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480586-2ba2",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480585-799b",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__rectangle-3463367-030f",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-c924",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 32)"
+                      },
+                      "children": [
+                        {
+                          "text": "close-collaboration-with-engineers-team-can-p-aab94c"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "i-worked-closely-with-engineers-throughout-th-70caae"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480586-0ac4",
+          "label": "Frame 1707480586",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480585-2844",
+              "label": "Frame 1707480585",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__rectangle-3463367-9499",
+                  "label": "Rectangle 3463367",
+                  "style": {
+                    "rotate": 1,
+                    "transform": "translate(-50%, -50%)"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__link-drayeasy-inc-6e84",
+              "label": "Link → DrayEasy Inc.",
+              "rich": true,
+              "align": "center",
+              "children": [
+                {
+                  "tag": "p",
+                  "style": {
+                    "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                    "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                    "--framer-font-size": "12px",
+                    "--framer-line-height": "150%",
+                    "--framer-text-color": "rgb(110, 110, 115)"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-text-color": "rgb(26, 28, 32)"
+                      },
+                      "children": [
+                        {
+                          "text": "don-t-make-users-think-f9cb73"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "users-don-t-want-to-take-a-lot-of-decisions-o-a02da1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

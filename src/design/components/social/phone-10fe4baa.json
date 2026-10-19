@@ -1,0 +1,44 @@
+{
+  "tag": "a",
+  "class": "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+  "label": "Social Icons",
+  "style": {
+    "--border-bottom-width": "1px",
+    "--border-color": "rgb(221, 224, 209)",
+    "--border-left-width": "1px",
+    "--border-right-width": "1px",
+    "--border-style": "solid",
+    "--border-top-width": "1px",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 40,
+    "borderBottomRightRadius": 40,
+    "borderTopLeftRadius": 40,
+    "borderTopRightRadius": 40,
+    "height": "100%",
+    "width": "100%"
+  },
+  "hover": {
+    "backgroundColor": "rgb(0, 0, 0)"
+  },
+  "border": true,
+  "children": [
+    {
+      "tag": "div",
+      "class": "social__11qz4tu-container",
+      "children": [
+        {
+          "tag": "div",
+          "style": {
+            "height": "100%",
+            "width": "100%"
+          },
+          "icon": "EnvelopeSimple",
+          "color": "var(--token-039b0c73-d2a6-423c-b659-d1c0b169962a, rgb(17, 17, 17))"
+        }
+      ]
+    }
+  ],
+  "link": "mailto:lusiyi1994@outlook.com",
+  "newTab": true,
+  "component": "social"
+}

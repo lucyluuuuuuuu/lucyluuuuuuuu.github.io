@@ -1,0 +1,31 @@
+{
+  "tag": "div",
+  "class": "conch-ai__row",
+  "label": "Row",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__1jhebr",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__c5dybu-container",
+          "children": [
+            {
+              "include": "related-card/phone-f0d5fa34"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__zpkp87-container",
+          "children": [
+            {
+              "include": "related-card/phone-8cf6a3b2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

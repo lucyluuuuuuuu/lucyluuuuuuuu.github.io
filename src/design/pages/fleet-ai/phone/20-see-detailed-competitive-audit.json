@@ -1,0 +1,133 @@
+{
+  "tag": "div",
+  "class": "fleet-ai__frame-1707480718-a884",
+  "label": "Frame 1707480718",
+  "children": [
+    {
+      "tag": "div",
+      "class": "fleet-ai__frame-1707480717-57b6",
+      "label": "Frame 1707480717",
+      "children": [
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480597-f39c",
+          "label": "Frame 1707480597",
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__2024-04-14-15-09-1-1114",
+              "label": "截屏2024-04-14 15.09 1",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "image": {
+                "src": "/assets/images/fleet-ai/16-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__frame-1707480596-5633",
+          "label": "Frame 1707480596",
+          "border": true,
+          "children": [
+            {
+              "tag": "div",
+              "class": "fleet-ai__2024-04-14-15-04-1-b45b",
+              "label": "截屏2024-04-14 15.04 1",
+              "style": {
+                "transform": "translate(-50%, -50%)"
+              },
+              "image": {
+                "src": "/assets/images/fleet-ai/17-organize-competitive-analysis-the-same-way-as-interview-data-to-i.png",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__vector-1691-bc69",
+          "label": "Vector 1691",
+          "style": {
+            "rotate": 90
+          },
+          "svg": "<svg width=\"40\" height=\"40\" viewBox=\"-2 -2 40 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M0.692308 9.36H18C18.3824 9.36 18.6923 9.05004 18.6923 8.66769V1.71884C18.6923 1.0955 19.4516 0.789671 19.8837 1.239L35.5386 17.5202C35.7963 17.7882 35.7963 18.2118 35.5386 18.4798L19.8837 34.761C19.4516 35.2103 18.6923 34.9045 18.6923 34.2812V28.4123C18.6923 28.03 18.3824 27.72 18 27.72H0.692308C0.309957 27.72 0 27.41 0 27.0277V10.0523C0 9.66996 0.309957 9.36 0.692308 9.36Z\" fill=\"url(#paint0_linear_1840_42517)\"/>\n<defs>\n<linearGradient id=\"paint0_linear_1840_42517\" x1=\"36\" y1=\"18\" x2=\"-17.5\" y2=\"18\" gradientUnits=\"userSpaceOnUse\">\n<stop stop-color=\"#B8B8B8\"/>\n<stop offset=\"1\" stop-color=\"white\" stop-opacity=\"0.07\"/>\n</linearGradient>\n</defs>\n</svg>\n"
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__2-rounds-of-affinity-mapping-e010",
+          "label": "2 Rounds of affinity mapping",
+          "style": {
+            "transform": "translateX(-50%)"
+          },
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC01MDA=",
+                "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-font-weight": "500",
+                "--framer-line-height": "24px",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(134, 154, 175)"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "class": "fleet-ai__styles-preset-jlbh0g",
+                  "children": [
+                    {
+                      "text": "see-detailed-competitive-audit-3a1e73"
+                    }
+                  ],
+                  "link": "https://docs.google.com/spreadsheets/d/17P9325j4Dv3Qj0vRFlmwcxcQuSdwj6JnfBp9MeDBbjw/edit?resourcekey=0-q8I0JqtMkOllieDDnvitLQ#gid=2073884517",
+                  "newTab": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "fleet-ai__reorganized-according-to-meeting-processes-fbe7",
+          "label": "Reorganized according to meeting processes",
+          "style": {
+            "transform": "translateX(-50%)"
+          },
+          "rich": true,
+          "align": "center",
+          "children": [
+            {
+              "tag": "p",
+              "style": {
+                "--font-selector": "R0Y7TmV1ZSBNb250cmVhbC01MDA=",
+                "--framer-font-family": "\"Neue Montreal\", \"Neue Montreal Placeholder\", sans-serif",
+                "--framer-font-size": "12px",
+                "--framer-font-weight": "500",
+                "--framer-line-height": "24px",
+                "--framer-text-alignment": "center",
+                "--framer-text-color": "rgb(134, 154, 175)"
+              },
+              "children": [
+                {
+                  "text": "reorganized-according-to-meeting-processes-8f7253"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

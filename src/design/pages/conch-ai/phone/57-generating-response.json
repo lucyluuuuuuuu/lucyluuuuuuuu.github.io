@@ -1,0 +1,436 @@
+{
+  "tag": "div",
+  "class": "conch-ai__frame-1707480619",
+  "label": "Frame 1707480619",
+  "children": [
+    {
+      "tag": "div",
+      "class": "conch-ai__rstzcp",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/41-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "9px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "generating-response-8da837"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "thinking-7d37c0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614-884c",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1-f455",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/42-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222-c6ad",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking-c832",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "generating-response-8da837"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "thinking-7d37c0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614-1aed",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1-3f61",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/43-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222-aa0e",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking-6aa5",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "9px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "regular-state-393b16"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "talking-014ae9"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "conch-ai__1lxf0qk",
+      "children": [
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614-1d1e",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1-be05",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/44-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222-e484",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking-8116",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "9px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "1-24-emotion-a582cd"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "sadness-a2ffc8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614-64e0",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1-e103",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/45-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222-440a",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking-6c42",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "9px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "1-24-emotion-a582cd"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "anger-a25e56"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "conch-ai__frame-1707480614-7f1d",
+          "label": "Frame 1707480614",
+          "children": [
+            {
+              "tag": "div",
+              "class": "conch-ai__happy3-1-60c7",
+              "label": "happy3 1",
+              "image": {
+                "src": "/assets/images/conch-ai/46-call-chat-facial-expression-oceanwave-sound.gif",
+                "alt": "",
+                "fit": "stretch",
+                "position": "center center"
+              }
+            },
+            {
+              "tag": "div",
+              "class": "conch-ai__frame-1707480222-a352",
+              "label": "Frame 1707480222",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "conch-ai__generating-response-thinking-2976",
+                  "label": "(generating response) Thinking",
+                  "style": {
+                    "transform": "translate(-50%, -50%)"
+                  },
+                  "rich": true,
+                  "align": "center",
+                  "children": [
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgUmVndWxhcg==",
+                        "--framer-font-family": "\"Neue Montreal Regular\", \"Neue Montreal Regular Placeholder\", sans-serif",
+                        "--framer-font-size": "9px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "1-24-emotion-a582cd"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "style": {
+                        "--font-selector": "Q1VTVE9NO05ldWUgTW9udHJlYWwgTWVkaXVt",
+                        "--framer-font-family": "\"Neue Montreal Medium\", \"Neue Montreal Medium Placeholder\", sans-serif",
+                        "--framer-font-size": "10px",
+                        "--framer-line-height": "150%",
+                        "--framer-text-alignment": "center",
+                        "--framer-text-color": "rgb(245, 245, 247)"
+                      },
+                      "children": [
+                        {
+                          "text": "surprise-39bfd0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "1-24-emotion-surprise"
+  ]
+}
