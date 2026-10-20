@@ -12,7 +12,13 @@ function activateAnchors() {
 }
 function followHash(smooth = false) {
   const id = decodeURIComponent(location.hash.slice(1));
-  if(id) document.getElementById(id)?.scrollIntoView({behavior:smooth && !reduced.matches ? 'smooth' : 'instant'});
+  const target = id && document.getElementById(id);
+  if(!target)return;
+  const behavior = smooth && !reduced.matches ? 'smooth' : 'instant';
+  // The original Work navigation aligns the section with the viewport top.
+  // Other content anchors retain their comfortable reading offset.
+  if(id==='works')scrollTo({top:target.getBoundingClientRect().top+scrollY,behavior});
+  else target.scrollIntoView({behavior});
 }
 activateAnchors();
 addEventListener('resize', activateAnchors);
@@ -38,7 +44,7 @@ document.addEventListener('click', event => {
   if(action?.dataset.action==='close-menu') closeMenu();
   const link=event.target.closest('a[href]');
   if(link?.closest('.design-menu-overlay')) closeMenu();
-  if(link){const target=new URL(link.href);if(target.pathname===location.pathname&&target.hash===location.hash)followHash(true);}
+  if(link){const target=new URL(link.href);if(target.origin===location.origin&&target.pathname===location.pathname&&target.hash&&target.hash===location.hash){event.preventDefault();followHash(true);}}
 });
 document.addEventListener('keydown', event => {
   if(!document.body.classList.contains('menu-is-open'))return;

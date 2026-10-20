@@ -1,6 +1,6 @@
 {
+  "status": "complete_with_documented_limits",
   "date": "2026-10-20",
-  "status": "partial",
   "original": "https://lucy-lu.com/",
   "target": "https://lucyluuuuuuuu.github.io/",
   "viewports": [
@@ -16,10 +16,10 @@
     "slideshow"
   ],
   "sourceSHA256": {
-    "src/scripts/design.js": "a1caac6742f41e68a44b9bb26abfc432e788b0964e00c89cd80fc898b7731a9e",
-    "src/styles/design.css": "3b5ff732ca64927567b6fab922a18a03b8053144b0637250c4259b4a3d034c01",
+    "src/scripts/design.js": "46f443c60b2cbce5855a1804d8fab3e849cd807daec793b3cebad146b6c4acb7",
+    "src/styles/design.css": "bf3561545b7ae1f2402e5b16e5d0b2a6e18d3188ec6038c5a7c327d3a2342233",
     "src/styles/design/fonts.css": "b2be544d01e4e2d7690a8f88c6cabb18a7ce91049c23d009b8fc45e93c4a9e78",
-    "src/pages/design.mjs": "a7494c626624bd902491f74b8d8b5344e1440acd3e747e821307396c783ab2cc"
+    "src/pages/design.mjs": "e0140153cb5f9a9a90247fead7fcb2c3afdedd9e200462419a85d58cea503af1"
   },
   "pairedPages": [
     {
@@ -135,12 +135,12 @@
       "staticElements": 302,
       "geometryDifferences": 0,
       "excludedPixelsPercent": 7.9449,
-      "changedStaticPixelsPercent": 2.7758,
-      "meanAbsoluteStaticChannelDifference": 4.386,
-      "changedStaticPixelsOver8Percent": 7.6956,
+      "changedStaticPixelsPercent": 0.197,
+      "meanAbsoluteStaticChannelDifference": 0.5269,
+      "changedStaticPixelsOver8Percent": 1.6163,
       "threshold": 24,
       "source": "https://lucy-lu.com/work/Conch.AI",
-      "pixelReviewStatus": "pending_visible_image_verification"
+      "pixelReviewStatus": "measured"
     },
     {
       "stem": "conch-ai-390",
@@ -180,12 +180,12 @@
       "staticElements": 254,
       "geometryDifferences": 0,
       "excludedPixelsPercent": 14.8543,
-      "changedStaticPixelsPercent": 0.4496,
-      "meanAbsoluteStaticChannelDifference": 0.6866,
-      "changedStaticPixelsOver8Percent": 2.0087,
+      "changedStaticPixelsPercent": 0.3637,
+      "meanAbsoluteStaticChannelDifference": 0.6429,
+      "changedStaticPixelsOver8Percent": 1.8307,
       "threshold": 24,
       "source": "https://lucy-lu.com/work/Fleet.AI",
-      "pixelReviewStatus": "pending_visible_image_verification"
+      "pixelReviewStatus": "measured"
     },
     {
       "stem": "fleet-ai-390",
@@ -225,12 +225,12 @@
       "staticElements": 271,
       "geometryDifferences": 0,
       "excludedPixelsPercent": 3.2144,
-      "changedStaticPixelsPercent": 4.2138,
-      "meanAbsoluteStaticChannelDifference": 7.3424,
-      "changedStaticPixelsOver8Percent": 6.2197,
+      "changedStaticPixelsPercent": 0.1807,
+      "meanAbsoluteStaticChannelDifference": 0.5289,
+      "changedStaticPixelsOver8Percent": 1.5652,
       "threshold": 24,
       "source": "https://lucy-lu.com/work/Espoirer",
-      "pixelReviewStatus": "pending_visible_image_verification"
+      "pixelReviewStatus": "measured"
     },
     {
       "stem": "espoirer-390",
@@ -249,8 +249,8 @@
     }
   ],
   "interactions": {
-    "passed": false,
-    "status": "partial_browser_connection_unavailable",
+    "passed": true,
+    "status": "complete_with_documented_limits",
     "completed": [
       {
         "check": "Entrance configuration",
@@ -281,43 +281,50 @@
       {
         "check": "Centering after resizing from 1440 to 1600px",
         "evidence": "responsive-animation-regression.json"
-      }
-    ],
-    "earlierBrowserChecks": [
-      {
-        "check": "Desktop Home card hover endpoint",
-        "evidence": "home-hover-comparison.json",
-        "note": "Paired screenshots precede the final font fallback and spring refinements; repeat on the final build."
       },
       {
-        "check": "Phone slideshow next cycle 0→1→2→0",
-        "evidence": "slideshow-phone-next-cycle.json",
-        "note": "Verified on c6555cd, before this revision's shared spring refinements."
+        "check": "Final desktop card and tablet Resume, Instagram, card Hover",
+        "evidence": "final-hover-comparison.json"
       },
       {
-        "check": "Phone slideshow drag 0→1",
-        "evidence": "slideshow-phone-drag.json",
-        "note": "Verified on c6555cd; final-build retest pending."
+        "check": "Phone menu pixels, clock, button/Escape close, Work landing and repeated Work link",
+        "evidence": "final-browser-validation.json"
+      },
+      {
+        "check": "Three layouts: next cycle, previous wrap, dot and drag, all settled",
+        "evidence": "final-carousel-validation.json"
+      },
+      {
+        "check": "About navigation and home logo",
+        "evidence": "final-navigation-validation.json"
+      },
+      {
+        "check": "Continuous track direction and speed",
+        "evidence": "final-ticker-validation.json"
+      },
+      {
+        "check": "15 tablet image pairs captured at matched scroll positions",
+        "evidence": "tablet-image-validation.json"
+      },
+      {
+        "check": "Fleet phone heading actual visibility matches the source",
+        "evidence": "fleet-heading-visibility.json"
       }
     ],
-    "pending": [
-      "Final-build tablet Resume, Instagram and project-card hover pairs; original screenshots are saved.",
-      "Final-build desktop card hover refresh.",
-      "Phone menu clock, open/close and Work anchor landing comparison; source menu screenshot and styles are saved.",
-      "Final-build slideshow previous/next, dots, wrap and drag at all three control sizes.",
-      "Fleet.AI phone heading visibility after scrolling into view.",
-      "Visible-region verification for 15 images in the three tablet case studies; full-page captures contain unexplained paint differences."
+    "pending": [],
+    "knownSourceBehavior": [
+      "Fleet phone “Our goal are...” heading remains opacity 0 because its original 18px clipping wrapper excludes the initial 20px translated heading. Both sites match; documented rather than silently redesigning it."
     ],
     "limits": [
-      "No synchronized frame-by-frame video was recorded.",
-      "Browser transport closed during the phone Work-anchor check. Reinitialization and reopening were attempted without recovery."
+      "No synchronized frame-by-frame video.",
+      "Three representative widths, not every possible width.",
+      "Static image sampling and JPEG compression differences remain in reported pixel metrics.",
+      "Hover tests cover shared interaction types; duplicate instances are checked by configuration."
     ]
   },
   "limits": [
-    "Three representative viewport widths, not every possible width.",
-    "Three tablet case-study image comparisons remain provisional.",
+    "Representative widths for the three responsive layouts; not every possible viewport width.",
     "JPEG capture and image sampling can differ.",
-    "No synchronized frame-by-frame video.",
-    "Final menu-only clock changes postdate the closed-menu full-page captures."
+    "Animations verified by configuration, physical spring calculation and interaction states; no synchronized frame-by-frame video."
   ]
 }

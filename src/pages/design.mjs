@@ -58,6 +58,7 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     ArrowUpRight: '<path d="M5 19 19 5M5 5h14v14"/>',
     ArrowUp: '<path d="m5 10 7-7 7 7M12 3v18"/>',
   };
+  const navigationBackgrounds = new Map();
   async function render(node, ctx) {
     if (node == null) return '';
     if (Array.isArray(node)) { const result=[]; for(const child of node)result.push(await render(child,ctx)); return result.join(''); }
@@ -68,7 +69,9 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     }
     if (node.include) {
       if(!parts.has(node.include)) parts.set(node.include, json(`src/design/components/${node.include}.json`));
-      return render(await parts.get(node.include),ctx);
+      const component=await parts.get(node.include);
+      if(node.include.startsWith('navigation/'))navigationBackgrounds.set(ctx.profile,component.style?.backgroundColor);
+      return render(component,ctx);
     }
     const dest = node.cardDestination || destination(node.link);
     if(dest === false) return '';
@@ -167,7 +170,10 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     const view = manifest[profile], sections=[];
     for(const [i,file] of view.sections.entries()) sections.push(await render(await json(`src/design/pages/${id}/${file}`),{profile,section:i}));
     let menu='';
-    if(profile!=='desktop') menu=`<div class="design-menu-overlay" hidden>${await render(menus[profile],{profile,section:0})}</div>`;
+    if(profile!=='desktop') {
+      const expanded={...menus[profile],style:{...menus[profile].style,backgroundColor:navigationBackgrounds.get(profile)||menus[profile].style.backgroundColor}};
+      menu=`<div class="design-menu-overlay" hidden>${await render(expanded,{profile,section:0})}</div>`;
+    }
     let markup=sections.join('\n')+menu;
     if(extraNavigation.length){
       const extra=extraNavigation.map(item=>`<a class="extra-navigation-link" href="${e(url(item.href))}">${e(item.label)}</a>`).join('');
