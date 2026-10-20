@@ -42,7 +42,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -170,7 +171,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -238,7 +240,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -318,7 +321,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -383,7 +387,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -486,7 +491,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {
@@ -551,7 +557,8 @@
                   "y": 0,
                   "scale": 1
                 },
-                "once": true
+                "once": true,
+                "threshold": 0.5
               },
               "children": [
                 {

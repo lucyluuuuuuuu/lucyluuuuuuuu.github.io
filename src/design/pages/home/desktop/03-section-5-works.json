@@ -94,7 +94,9 @@
               "y": 0,
               "scale": 1
             },
-            "once": true
+            "once": true,
+            "threshold": 0.5,
+            "trigger": "works"
           },
           "children": [
             {
@@ -149,7 +151,8 @@
               "y": 0,
               "scale": 1
             },
-            "once": true
+            "once": true,
+            "trigger": "works"
           },
           "children": [
             {
@@ -204,7 +207,8 @@
               "y": 0,
               "scale": 1
             },
-            "once": true
+            "once": true,
+            "trigger": "works"
           },
           "children": [
             {

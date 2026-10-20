@@ -54,9 +54,9 @@ addEventListener('resize',()=>{if(document.body.classList.contains('menu-is-open
 
 function frame(data, base='') {
   const x=data.x||0,y=data.y||0,scale=data.scale??1;
-  return {opacity:data.opacity??1,transform:`${base} perspective(${data.transformPerspective||1200}px) translate(${x}px,${y}px) rotate(${data.rotate||0}deg) rotateX(${data.rotateX||0}deg) rotateY(${data.rotateY||0}deg) scale(${scale}) skew(${data.skewX||0}deg,${data.skewY||0}deg)`};
+  return {opacity:data.opacity??1,transform:`${base} perspective(${data.transformPerspective||1200}px) translate(${x}px,${y}px) rotate(${data.rotate||0}deg) rotateX(${data.rotateX||0}deg) rotateY(${data.rotateY||0}deg) scale(${scale}) skew(${data.skewX||0}deg,${data.skewY||0}deg) translateZ(0px)`};
 }
-function springProgress(transition,{distance=1,velocity=0,restDelta=.001}={}){
+function springProgress(transition,{distance=1,velocity=0,restDelta=Math.abs(distance)<5?.005:.5,restSpeed=Math.abs(distance)<5?.01:2}={}){
   const mass=transition.mass||1,k=transition.stiffness||500,c=transition.damping||60;
   const omega=Math.sqrt(k/mass),zeta=c/(2*Math.sqrt(k*mass)),initialVelocity=distance?velocity/distance:0;
   const response=t=>{
@@ -65,26 +65,113 @@ function springProgress(transition,{distance=1,velocity=0,restDelta=.001}={}){
     const a=-omega*(zeta-Math.sqrt(zeta*zeta-1)),b=-omega*(zeta+Math.sqrt(zeta*zeta-1));
     return 1+((initialVelocity+b)*Math.exp(a*t)-(initialVelocity+a)*Math.exp(b*t))/(a-b);
   };
-  let seconds=1/60;while(seconds<3&&Math.abs((1-response(seconds))*distance)>restDelta)seconds+=1/60;
-  const count=Math.ceil(seconds*60);
+  const speed=t=>{
+    if(zeta<1){const a=zeta*omega,b=omega*Math.sqrt(1-zeta*zeta);return Math.exp(-a*t)*(initialVelocity*Math.cos(b*t)+(omega*omega-a*initialVelocity)/b*Math.sin(b*t));}
+    if(zeta===1)return Math.exp(-omega*t)*(initialVelocity+omega*(omega-initialVelocity)*t);
+    const a=-omega*(zeta-Math.sqrt(zeta*zeta-1)),b=-omega*(zeta+Math.sqrt(zeta*zeta-1));
+    return (a*(initialVelocity+b)*Math.exp(a*t)-b*(initialVelocity+a)*Math.exp(b*t))/(a-b);
+  };
+  // Crossing the target is not settling: retain the overshoot until both
+  // displacement and velocity are small, as in the original spring engine.
+  const sampleRate=240;
+  let seconds=1/sampleRate;while(seconds<3&&(Math.abs((1-response(seconds))*distance)>restDelta||Math.abs(speed(seconds)*distance)>restSpeed))seconds+=1/sampleRate;
+  const count=Math.ceil(seconds*sampleRate);
   return {values:Array.from({length:count+1},(_,i)=>i===count?1:response(i*seconds/count)),duration:seconds*1000};
 }
 function springFrames(from,to,transition,base){
-  const {values,duration}=springProgress(transition),keys=['opacity','x','y','rotate','rotateX','rotateY','scale','skewX','skewY'];
-  const frames=values.map(progress=>{const v={};for(const key of keys){const fallback=['opacity','scale'].includes(key)?1:0;v[key]=(from[key]??fallback)+((to[key]??fallback)-(from[key]??fallback))*progress;}return frame(v,base);});
+  const keys=['opacity','x','y','rotate','rotateX','rotateY','scale','skewX','skewY'];
+  // The source animates each property independently. Opacity, pixel offsets,
+  // angles and scale therefore reach their own resting thresholds at different
+  // times, even though they share the same physical spring parameters.
+  const properties=keys.map(key=>{
+    const fallback=['opacity','scale'].includes(key)?1:0,start=from[key]??fallback,end=to[key]??fallback,distance=end-start;
+    return {key,start,end,curve:distance?springProgress(transition,{distance,...(key==='scale'?{restDelta:.001}:{})}):null};
+  });
+  const duration=Math.max(1,...properties.map(p=>p.curve?.duration||0)),count=Math.ceil(duration/1000*240);
+  const frames=Array.from({length:count+1},(_,i)=>{
+    const elapsed=i/count*duration,v={};
+    for(const {key,start,end,curve} of properties){
+      if(!curve||elapsed>=curve.duration){v[key]=end;continue;}
+      const offset=elapsed/curve.duration*(curve.values.length-1),index=Math.floor(offset),fraction=offset-index;
+      const progress=curve.values[index]+(curve.values[index+1]-curve.values[index])*fraction;
+      v[key]=start+(end-start)*progress;
+    }
+    return frame(v,base);
+  });
   return {frames,duration};
 }
+const appearanceStates = new Map();
+function restoreRestingFrame(el) {
+  const state=appearanceStates.get(el);
+  if(!state||state.phase!=='finished'||!visible(el))return;
+  el.style.transform=state.originalTransform;
+  // Keep the original final 3D layer for identical text rendering. Existing CSS
+  // transforms stay in CSS so percentage-based centering continues to resize.
+  const final=frame(state.data.to);
+  if(getComputedStyle(el).transform==='none')el.style.transform=final.transform;
+  el.style.opacity=final.opacity;
+}
+function appearanceBase(el,state){
+  el.style.transform=state.originalTransform;
+  const computed=getComputedStyle(el).transform;
+  return state.originalTransform&&state.originalTransform!=='none'?state.originalTransform:computed==='none'?'':computed;
+}
+function prepareAppearance(el,state){
+  if(state.phase!=='pending'||!visible(el))return;
+  const initial=frame(state.data.from,appearanceBase(el,state));
+  Object.assign(el.style,initial);
+}
+function playAppearance(el,state){
+  if(state.phase!=='pending'||!visible(el))return;
+  state.phase='playing';observer.unobserve(el);
+  const {data}=state,transition=data.to.transition||{},ease=transition.ease;
+  const base=appearanceBase(el,state);
+  const finish=()=>{state.phase='finished';restoreRestingFrame(el);};
+  if(reduced.matches){finish();return;}
+  const spring=transition.type==='spring'?springFrames(data.from,data.to,transition,base):null;
+  el.animate(spring?.frames||[frame(data.from,base),frame(data.to,base)],{duration:spring?.duration||(transition.duration||.7)*1000,delay:(transition.delay||0)*1000,easing:spring?'linear':Array.isArray(ease)?`cubic-bezier(${ease.join(',')})`:'cubic-bezier(.44,0,.56,1)',fill:'backwards'}).finished.then(finish).catch(finish);
+}
 const observer = new IntersectionObserver(entries => {
-  for(const entry of entries)if(entry.isIntersecting&&visible(entry.target)){
-    const el=entry.target;observer.unobserve(el);
-    if(reduced.matches||el.closest('[data-ticker]'))continue;
-    const data=JSON.parse(el.dataset.appear),transition=data.to.transition||{},ease=transition.ease;
-    const computed=getComputedStyle(el).transform,base=computed==='none'?'':computed;
-    const spring=transition.type==='spring'?springFrames(data.from,data.to,transition,base):null;
-    el.animate(spring?.frames||[frame(data.from,base),frame(data.to,base)],{duration:spring?.duration||(transition.duration||.7)*1000,delay:(transition.delay||0)*1000,easing:spring?'linear':Array.isArray(ease)?`cubic-bezier(${ease.join(',')})`:'cubic-bezier(.44,0,.56,1)',fill:'backwards'});
+  for(const entry of entries){
+    const state=appearanceStates.get(entry.target);
+    if(!state||state.data.trigger||!entry.isIntersecting)continue;
+    // Framer measures the visible vertical fraction against the smaller of
+    // the element and viewport heights, rather than the element's full area.
+    const height=Math.min(entry.boundingClientRect.height,innerHeight);
+    if(!height||entry.intersectionRect.height/height>=(state.data.threshold||0))playAppearance(entry.target,state);
   }
-},{threshold:0});
-document.querySelectorAll('[data-appear]').forEach(el=>observer.observe(el));
+},{threshold:Array.from({length:100},(_,i)=>i/100)});
+let targetFrame;
+function checkAppearanceTargets(){
+  targetFrame=undefined;
+  for(const [el,state] of appearanceStates){
+    if(state.phase!=='pending'||!state.data.trigger||!visible(el))continue;
+    const target=[...el.closest('[data-view]').querySelectorAll('[data-anchor]')].find(node=>node.dataset.anchor===state.data.trigger);
+    if(!target){playAppearance(el,state);continue;}
+    const start=target.getBoundingClientRect().top+scrollY-1-(state.data.threshold||0)*innerHeight;
+    if(scrollY>=Math.max(0,start))playAppearance(el,state);
+  }
+}
+function requestAppearanceCheck(){if(targetFrame===undefined)targetFrame=requestAnimationFrame(checkAppearanceTargets);}
+const appearanceResizeObserver=new ResizeObserver(entries=>{
+  for(const {target} of entries){
+    const state=appearanceStates.get(target);
+    if(state.phase==='finished')restoreRestingFrame(target);
+    else prepareAppearance(target,state);
+  }
+  requestAppearanceCheck();
+});
+document.querySelectorAll('[data-appear]').forEach(el=>{
+  if(el.closest('[data-ticker]'))return;
+  const state={data:JSON.parse(el.dataset.appear),originalTransform:el.style.transform,phase:'pending'};
+  appearanceStates.set(el,state);prepareAppearance(el,state);
+  if(!state.data.trigger)observer.observe(el);
+  appearanceResizeObserver.observe(el);
+});
+addEventListener('scroll',requestAppearanceCheck,{passive:true});
+addEventListener('resize',requestAppearanceCheck);
+document.fonts.ready.then(requestAppearanceCheck);
+requestAppearanceCheck();
 
 // Continuous tracks use the source speed in pixels/second, with a gap at the seam.
 document.querySelectorAll('[data-ticker]').forEach(el=>{
@@ -162,4 +249,9 @@ document.querySelectorAll('[data-slideshow]').forEach(el=>{
   new ResizeObserver(()=>{animation?.cancel();settle();}).observe(el);
   settle();show(0);
 });
-document.querySelectorAll('[data-local-time]').forEach(el=>{el.textContent=new Intl.DateTimeFormat('en',{hour:'2-digit',minute:'2-digit',timeZone:'Asia/Shanghai'}).format(new Date());});
+const localClocks=[...document.querySelectorAll('[data-local-time]')];
+if(localClocks.length){
+  const timeFormat=new Intl.DateTimeFormat('en-GB',{hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
+  const updateLocalTime=()=>{const value=timeFormat.format(new Date());localClocks.forEach(el=>{el.textContent=value;});};
+  updateLocalTime();setInterval(updateLocalTime,1000);
+}

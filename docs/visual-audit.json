@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-20",
+  "status": "partial",
+  "original": "https://lucy-lu.com/",
+  "target": "https://lucyluuuuuuuu.github.io/",
+  "viewports": [
+    1440,
+    810,
+    390
+  ],
+  "geometryTolerancePx": 0.5,
+  "pixelMaxChannelThreshold": 24,
+  "dynamicRegionsExcluded": [
+    "GIF",
+    "ticker",
+    "slideshow"
+  ],
+  "sourceSHA256": {
+    "src/scripts/design.js": "a1caac6742f41e68a44b9bb26abfc432e788b0964e00c89cd80fc898b7731a9e",
+    "src/styles/design.css": "3b5ff732ca64927567b6fab922a18a03b8053144b0637250c4259b4a3d034c01",
+    "src/styles/design/fonts.css": "b2be544d01e4e2d7690a8f88c6cabb18a7ce91049c23d009b8fc45e93c4a9e78",
+    "src/pages/design.mjs": "a7494c626624bd902491f74b8d8b5344e1440acd3e747e821307396c783ab2cc"
+  },
+  "pairedPages": [
+    {
+      "stem": "home-1440",
+      "page": "首页",
+      "viewport": 1440,
+      "pageHeight": 4117,
+      "staticElements": 38,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 0.5346,
+      "changedStaticPixelsPercent": 0.0386,
+      "meanAbsoluteStaticChannelDifference": 0.4807,
+      "changedStaticPixelsOver8Percent": 1.0643,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "home-810",
+      "page": "首页",
+      "viewport": 810,
+      "pageHeight": 3443,
+      "staticElements": 38,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 0.7741,
+      "changedStaticPixelsPercent": 0.0073,
+      "meanAbsoluteStaticChannelDifference": 0.515,
+      "changedStaticPixelsOver8Percent": 1.329,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "home-390",
+      "page": "首页",
+      "viewport": 390,
+      "pageHeight": 3177,
+      "staticElements": 36,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 1.2993,
+      "changedStaticPixelsPercent": 0.3264,
+      "meanAbsoluteStaticChannelDifference": 0.7674,
+      "changedStaticPixelsOver8Percent": 3.3983,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "about-1440",
+      "page": "About",
+      "viewport": 1440,
+      "pageHeight": 7053,
+      "staticElements": 36,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 3.6155,
+      "changedStaticPixelsPercent": 0.0041,
+      "meanAbsoluteStaticChannelDifference": 0.4073,
+      "changedStaticPixelsOver8Percent": 0.8656,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/About-lucy-lu/",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "about-810",
+      "page": "About",
+      "viewport": 810,
+      "pageHeight": 5564,
+      "staticElements": 36,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 2.7318,
+      "changedStaticPixelsPercent": 0.0108,
+      "meanAbsoluteStaticChannelDifference": 0.5538,
+      "changedStaticPixelsOver8Percent": 1.4678,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/About-lucy-lu",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "about-390",
+      "page": "About",
+      "viewport": 390,
+      "pageHeight": 5680,
+      "staticElements": 33,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 2.6761,
+      "changedStaticPixelsPercent": 0.0151,
+      "meanAbsoluteStaticChannelDifference": 1.0964,
+      "changedStaticPixelsOver8Percent": 2.8589,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/About-lucy-lu",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "conch-ai-1440",
+      "page": "Conch.AI",
+      "viewport": 1440,
+      "pageHeight": 35727,
+      "staticElements": 299,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 5.6826,
+      "changedStaticPixelsPercent": 0.1116,
+      "meanAbsoluteStaticChannelDifference": 0.4043,
+      "changedStaticPixelsOver8Percent": 1.2378,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Conch.AI",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "conch-ai-810",
+      "page": "Conch.AI",
+      "viewport": 810,
+      "pageHeight": 30342,
+      "staticElements": 302,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 7.9449,
+      "changedStaticPixelsPercent": 2.7758,
+      "meanAbsoluteStaticChannelDifference": 4.386,
+      "changedStaticPixelsOver8Percent": 7.6956,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Conch.AI",
+      "pixelReviewStatus": "pending_visible_image_verification"
+    },
+    {
+      "stem": "conch-ai-390",
+      "page": "Conch.AI",
+      "viewport": 390,
+      "pageHeight": 26529,
+      "staticElements": 297,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 10.6434,
+      "changedStaticPixelsPercent": 0.216,
+      "meanAbsoluteStaticChannelDifference": 0.5451,
+      "changedStaticPixelsOver8Percent": 1.7642,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Conch.AI/",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "fleet-ai-1440",
+      "page": "Fleet.AI",
+      "viewport": 1440,
+      "pageHeight": 30744,
+      "staticElements": 252,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 9.8168,
+      "changedStaticPixelsPercent": 0.1163,
+      "meanAbsoluteStaticChannelDifference": 0.356,
+      "changedStaticPixelsOver8Percent": 1.0416,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Fleet.AI",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "fleet-ai-810",
+      "page": "Fleet.AI",
+      "viewport": 810,
+      "pageHeight": 26904,
+      "staticElements": 254,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 14.8543,
+      "changedStaticPixelsPercent": 0.4496,
+      "meanAbsoluteStaticChannelDifference": 0.6866,
+      "changedStaticPixelsOver8Percent": 2.0087,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Fleet.AI",
+      "pixelReviewStatus": "pending_visible_image_verification"
+    },
+    {
+      "stem": "fleet-ai-390",
+      "page": "Fleet.AI",
+      "viewport": 390,
+      "pageHeight": 19121,
+      "staticElements": 257,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 13.0039,
+      "changedStaticPixelsPercent": 0.0428,
+      "meanAbsoluteStaticChannelDifference": 0.3959,
+      "changedStaticPixelsOver8Percent": 1.0446,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Fleet.AI",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "espoirer-1440",
+      "page": "Espoirer",
+      "viewport": 1440,
+      "pageHeight": 40423,
+      "staticElements": 270,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 2.3197,
+      "changedStaticPixelsPercent": 0.034,
+      "meanAbsoluteStaticChannelDifference": 0.3464,
+      "changedStaticPixelsOver8Percent": 1.0664,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Espoirer",
+      "pixelReviewStatus": "measured"
+    },
+    {
+      "stem": "espoirer-810",
+      "page": "Espoirer",
+      "viewport": 810,
+      "pageHeight": 35669,
+      "staticElements": 271,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 3.2144,
+      "changedStaticPixelsPercent": 4.2138,
+      "meanAbsoluteStaticChannelDifference": 7.3424,
+      "changedStaticPixelsOver8Percent": 6.2197,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Espoirer",
+      "pixelReviewStatus": "pending_visible_image_verification"
+    },
+    {
+      "stem": "espoirer-390",
+      "page": "Espoirer",
+      "viewport": 390,
+      "pageHeight": 25348,
+      "staticElements": 274,
+      "geometryDifferences": 0,
+      "excludedPixelsPercent": 4.7579,
+      "changedStaticPixelsPercent": 0.0582,
+      "meanAbsoluteStaticChannelDifference": 0.4626,
+      "changedStaticPixelsOver8Percent": 1.4581,
+      "threshold": 24,
+      "source": "https://lucy-lu.com/work/Espoirer",
+      "pixelReviewStatus": "measured"
+    }
+  ],
+  "interactions": {
+    "passed": false,
+    "status": "partial_browser_connection_unavailable",
+    "completed": [
+      {
+        "check": "Entrance configuration",
+        "count": 724,
+        "layouts": 15,
+        "evidence": "entrance-configuration-comparison.json"
+      },
+      {
+        "check": "Ticker and slideshow configuration",
+        "count": 24,
+        "layouts": 15,
+        "evidence": "motion-configuration-comparison.json"
+      },
+      {
+        "check": "Hover style configuration",
+        "count": 49,
+        "layouts": 15,
+        "evidence": "interaction-configuration-comparison.json"
+      },
+      {
+        "check": "Desktop Home scroll triggers at 0, 200 and 650px",
+        "evidence": "home-trigger-candidate-checks.json"
+      },
+      {
+        "check": "Independent spring integration and per-property resting thresholds",
+        "evidence": "spring-verification.json"
+      },
+      {
+        "check": "Centering after resizing from 1440 to 1600px",
+        "evidence": "responsive-animation-regression.json"
+      }
+    ],
+    "earlierBrowserChecks": [
+      {
+        "check": "Desktop Home card hover endpoint",
+        "evidence": "home-hover-comparison.json",
+        "note": "Paired screenshots precede the final font fallback and spring refinements; repeat on the final build."
+      },
+      {
+        "check": "Phone slideshow next cycle 0→1→2→0",
+        "evidence": "slideshow-phone-next-cycle.json",
+        "note": "Verified on c6555cd, before this revision's shared spring refinements."
+      },
+      {
+        "check": "Phone slideshow drag 0→1",
+        "evidence": "slideshow-phone-drag.json",
+        "note": "Verified on c6555cd; final-build retest pending."
+      }
+    ],
+    "pending": [
+      "Final-build tablet Resume, Instagram and project-card hover pairs; original screenshots are saved.",
+      "Final-build desktop card hover refresh.",
+      "Phone menu clock, open/close and Work anchor landing comparison; source menu screenshot and styles are saved.",
+      "Final-build slideshow previous/next, dots, wrap and drag at all three control sizes.",
+      "Fleet.AI phone heading visibility after scrolling into view.",
+      "Visible-region verification for 15 images in the three tablet case studies; full-page captures contain unexplained paint differences."
+    ],
+    "limits": [
+      "No synchronized frame-by-frame video was recorded.",
+      "Browser transport closed during the phone Work-anchor check. Reinitialization and reopening were attempted without recovery."
+    ]
+  },
+  "limits": [
+    "Three representative viewport widths, not every possible width.",
+    "Three tablet case-study image comparisons remain provisional.",
+    "JPEG capture and image sampling can differ.",
+    "No synchronized frame-by-frame video.",
+    "Final menu-only clock changes postdate the closed-menu full-page captures."
+  ]
+}

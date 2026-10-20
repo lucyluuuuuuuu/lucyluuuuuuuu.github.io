@@ -11,3 +11,18 @@
 @font-face{font-family:'Poppins';src:url('../fonts/poppins-400.woff2') format('woff2');font-weight:400;font-display:swap}
 @font-face{font-family:'Neue Montreal Italic';src:url('../fonts/neue-montreal-italic-400.woff2') format('woff2');font-weight:400;font-display:swap}
 @font-face{font-family:'Sharp Grotesk SemiBold 20';src:url('../fonts/sharp-grotesk-semibold-20-400.woff2') format('woff2');font-weight:400;font-display:swap}
+
+/* Original fallback metrics also apply to glyphs absent from the primary font. */
+@font-face{font-family:Archivo Placeholder;src:local("Arial");ascent-override:88.86%;descent-override:21.25%;line-gap-override:0%;size-adjust:98.81%}
+@font-face{font-family:Poppins Placeholder;src:local("Arial");ascent-override:92.83%;descent-override:30.94%;line-gap-override:8.84%;size-adjust:113.11%}
+@font-face{font-family:Neue Montreal Bold Placeholder;src:local("Arial");ascent-override:95.45%;descent-override:22.63%;line-gap-override:0%;size-adjust:101.63%}
+@font-face{font-family:Neue Montreal Medium Placeholder;src:local("Arial");ascent-override:100.08%;descent-override:23.35%;line-gap-override:0%;size-adjust:97.23%}
+@font-face{font-family:Neue Montreal Regular Placeholder;src:local("Arial");ascent-override:102.46%;descent-override:23.64%;line-gap-override:0%;size-adjust:95.16%}
+@font-face{font-family:Satoshi Bold Placeholder;src:local("Arial");ascent-override:95.91%;descent-override:22.82%;line-gap-override:9.51%;size-adjust:105.29%}
+@font-face{font-family:Satoshi Medium Placeholder;src:local("Arial");ascent-override:99.17%;descent-override:23.59%;line-gap-override:9.83%;size-adjust:101.82%}
+@font-face{font-family:"Sharp Grotesk Medium 20 Placeholder";src:local("Arial");ascent-override:67.39%;descent-override:16.85%;line-gap-override:0%;size-adjust:118.71%}
+@font-face{font-family:Neue Montreal Medium Italic Placeholder;src:local("Arial");ascent-override:100.68%;descent-override:23.49%;line-gap-override:0%;size-adjust:96.64%}
+@font-face{font-family:Neue Montreal Italic Placeholder;src:local("Arial");ascent-override:103.11%;descent-override:23.8%;line-gap-override:0%;size-adjust:94.56%}
+@font-face{font-family:"Sharp Grotesk SemiBold 20 Placeholder";src:local("Arial");ascent-override:67.54%;descent-override:16.88%;line-gap-override:0%;size-adjust:118.45%}
+@font-face{font-family:Neue Montreal Bold Italic Placeholder;src:local("Arial");ascent-override:95.93%;descent-override:22.75%;line-gap-override:0%;size-adjust:101.12%}
+@font-face{font-family:Inter Placeholder;src:local("Arial");ascent-override:90%;descent-override:22.43%;line-gap-override:0%;size-adjust:107.64%}

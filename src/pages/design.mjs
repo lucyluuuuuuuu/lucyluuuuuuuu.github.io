@@ -115,7 +115,7 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     } else if(node.icon) {
       className += ' design-icon'; style.color = node.color;
       children = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[node.icon] || icons.ArrowUpRight}</svg>`;
-    } else if(node.clock) children = '<time data-local-time></time>';
+    } else if(node.clock) children = '<time data-local-time style="display:block"></time>';
     else if(node.motion) {
       const m=node.motion, vertical=['top','bottom'].includes(m.direction);
       className += ` design-${m.kind}${vertical ? ' vertical' : ''}`;
@@ -146,7 +146,10 @@ export async function designPage(id, { root, url, site, projects, pages }) {
         // Some original mobile covers use separate artwork. A newly selected
         // cover must replace those variants as well as the desktop image.
         const coverOverride=project.cover!==original.cover?project.cover:undefined;
-        cards.push(await render({...row,cardDestination:url(project.path)}, {...context,replacements,coverOverride}));
+        // Entrance timing follows the card's position when projects are added,
+        // hidden or reordered, while artwork and copy still follow the project.
+        const appear=row.appear?.trigger==='works'?{...row.appear,threshold:cards.length===0?.5:0}:row.appear;
+        cards.push(await render({...row,appear,cardDestination:url(project.path)}, {...context,replacements,coverOverride}));
       }
       children=cards.join('');
     } else children = await render(node.children, context);

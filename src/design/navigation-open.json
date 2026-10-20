@@ -229,7 +229,17 @@
                     "children": [
                       {
                         "tag": "div",
-                        "clock": true
+                        "clock": true,
+                        "style": {
+                          "fontFamily": "Inter, sans-serif",
+                          "fontWeight": 500,
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "letterSpacing": "0em",
+                          "lineHeight": "1em",
+                          "color": "rgb(17, 17, 17)",
+                          "whiteSpace": "nowrap"
+                        }
                       }
                     ]
                   }
@@ -398,7 +408,17 @@
                     "children": [
                       {
                         "tag": "div",
-                        "clock": true
+                        "clock": true,
+                        "style": {
+                          "fontFamily": "Inter, sans-serif",
+                          "fontWeight": 500,
+                          "fontSize": "16px",
+                          "fontStyle": "normal",
+                          "letterSpacing": "0em",
+                          "lineHeight": "1em",
+                          "color": "rgb(17, 17, 17)",
+                          "whiteSpace": "nowrap"
+                        }
                       }
                     ]
                   }
