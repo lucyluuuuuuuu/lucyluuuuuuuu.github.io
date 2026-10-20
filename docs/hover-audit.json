@@ -1,0 +1,492 @@
+{
+  "date": "2026-10-21",
+  "passed": true,
+  "scope": "All 5 pages × 1440/810/390; 78 rendered interactive instances; open phone menu logo separately checked",
+  "fixed": [
+    "Missing logo and related-card layout transitions",
+    "Fixed CSS timing replaced with source layout/property spring ranges and stopping rules",
+    "Nested text/image scale compensation and constant corner radii",
+    "Squared-channel RGB and alpha interpolation",
+    "Restart interrupted projection from the current visual box",
+    "Hover image sizes 360→400 and 280→320"
+  ],
+  "browser": [
+    {
+      "route": "/",
+      "width": 1440,
+      "instances": 11,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "work-card__root work-card__card-work work-card__variant-card-work",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 118800,
+      "maxJump": 0.0001220703125,
+      "maxCurveError": 0.0012484026829042705,
+      "maxColorError": 1,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/About-lucy-lu/",
+      "width": 1440,
+      "instances": 5,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 15744,
+      "maxJump": 0,
+      "maxCurveError": 7.62939453125e-06,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Conch.AI/",
+      "width": 1440,
+      "instances": 4,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet-card-work related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 28864,
+      "maxJump": 0,
+      "maxCurveError": 0.003667937780335251,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Fleet.AI/",
+      "width": 1440,
+      "instances": 3,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet-card-work related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18368,
+      "maxJump": 0,
+      "maxCurveError": 0.002738545747149601,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Espoirer/",
+      "width": 1440,
+      "instances": 3,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet-card-work related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18368,
+      "maxJump": 0,
+      "maxCurveError": 0.0034239648326490624,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 810,
+      "instances": 11,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "work-card__root work-card__card-work work-card__variant-tablet-card-work",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 118080,
+      "maxJump": 0,
+      "maxCurveError": 0.004991492723547708,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/About-lucy-lu/",
+      "width": 810,
+      "instances": 5,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 15744,
+      "maxJump": 0,
+      "maxCurveError": 0.0002950351043438104,
+      "maxColorError": 1,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Conch.AI/",
+      "width": 810,
+      "instances": 4,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 28776,
+      "maxJump": 3.0517578125e-05,
+      "maxCurveError": 0.0016622414566427324,
+      "maxColorError": 1,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Fleet.AI/",
+      "width": 810,
+      "instances": 3,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18368,
+      "maxJump": 3.0517578125e-05,
+      "maxCurveError": 0.0015470322894373112,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Espoirer/",
+      "width": 810,
+      "instances": 3,
+      "variants": [
+        "related-card__root related-card__tablet-card-work related-card__variant-tablet related-card__tablet-card-work-3e3d",
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18368,
+      "maxJump": 0,
+      "maxCurveError": 0.0032863298632719307,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "instances": 11,
+      "variants": [
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "work-card__root work-card__card-work work-card__variant-phone",
+        "button__root button__variant-16 button__variant-variant button__variant-16-6456",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456",
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237"
+      ],
+      "boxComparisons": 117720,
+      "maxJump": 0,
+      "maxCurveError": 0.0002090539716590456,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/About-lucy-lu/",
+      "width": 390,
+      "instances": 5,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "button__root button__variant-16 button__variant-variant-16 button__variant-16-6456",
+        "social__root social__social-icons social__variant-social-icons social__social-icons-c64e",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 15696,
+      "maxJump": 0,
+      "maxCurveError": 0.00021040811510886215,
+      "maxColorError": 1,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Conch.AI/",
+      "width": 390,
+      "instances": 4,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-iso related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 28864,
+      "maxJump": 0,
+      "maxCurveError": 0.00015269644188720122,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Fleet.AI/",
+      "width": 390,
+      "instances": 3,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-iso related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18424,
+      "maxJump": 0,
+      "maxCurveError": 3.814697265625e-06,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    },
+    {
+      "route": "/work/Espoirer/",
+      "width": 390,
+      "instances": 3,
+      "variants": [
+        "logo__root logo__variant-1 logo__variant-1-1625 logo__variant-1-b237",
+        "related-card__root related-card__tablet-card-work related-card__variant-iso related-card__tablet-card-work-3e3d",
+        "button__root button__variant-16 button__variant-primary-active button__variant-16-6456"
+      ],
+      "boxComparisons": 18368,
+      "maxJump": 0,
+      "maxCurveError": 3.829004491251453e-06,
+      "maxColorError": 0,
+      "maxRestError": 0,
+      "stale": 0,
+      "bad": [],
+      "passed": true
+    }
+  ],
+  "curveVerification": {
+    "passed": true,
+    "comparisons": 2002,
+    "method": "Independent RK4 integration at 0.05 ms; published source thresholds and squared-channel RGB",
+    "layoutSettleMs": 783,
+    "colorSettleMs": 553,
+    "samples": [
+      {
+        "ms": 0,
+        "range": 100,
+        "value": 0
+      },
+      {
+        "ms": 0,
+        "range": 1000,
+        "value": 0
+      },
+      {
+        "ms": 50,
+        "range": 100,
+        "value": 0.26235792501519944
+      },
+      {
+        "ms": 50,
+        "range": 1000,
+        "value": 0.26235792501519944
+      },
+      {
+        "ms": 100,
+        "range": 100,
+        "value": 0.5418351852854721
+      },
+      {
+        "ms": 100,
+        "range": 1000,
+        "value": 0.5418351852854721
+      },
+      {
+        "ms": 150,
+        "range": 100,
+        "value": 0.7212255709070012
+      },
+      {
+        "ms": 150,
+        "range": 1000,
+        "value": 0.7212255709070012
+      },
+      {
+        "ms": 200,
+        "range": 100,
+        "value": 0.830842245936676
+      },
+      {
+        "ms": 200,
+        "range": 1000,
+        "value": 0.830842245936676
+      },
+      {
+        "ms": 300,
+        "range": 100,
+        "value": 0.9377662410157505
+      },
+      {
+        "ms": 300,
+        "range": 1000,
+        "value": 0.9377662410157505
+      },
+      {
+        "ms": 400,
+        "range": 100,
+        "value": 0.9771054519043721
+      },
+      {
+        "ms": 400,
+        "range": 1000,
+        "value": 0.9771054519043721
+      },
+      {
+        "ms": 500,
+        "range": 100,
+        "value": 0.9915775662546166
+      },
+      {
+        "ms": 500,
+        "range": 1000,
+        "value": 0.9915775662546166
+      },
+      {
+        "ms": 600,
+        "range": 100,
+        "value": 1
+      },
+      {
+        "ms": 600,
+        "range": 1000,
+        "value": 0.9969015597791914
+      },
+      {
+        "ms": 700,
+        "range": 100,
+        "value": 1
+      },
+      {
+        "ms": 700,
+        "range": 1000,
+        "value": 0.998860147543056
+      },
+      {
+        "ms": 800,
+        "range": 100,
+        "value": 1
+      },
+      {
+        "ms": 800,
+        "range": 1000,
+        "value": 1
+      },
+      {
+        "ms": 1000,
+        "range": 100,
+        "value": 1
+      },
+      {
+        "ms": 1000,
+        "range": 1000,
+        "value": 1
+      }
+    ]
+  },
+  "sourceModel": {
+    "layoutRange": 1000,
+    "colorRange": 100,
+    "stiffness": 500,
+    "damping": 60,
+    "mass": 1,
+    "delay": 0,
+    "restDelta": 0.5,
+    "overdampedRest": "displacement only in this published source runtime",
+    "colorMix": "squared RGB channels; linear alpha",
+    "reverse": "new projection from current visual box, zero initial velocity"
+  },
+  "menu": {
+    "menuHover": {
+      "pupil": {
+        "bottom": 56,
+        "height": 8,
+        "left": 47,
+        "right": 55,
+        "top": 48,
+        "width": 8,
+        "x": 47,
+        "y": 48
+      },
+      "state": "hover"
+    },
+    "menuLeave": {
+      "pupil": {
+        "bottom": 56,
+        "height": 8,
+        "left": 41,
+        "right": 49,
+        "top": 48,
+        "width": 8,
+        "x": 41,
+        "y": 48
+      },
+      "state": "idle"
+    },
+    "menuClosed": true
+  },
+  "limits": [
+    "Source motion parameters and equations were read from the published Framer modules.",
+    "Browser frame measurements compare the local implementation with an independent numerical model; they are not synchronized recordings of both sites.",
+    "Source and candidate logo endpoints and desktop related-card boxes were also checked in the browser.",
+    "All existing component types are inventoried, including intentionally static phone cards and navigation links."
+  ],
+  "resize": {
+    "passed": true,
+    "widths": [
+      1440,
+      810,
+      390,
+      1440
+    ],
+    "hiddenDesktopHoverReset": true,
+    "newConsoleErrors": []
+  },
+  "imageSizes": [
+    {
+      "hover": "400px",
+      "sizes": "400px"
+    },
+    {
+      "hover": "400px",
+      "sizes": "360px"
+    }
+  ]
+}

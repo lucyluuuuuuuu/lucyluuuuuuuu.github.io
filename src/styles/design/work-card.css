@@ -25,7 +25,7 @@
 .work-card__root.work-card__variant-tablet-card-work .work-card__image { flex: none; height: 400px; width: 610px; }
 .work-card__root.work-card__variant-tablet-card-work .work-card__text, .work-card__root.work-card__variant-tablet-card-work .work-card__title, .work-card__root.work-card__variant-tablet-card-work .work-card__construction-company, .work-card__root.work-card__variant-tablet-card-work .work-card__struktura { width: 610px; }
 .work-card__root.work-card__variant-tablet-card-work .work-card__optional-tags { flex-direction: column; width: 610px; }
-.work-card__root.work-card__variant-tablet-card-work .work-card__qtckj0, .work-card__root.work-card__variant-tablet-card-work .work-card__1dxycj5, .work-card__root.work-card__variant-variant-5 .work-card__qtckj0, .work-card__root.work-card__variant-variant-5 .work-card__1dxycj5, .work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__content-5210 { height: min-content; }
+.work-card__root.work-card__variant-tablet-card-work .work-card__qtckj0, .work-card__root.work-card__variant-tablet-card-work .work-card__1dxycj5, .work-card__root.work-card__variant-variant-5 .work-card__qtckj0, .work-card__root.work-card__variant-variant-5 .work-card__1dxycj5, .work-card__root.work-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__content-5210 { height: min-content; }
 .work-card__root.work-card__variant-tablet-card-work .work-card__tag, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-dbcf, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-3eb5, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-071f, .work-card__root.work-card__variant-tablet-card-work .work-card__tag-9374 { height: 41px; }
 
 .work-card__root.work-card__variant-phone.work-card__card-work { cursor: unset; height: min-content; padding: 12px; width: 350px; }
@@ -48,13 +48,13 @@
 .work-card__root.work-card__variant-variant-5 .work-card__image { flex: none; width: 549px; }
 .work-card__root.work-card__variant-variant-5 .work-card__optional-tags { flex-direction: column; }
 
-.work-card__root.work-card__variant-card-work:is(:hover,:focus-within) .work-card__b5nvzu { height: 420px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
-.work-card__root.work-card__variant-card-work:is(:hover,:focus-within) .work-card__image { bottom: -100px; flex: none; height: unset; left: calc(50.00000000000002% - max(400px, 100%) / 2); min-width: 400px; overflow: hidden; position: absolute; top: 0px; width: 100%; will-change: var(--framer-will-change-override, transform); }
-.work-card__root.work-card__variant-variant-5:active .work-card__content { gap: 40px; }
-.work-card__root.work-card__variant-variant-5:active .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 432px; overflow: hidden; width: 549px; will-change: var(--framer-will-change-override, transform); }
-.work-card__root.work-card__variant-variant-5:active .work-card__image { display: block; order: 0; padding: unset; }
+.work-card__root.work-card__variant-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__b5nvzu { height: 420px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__image { bottom: -100px; flex: none; height: unset; left: calc(50.00000000000002% - max(400px, 100%) / 2); min-width: 400px; overflow: hidden; position: absolute; top: 0px; width: 100%; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-variant-5:is([data-press-state=pressed],:not([data-press-state]):active) .work-card__content { gap: 40px; }
+.work-card__root.work-card__variant-variant-5:is([data-press-state=pressed],:not([data-press-state]):active) .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 432px; overflow: hidden; width: 549px; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-variant-5:is([data-press-state=pressed],:not([data-press-state]):active) .work-card__image { display: block; order: 0; padding: unset; }
 
-.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__content { align-content: flex-start; align-items: flex-start; justify-content: flex-start; }
-.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 312px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
-.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__image { justify-content: flex-start; order: 0; }
-.work-card__root.work-card__variant-tablet-card-work:is(:hover,:focus-within) .work-card__button-2115 { text-decoration: none; }
+.work-card__root.work-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__content { align-content: flex-start; align-items: flex-start; justify-content: flex-start; }
+.work-card__root.work-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__b5nvzu { align-content: flex-start; align-items: flex-start; height: 312px; overflow: hidden; will-change: var(--framer-will-change-override, transform); }
+.work-card__root.work-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__image { justify-content: flex-start; order: 0; }
+.work-card__root.work-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .work-card__button-2115 { text-decoration: none; }

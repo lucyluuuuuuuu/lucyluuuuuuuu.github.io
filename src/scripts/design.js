@@ -1,4 +1,7 @@
+import { installHover } from './hover.js';
+
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
+installHover(reduced);
 const visible = el => el.getClientRects().length > 0;
 const views = [...document.querySelectorAll('.design-view')];
 const activeView = () => views.find(visible);

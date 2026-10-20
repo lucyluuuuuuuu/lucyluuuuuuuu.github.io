@@ -32,12 +32,12 @@
 .related-card__root.related-card__variant-iso .related-card__struktura { order: 1; width: 160px; }
 .related-card__root.related-card__variant-iso .related-card__category { order: 0; width: 160px; }
 
-.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within).related-card__tablet-card-work { gap: 45px; padding: 0px 0px 20px 0px; }
-.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__10hkt3j { aspect-ratio: 1.5 / 1; height: var(--framer-aspect-ratio-supported, 267px); width: 400px; }
-.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__image { aspect-ratio: 1.5 / 1; height: 267px; width: var(--framer-aspect-ratio-supported, 400px); }
-.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__text { width: 400px; }
-.related-card__root.related-card__variant-tablet-card-work:is(:hover,:focus-within) .related-card__title { padding: 0px 0px 0px 20px; width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)).related-card__tablet-card-work { gap: 45px; padding: 0px 0px 20px 0px; }
+.related-card__root.related-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__10hkt3j { aspect-ratio: 1.5 / 1; height: var(--framer-aspect-ratio-supported, 267px); width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__image { aspect-ratio: 1.5 / 1; height: 267px; width: var(--framer-aspect-ratio-supported, 400px); }
+.related-card__root.related-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__text { width: 400px; }
+.related-card__root.related-card__variant-tablet-card-work:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__title { padding: 0px 0px 0px 20px; width: 400px; }
 
-.related-card__root.related-card__variant-tablet:is(:hover,:focus-within).related-card__tablet-card-work { gap: 37px; padding: 0px 0px 20px 0px; }
-.related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__10hkt3j, .related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__image { height: 235px; width: 320px; }
-.related-card__root.related-card__variant-tablet:is(:hover,:focus-within) .related-card__text { padding: 0px 0px 0px 20px; width: 320px; }
+.related-card__root.related-card__variant-tablet:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)).related-card__tablet-card-work { gap: 37px; padding: 0px 0px 20px 0px; }
+.related-card__root.related-card__variant-tablet:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__10hkt3j, .related-card__root.related-card__variant-tablet:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__image { height: 235px; width: 320px; }
+.related-card__root.related-card__variant-tablet:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .related-card__text { padding: 0px 0px 0px 20px; width: 320px; }

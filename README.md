@@ -18,6 +18,7 @@
 | 某页的样式 | `src/styles/design/<页面名>.css` |
 | 卡片、按钮、导航的共用样式 | `src/styles/design/work-card.css`、`button.css`、`navigation.css` 等 |
 | 滚动、轮播、菜单交互 | `src/scripts/design.js` |
+| Hover 弹簧、颜色、反向与布局补偿 | `src/scripts/hover.js` |
 
 每页 `index.json` 按 desktop / tablet / phone 列出章节文件。文件中保留嵌套布局、可读的图层名称和本地图片路径。正文独立存储，三种布局引用同一份文字，避免改三遍。共用组件位于 `src/design/components/`。
 
@@ -45,3 +46,5 @@ npm run check
 首次迁移的简化内容保存在 `examples/initial-migration-content/`，供新页面模板参考；这份归档不驱动当前五个页面。新的普通内容页和案例可继续使用 `src/content/<id>/index.json` 与现有通用模板，也可以复制已还原页面的布局。
 
 原有 2023/2024 项目状态和文案保持原样。文字、图片、字体的权利仍归原权利人所有，本仓库没有添加重新授权这些素材的开源许可证。
+
+2026-10-21 补修 Hover 运动过程：眼睛、首页卡片、上一／下一项目卡片、按钮及社交图标。5 页 × 3 尺寸的 78 个可见布局组件完成进入、移出、80ms 中途反向和复位检查。数值公式、组件范围与验证边界见 [Hover 验收](docs/hover-audit.json)。修改交互后运行 `npm run check:hover`；发布流程也会自动检查。

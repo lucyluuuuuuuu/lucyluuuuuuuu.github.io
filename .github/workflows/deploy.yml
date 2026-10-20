@@ -39,6 +39,8 @@ jobs:
         run: node scripts/build.mjs
       - name: Check routes, section links and assets
         run: node scripts/check.mjs
+      - name: Check hover transition curves
+        run: node scripts/check-hover.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

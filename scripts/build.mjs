@@ -51,6 +51,7 @@ export async function build() {
   await fs.cp(path.join(root, 'src/styles/design'), path.join(output, 'assets/design'), {recursive:true});
   await fs.copyFile(path.join(root, 'src/styles/design.css'), path.join(output, 'assets/design.css'));
   await fs.copyFile(path.join(root, 'src/scripts/design.js'), path.join(output, 'assets/design.js'));
+  await fs.copyFile(path.join(root, 'src/scripts/hover.js'), path.join(output, 'assets/hover.js'));
   const hasDesign = async id => fs.access(path.join(root, `src/design/pages/${id}/index.json`)).then(()=>true,()=>false);
   const renderDesign = id => designPage(id, {root,url,site,projects,pages:generalPages});
   const pages = [];

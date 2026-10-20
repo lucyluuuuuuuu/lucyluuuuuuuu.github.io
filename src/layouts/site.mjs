@@ -12,7 +12,7 @@ export function layout({ site, title, description, path, body, url, kind = 'page
   <meta property="og:type" content="website"><meta property="og:title" content="${e(title)}"><meta property="og:description" content="${e(description)}"><meta property="og:url" content="${e(canonical)}">
   ${image ? `<meta property="og:image" content="${e(site.url.replace(/\/$/, '') + image)}">` : ''}
   <link rel="icon" href="${url('/assets/favicon.png')}"><link rel="preload" href="${url('/assets/fonts/neue-montreal-regular.woff2')}" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="${url(restored ? '/assets/design.css' : '/assets/site.css')}"><script src="${url(restored ? '/assets/design.js' : '/assets/site.js')}" defer></script>
+  <link rel="stylesheet" href="${url(restored ? '/assets/design.css' : '/assets/site.css')}"><script src="${url(restored ? '/assets/design.js' : '/assets/site.js')}" ${restored ? 'type="module"' : 'defer'}></script>
 </head><body id="top" class="${e(kind)}">
 ${restored ? '<a class="skip-link" href="#main">Skip to content</a>' : navigation(site, path, url)}
 <main id="main">${body}</main>

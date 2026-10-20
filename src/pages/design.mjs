@@ -81,6 +81,9 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     const style = { ...node.style };
     const context = {...ctx};
     if (node.component) { context.hoverRoot = uid; attributes += ` data-component="${e(node.component)}"`; }
+    if(node.component==='related-card') context.hoverImageSize =
+      className.includes('related-card__variant-tablet-card-work') ? '400px' :
+      className.includes('related-card__variant-tablet ') ? '320px' : null;
     if(node.component==='menu-item'&&dest?.startsWith('/')){
       const item=site.navigation.find(item=>url(item.href)===dest);
       if(item)context.menuLabel=item.label;
@@ -90,12 +93,16 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     if(node.action) { tag = 'button'; attributes += ` type="button" data-action="${node.action}" aria-label="${node.action === 'open-menu' ? 'Open menu' : 'Close menu'}" aria-expanded="${node.action === 'close-menu'}"`; }
     if(node.border) attributes += ' data-border="true"';
     if(node.label) attributes += ` data-layer="${e(node.label)}"`;
+    if(node.class || node.label || node.rich || node.image) attributes += ' data-layout';
     if(node.anchor) attributes += ` data-anchor="${e(node.anchor)}"`;
     attributes += ` id="${uid}"`;
     if(node.hover || node.pressed) {
       const scope = context.hoverRoot || uid;
       const selector = scope === uid ? `#${uid}` : `#${scope}`;
-      for(const [state,values] of [[':is(:hover,:focus-within)',node.hover],[':active',node.pressed]]) if(values) {
+      const properties = [...new Set([...Object.keys(node.hover || {}), ...Object.keys(node.pressed || {})])]
+        .map(key => key.startsWith('--') ? key : key.replace(/[A-Z]/g, c => '-' + c.toLowerCase()));
+      attributes += ` data-hover-properties="${e(JSON.stringify(properties))}"`;
+      for(const [state,values] of [[':is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within))',node.hover],[':is([data-press-state=pressed],:not([data-press-state]):active)',node.pressed]]) if(values) {
         rules.add(`${selector}${state}${scope === uid ? '' : ' #' + uid}{${styles(values).split(';').filter(Boolean).map(s => s + '!important').join(';')}}`);
       }
     }
@@ -107,7 +114,7 @@ export async function designPage(id, { root, url, site, projects, pages }) {
       const fit=node.image.fit==='fit'?'contain':node.image.fit;
       const source=ctx.coverOverride || ctx.replacements?.[node.image.src] || node.image.src;
       const variants=node.image.sizes&&imageSources[source];
-      const responsive=variants?` srcset="${e(variants.map(v=>`${url(v.src)} ${v.width}w`).join(','))}" sizes="${e(node.image.sizes||'100vw')}"`:'';
+      const responsive=variants?` srcset="${e(variants.map(v=>`${url(v.src)} ${v.width}w`).join(','))}" sizes="${e(node.image.sizes||'100vw')}"${ctx.hoverImageSize?` data-hover-sizes="${e(ctx.hoverImageSize)}"`:''}`:'';
       // Hidden responsive layouts must not fetch larger image variants.
       children = `<img src="${e(url(source))}"${responsive} alt="${e(node.image.alt)}" draggable="false" loading="lazy" decoding="async" style="object-fit:${e(fit)};object-position:${e(node.image.position)}">`;
     } else if(node.svg) {

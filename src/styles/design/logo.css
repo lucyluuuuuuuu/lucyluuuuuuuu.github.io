@@ -5,4 +5,4 @@
 .logo__root .logo__frame-1707480640 { flex: none; height: 36px; left: 0px; overflow: hidden; position: absolute; top: 0px; width: 16px; will-change: var(--framer-will-change-override, transform); }
 .logo__root .logo__frame-1707480641 { flex: none; height: 16px; left: 20px; overflow: hidden; position: absolute; top: 20px; width: 16px; will-change: var(--framer-will-change-override, transform); }
 .logo__root .logo__rectangle-3463368 { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 8px); left: 1px; position: absolute; top: 50%; width: 8px; }
-.logo__root.logo__variant-1-1625:is(:hover,:focus-within) .logo__rectangle-3463368 { left: unset; right: 1px; }
+.logo__root.logo__variant-1-1625:is([data-hover-state=hover],:not([data-hover-state]):is(:hover,:focus-within)) .logo__rectangle-3463368 { left: unset; right: 1px; }
