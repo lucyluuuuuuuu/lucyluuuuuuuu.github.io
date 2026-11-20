@@ -1,5 +1,21 @@
 [
   {
+    "id": "minimax-previs",
+    "path": "/work/MiniMax-Previs/",
+    "name": "MINIMAX DESIGN",
+    "published": true,
+    "summary": "From Creative Intent to Editable Shots: A 3D Rehearsal Space for AI Video Creation",
+    "status": "Delivered to desktop · 2026",
+    "tags": [
+      "AI Creation Tools",
+      "Project Lead",
+      "0 to 1",
+      "Design Engineering"
+    ],
+    "cover": "/assets/images/minimax-previs/cover.webp",
+    "accent": "#a38be0"
+  },
+  {
     "id": "espoirer",
     "path": "/work/Espoirer/",
     "name": "ESPOIRER",

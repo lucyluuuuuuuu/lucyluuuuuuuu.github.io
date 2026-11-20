@@ -1,0 +1,56 @@
+{
+  "desktop": {
+    "class": "case-root",
+    "sections": [
+      "desktop-nav.json",
+      "00-overview.json",
+      "01-opportunity.json",
+      "02-direction.json",
+      "03-camera-model.json",
+      "04-control.json",
+      "05-simplify.json",
+      "06-making.json",
+      "07-onboarding.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "desktop-footer.json"
+    ]
+  },
+  "tablet": {
+    "class": "case-root",
+    "sections": [
+      "tablet-nav.json",
+      "00-overview.json",
+      "01-opportunity.json",
+      "02-direction.json",
+      "03-camera-model.json",
+      "04-control.json",
+      "05-simplify.json",
+      "06-making.json",
+      "07-onboarding.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "tablet-footer.json"
+    ]
+  },
+  "phone": {
+    "class": "case-root",
+    "sections": [
+      "phone-nav.json",
+      "00-overview.json",
+      "01-opportunity.json",
+      "02-direction.json",
+      "03-camera-model.json",
+      "04-control.json",
+      "05-simplify.json",
+      "06-making.json",
+      "07-onboarding.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "phone-footer.json"
+    ]
+  }
+}

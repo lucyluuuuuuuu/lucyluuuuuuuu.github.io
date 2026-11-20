@@ -1,0 +1,48 @@
+{
+  "id": "opportunity",
+  "type": "chapter",
+  "eyebrow": "🎬 PROJECT OVERVIEW",
+  "title": "The first result is only the beginning.",
+  "intro": [
+    "A creator can describe a scene in a sentence. Directing it asks for something more precise: where a character moves, when they arrive, and what the camera sees.",
+    "I led the 3D Previs Stage from product definition to delivery inside MiniMax Design. The goal was to turn a creative intention into a visible, editable plan that could continue into the video workflow."
+  ],
+  "blocks": [
+    {
+      "type": "callout",
+      "label": "THE EDITING PROBLEM",
+      "text": "“Keep the character’s movement. Just change the camera.”",
+      "note": "Illustrative creator request, used to frame the design problem."
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "title": "Space is hard to describe.",
+          "body": [
+            "A prompt has to communicate distance, scale, blocking and framing all at once."
+          ]
+        },
+        {
+          "title": "Timing changes the story.",
+          "body": [
+            "The same movement can feel very different when an arrival, a camera move or a cut happens earlier."
+          ]
+        },
+        {
+          "title": "A revision should stay local.",
+          "body": [
+            "Regenerating a whole result can disturb choices that the creator already wants to keep."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "I framed the first use cases around short films, advertising and product videos: tasks where a creator needs to rehearse a specific action and shot before committing to the final look. This was a product hypothesis shaped through prototypes and internal feedback."
+      ]
+    }
+  ],
+  "tone": "light"
+}

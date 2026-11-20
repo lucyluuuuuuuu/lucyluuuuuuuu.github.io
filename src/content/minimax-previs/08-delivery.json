@@ -1,0 +1,61 @@
+{
+  "id": "delivery",
+  "type": "chapter",
+  "eyebrow": "🚀 DELIVERY",
+  "title": "From an isolated 3D feature to a connected workflow.",
+  "intro": [
+    "The delivered experience connects scene staging, character paths, camera movement, shot sequencing and export back to the canvas. Onboarding and examples make that workflow discoverable inside the desktop product."
+  ],
+  "blocks": [
+    {
+      "type": "split",
+      "label": "CONTINUE THE CREATION",
+      "title": "Export the whole sequence—or the shots you need.",
+      "body": [
+        "Creators can preview the assembled film or select individual shot clips for export. The output returns to the canvas as video material for the next stage of creation.",
+        "That closes the loop: the rehearsal is both an editable plan and a concrete artifact the creator can use."
+      ],
+      "figure": {
+        "type": "figure",
+        "src": "/assets/images/minimax-previs/export.webp",
+        "alt": "Delivered export panel with Full Video and Shot Clips options and four selectable shot previews",
+        "caption": "Delivered product · Shot clips can be selected individually.",
+        "width": 726,
+        "height": 698
+      }
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "title": "A connected editing system.",
+          "body": [
+            "The final workflow brings spatial layout, time, camera and output into one product experience."
+          ],
+          "label": "DELIVERED"
+        },
+        {
+          "title": "A path to first use.",
+          "body": [
+            "Editable examples, guided practice and visible generation feedback accompany the core editor."
+          ],
+          "label": "DELIVERED"
+        },
+        {
+          "title": "A release-ready handoff.",
+          "body": [
+            "The feature reached main and the release branch in November 2026, supported by testing tasks and launch preparation."
+          ],
+          "label": "DELIVERY MILESTONE"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "The evidence at this stage is a delivered workflow and its implementation history. I would evaluate the next phase through first real-project completion, the success of repeated local edits, and the total time and cost of reaching an acceptable downstream video."
+      ]
+    }
+  ],
+  "tone": "light"
+}

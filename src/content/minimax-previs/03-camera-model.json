@@ -1,0 +1,77 @@
+{
+  "id": "camera-model",
+  "type": "chapter",
+  "eyebrow": "01 / REFRAME THE MODEL",
+  "title": "One performance. Many ways to shoot it.",
+  "intro": [
+    "The first prototypes treated camera movement too closely as a property of each shot. That made a cut feel like a new animation task, even when it reused the same performance.",
+    "I worked toward three distinct concepts: a scene holds the performance, a camera has its own movement, and a shot chooses which camera and source interval to show. Editing the sequence should not require rebuilding the action."
+  ],
+  "blocks": [
+    {
+      "type": "sequence",
+      "label": "CONCEPT MODEL · ILLUSTRATIVE 12-SECOND SCENE",
+      "performance": "One continuous character performance · 0–12s",
+      "cameras": [
+        "Camera A",
+        "Camera B"
+      ],
+      "shots": [
+        {
+          "label": "SHOT 01",
+          "camera": "Camera A",
+          "time": "Source 0–4s"
+        },
+        {
+          "label": "SHOT 02",
+          "camera": "Camera B",
+          "time": "Source 4–8s"
+        },
+        {
+          "label": "SHOT 03",
+          "camera": "Camera A",
+          "time": "Source 8–12s"
+        }
+      ],
+      "caption": "A → B → A reuses the same cameras and performance. Shots select intervals; they do not restart the character’s motion."
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "title": "Scene = what happens.",
+          "body": [
+            "Characters and props move through a shared scene timeline."
+          ]
+        },
+        {
+          "title": "Camera = how it is filmed.",
+          "body": [
+            "Each camera retains its position and orientation over time, independently of the edit."
+          ]
+        },
+        {
+          "title": "Shot = what is shown.",
+          "body": [
+            "A shot selects a camera and a source interval. Trimming or reordering changes the assembled sequence."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/assets/images/minimax-previs/film.webp",
+      "alt": "Delivered film-preview interface showing shot thumbnails and camera keyframes",
+      "caption": "Delivered product · Film Preview brings the shot sequence and camera keyframes together.",
+      "width": 1826,
+      "height": 1238
+    },
+    {
+      "type": "callout",
+      "label": "THE IMPORTANT TRADEOFF",
+      "text": "Reusing a camera also means sharing its edits.",
+      "note": "The interface needs to distinguish previewing another camera from replacing the camera used by a shot."
+    }
+  ],
+  "tone": "dark"
+}

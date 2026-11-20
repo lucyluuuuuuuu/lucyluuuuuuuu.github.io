@@ -2,6 +2,23 @@
 
 ## 修改现有页面
 
+### MiniMax 预演台案例
+
+入口为 `/work/MiniMax-Previs/`，首页顺序由 `src/data/projects.json` 决定。这个新案例使用共享章节，桌面、平板和手机不需要分别修改正文：
+
+- `src/content/minimax-previs/00-overview.json`：首屏标题、角色、团队、封面及章节跳转。
+- `01-opportunity.json` 至 `09-reflection.json`：问题、产品方向、三项设计决策、实现、引导、交付及反思。
+- `src/design/pages/minimax-previs/index.json`：三个断点的章节顺序；章节文件中的 `caseStudy` 对应正文文件名。
+- `src/pages/case-study.mjs`：共用章节渲染器。支持文字、图片、左右排版、前后对照、关系图、步骤和职责说明。
+- `src/styles/design/case-study.css`：仅作用于新案例的排版。导航、Logo、页尾沿用全站组件及动画。
+- `public/assets/images/minimax-previs/`：公开素材。真实桌面截图已裁掉账号与无关对话；`prototype-workspace.webp` 是早期原型，须保留原型标注。
+
+新增章节：创建正文 JSON 和对应 `{ "caseStudy": "文件名（不含扩展名）" }` 的布局 JSON，再加入三个断点的顺序列表。章节 `id` 是稳定的跳转锚点；删除章节时同时更新首屏 `chapters`。图片需要 `src`、`alt`、`width`、`height`，可选 `caption`。图片点击后打开完整素材。
+
+新案例底部的下一项目根据已发布项目顺序生成；返回作品区使用 `/#works`。隐藏或重新排列项目后会自动更新。项目结果目前使用交付事实和后续验证方向，不应把测试计划写成已获得的用户指标。
+
+### 原有 Framer 还原页面
+
 当前五个页面使用还原后的布局，不再读取首次迁移的扁平章节内容。旧内容已移到 `examples/initial-migration-content/`。
 
 1. 在 `src/content/design-copy.json` 搜索页面上的原句，修改对应值。同一段文字被桌面、平板和手机共享。

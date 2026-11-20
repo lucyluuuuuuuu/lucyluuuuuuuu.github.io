@@ -1,0 +1,49 @@
+{
+  "id": "onboarding",
+  "type": "chapter",
+  "eyebrow": "✨ FIRST-TIME EXPERIENCE",
+  "title": "An empty 3D world does not explain itself.",
+  "intro": [
+    "As the feature came together, internal feedback exposed a gap: an empty stage gave a new creator very little reason to begin. I designed two entry paths—continue an idea in the existing conversation, or explore an editable example first.",
+    "The examples showed different kinds of control: a riverside town, a casino infiltration and a desert race. Previewing a sample could communicate the result before the creator opened its scene."
+  ],
+  "blocks": [
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Start with an idea",
+          "text": "Connect a creative request to the scene it will produce."
+        },
+        {
+          "title": "Adjust the white blocks",
+          "text": "Make scale and placement tangible through direct editing."
+        },
+        {
+          "title": "Shape the character’s path",
+          "text": "Link the route in space to its timing."
+        },
+        {
+          "title": "Direct the camera",
+          "text": "Connect camera movement with framing feedback."
+        },
+        {
+          "title": "Arrange the shots",
+          "text": "Choose the views and rhythm of the sequence."
+        },
+        {
+          "title": "Return to the canvas",
+          "text": "Export the rehearsal into the continuing creation workflow."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "I organized guided practice around these six tasks in the native editor. It used a prepared replay rather than a live Agent run, without spending generation credits, and preserved the creator’s original project on exit.",
+        "I also worked on progressive scene feedback during generation, so creators could see work taking shape. The aim was to make waiting more understandable; this was not a claim that generation itself became faster."
+      ]
+    }
+  ],
+  "tone": "lavender"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "interface",
+  "type": "chapter",
+  "eyebrow": "03 / SIMPLIFY THE INTERFACE",
+  "title": "Show the controls when the task needs them.",
+  "intro": [
+    "Build / Compose and Motion / Camera tabs helped me explore the system in an early executable prototype. But they also asked creators to understand the organization of the tool before making a simple edit.",
+    "I moved toward a contextual interface: select an object to inspect it, explicitly enter path editing to work on movement, and open Film Preview when it is time to assemble the sequence."
+  ],
+  "blocks": [
+    {
+      "type": "comparison",
+      "items": [
+        {
+          "label": "EARLY INTERACTION PROTOTYPE",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/minimax-previs/prototype-workspace.webp",
+            "alt": "Early prototype with permanent Build and Compose tabs plus a multi-track camera timeline",
+            "caption": "Prototype from the project documentation; local example data, not a live Agent result.",
+            "width": 2000,
+            "height": 1223
+          },
+          "title": "The whole system on screen.",
+          "body": [
+            "Separate modes and multiple track groups made the model visible, but introduced more decisions before the next action."
+          ]
+        },
+        {
+          "label": "DELIVERED DESKTOP EXPERIENCE",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/minimax-previs/stage.webp",
+            "alt": "Current desktop stage without a permanently open timeline",
+            "caption": "Real desktop capture · Film Preview is available when the creator needs the sequence.",
+            "width": 1640,
+            "height": 1338
+          },
+          "title": "The next task in focus.",
+          "body": [
+            "The default stage keeps attention on the scene. Path editing and the assembled film reveal their own timelines."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "WHAT I KEPT",
+      "text": "The underlying power stays. The permanent interface gets smaller."
+    },
+    {
+      "type": "text",
+      "body": [
+        "The same distinction mattered in the monitor: checking another camera’s view should not silently replace a shot’s camera. I kept preview and editing intent separate so that exploration did not become an accidental change."
+      ]
+    }
+  ],
+  "tone": "light"
+}

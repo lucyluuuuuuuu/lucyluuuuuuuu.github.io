@@ -1,0 +1,18 @@
+{
+  "id": "reflection",
+  "type": "chapter",
+  "eyebrow": "💭 WHAT I TOOK AWAY",
+  "title": "The real design work begins after the first generation.",
+  "intro": [
+    "A first result gives a creator something to react to. The product then has to make that reaction actionable—without losing the work they already value.",
+    "My biggest learning was to treat the editing model as part of the AI experience. Clear objects, shared time, camera ownership and reversible changes matter as much as the prompt box. Building the interaction in code helped me find those boundaries and carry them through to delivery."
+  ],
+  "blocks": [
+    {
+      "type": "callout",
+      "label": "THE PRINCIPLE I WOULD CARRY FORWARD",
+      "text": "Make the next change easier to express—and easier to trust."
+    }
+  ],
+  "tone": "dark"
+}

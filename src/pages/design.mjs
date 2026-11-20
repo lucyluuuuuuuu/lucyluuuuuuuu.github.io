@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { escapeHtml as e } from '../lib/html.mjs';
+import { caseStudySection } from './case-study.mjs';
 
 // The layout files are ordinary, nested HTML descriptions, with copy and routes
 // stored separately. No editor SDK, React runtime or remote asset is required.
@@ -63,6 +64,11 @@ export async function designPage(id, { root, url, site, projects, pages }) {
     if (node == null) return '';
     if (Array.isArray(node)) { const result=[]; for(const child of node)result.push(await render(child,ctx)); return result.join(''); }
     if (typeof node === 'string') return e(node);
+    // New case studies share one semantic content file across all breakpoints.
+    if (node.caseStudy) {
+      if (!/^[a-z0-9-]+$/.test(node.caseStudy)) throw new Error('Invalid case-study section');
+      return caseStudySection(await json(`src/content/${id}/${node.caseStudy}.json`), {url, projects, id, profile:ctx.profile});
+    }
     if (node.text) {
       const original = copy[node.text] ?? '';
       return e(ctx.menuLabel ?? ctx.replacements?.[original] ?? original);

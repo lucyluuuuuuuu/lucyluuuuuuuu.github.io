@@ -1,0 +1,39 @@
+{
+  "id": "making",
+  "type": "chapter",
+  "eyebrow": "🛠 FROM DESIGN TO WORKING SOFTWARE",
+  "title": "I used code to test the interaction model.",
+  "intro": [
+    "For this project, I worked across PM, product design, design engineering and Vibe Coding. A runnable prototype let me examine the relationships that static screens could not answer: what continues when a shot changes, what selection refers to, and which timeline should appear.",
+    "I carried the work from defining the product and interaction rules through implementation, iteration and delivery, collaborating with two engineers whose main focus was Agent-side capabilities."
+  ],
+  "blocks": [
+    {
+      "type": "responsibilities",
+      "items": [
+        {
+          "label": "PRODUCT & DESIGN",
+          "title": "Define the behavior.",
+          "text": "Frame the creator tasks, choose the white-block scope, map scene / camera / shot relationships, and specify how a local edit should behave."
+        },
+        {
+          "label": "DESIGN ENGINEERING",
+          "title": "Make the decisions tangible.",
+          "text": "Use executable prototypes and Vibe Coding to build and iterate the experience, revealing edge cases in selection, movement, framing and sequencing."
+        },
+        {
+          "label": "TEAM DELIVERY",
+          "title": "Connect the whole workflow.",
+          "text": "Align the editing experience with Agent targeting and revision handling, prepare test tasks and onboarding, and follow issues through to delivery."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "This changed the nature of review. Instead of discussing whether a static layout looked simpler, I could put a concrete task through the editor and examine what the next interaction actually did."
+      ]
+    }
+  ],
+  "tone": "light"
+}

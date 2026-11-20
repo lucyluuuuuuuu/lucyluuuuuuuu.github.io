@@ -1,0 +1,55 @@
+{
+  "id": "overview",
+  "type": "hero",
+  "tone": "dark",
+  "eyebrow": "MINIMAX DESIGN · 3D PREVIS STAGE",
+  "title": "From creative intent",
+  "emphasis": "to editable shots.",
+  "description": "A 3D rehearsal space that helps creators stage the action, direct the camera, and keep shaping what AI makes.",
+  "meta": [
+    {
+      "label": "My role",
+      "value": "Project Lead · PM, Product Design, Design Engineering & Vibe Coding"
+    },
+    {
+      "label": "Core team",
+      "value": "Me + 2 engineers focused on Agent capabilities"
+    },
+    {
+      "label": "Timeline / platform",
+      "value": "Sep–Nov 2026 · Desktop"
+    }
+  ],
+  "figure": {
+    "type": "figure",
+    "src": "/assets/images/minimax-previs/path.webp",
+    "alt": "Delivered MiniMax Design editor showing a continuous character path through a white-block casino",
+    "caption": "",
+    "width": 2106,
+    "height": 1178
+  },
+  "inset": {
+    "type": "figure",
+    "src": "/assets/images/minimax-previs/shot.webp",
+    "alt": "Camera view of the same scene, framing a character on a motorcycle",
+    "caption": "",
+    "width": 1996,
+    "height": 1124
+  },
+  "insetLabel": "Same scene. A different point of view.",
+  "artLabel": "Captured in the desktop product · White-block previs",
+  "chapters": [
+    {
+      "id": "opportunity",
+      "label": "The opportunity"
+    },
+    {
+      "id": "camera-model",
+      "label": "Key decisions"
+    },
+    {
+      "id": "delivery",
+      "label": "Delivery & reflection"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "direction",
+  "type": "chapter",
+  "eyebrow": "🧭 PRODUCT DIRECTION",
+  "title": "What should the product own as models get better?",
+  "intro": [
+    "Early discussions challenged the value of a lightweight stage: if an Agent can build a scene in code—or work with a tool like Blender—why create another environment?",
+    "My decision was to separate scene generation from directing and editing. Better models could improve the starting point. The product needed to preserve the creator’s decisions and make the next change understandable."
+  ],
+  "blocks": [
+    {
+      "type": "layers",
+      "items": [
+        {
+          "label": "THE EXPERIENCE TO BUILD",
+          "title": "An editable directing workflow",
+          "text": "Keep space, movement and camera choices available for the next revision.",
+          "tags": [
+            "Blocking",
+            "Camera movement",
+            "Shot sequencing",
+            "Local edits"
+          ]
+        },
+        {
+          "label": "THE FOUNDATION THAT CAN EVOLVE",
+          "title": "Scene creation & assets",
+          "text": "Start with lightweight white-block scenes. Leave room for stronger generation and future asset sources.",
+          "tags": [
+            "Generated geometry",
+            "Semantic objects",
+            "Replaceable generation"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "A DELIBERATE SCOPE",
+      "text": "Rehearse the shot before refining the look."
+    },
+    {
+      "type": "text",
+      "body": [
+        "White-block models made proportion, occlusion and timing visible without requiring production-ready assets. I kept the first experience focused on staging and shooting; final visual treatment remained downstream. Professional-tool interoperability was an extension direction, not a delivered Blender round trip."
+      ]
+    }
+  ],
+  "tone": "light"
+}

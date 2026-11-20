@@ -12,6 +12,7 @@
 @import url('./design/related-card.css');
 @import url('./design/contact.css');
 @import url('./design/fonts.css');
+@import url('./design/case-study.css');
 
 @font-face{font-family:'Neue Montreal Regular';src:url('./fonts/neue-montreal-regular.woff2') format('woff2');font-weight:400;font-display:swap}
 @font-face{font-family:'Neue Montreal Medium';src:url('./fonts/neue-montreal-medium.woff2') format('woff2');font-weight:400 600;font-display:swap}

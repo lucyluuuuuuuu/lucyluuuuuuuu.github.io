@@ -1,0 +1,56 @@
+{
+  "id": "control",
+  "type": "chapter",
+  "eyebrow": "02 / DESIGN FOR REVISION",
+  "title": "Give creators something precise to point to.",
+  "intro": [
+    "The next challenge was the handoff between natural language and direct manipulation. “Move that a little later” only becomes useful when the product knows what “that” refers to.",
+    "I designed selection and reference as part of the editing workflow. A scene object, character path, camera or shot could provide the scope for the next Agent request, while remaining available for manual adjustment."
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/assets/images/minimax-previs/path.webp",
+      "alt": "A purple continuous character path in the 3D scene paired with path keyframes below",
+      "caption": "Delivered product · Selecting a character path opens its focused timeline. The spatial route and timed keyframes describe the same movement.",
+      "width": 2106,
+      "height": 1178
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "title": "Where?",
+          "body": [
+            "Select a point directly on the path to understand and adjust its position in the scene."
+          ]
+        },
+        {
+          "title": "When?",
+          "body": [
+            "The corresponding timeline point places that moment within the movement."
+          ]
+        },
+        {
+          "title": "What does the camera see?",
+          "body": [
+            "The monitor connects an edit in space and time to the resulting composition."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "THE HUMAN–AGENT LOOP",
+      "text": "AI drafts → the creator refines → AI revises a defined part."
+    },
+    {
+      "type": "text",
+      "body": [
+        "I favored meaningful subjects over raw geometry in reference lists: a whole building or Ferris wheel first, with precise parts available through direct selection. This gave creators a useful level of control without making them navigate every generated primitive.",
+        "With the two engineers focused on Agent capabilities, I translated this into handoff requirements: explicit targets, current editing context, revision protection and undo. A request needed to act on the current scene and respect the scope the creator had chosen."
+      ]
+    }
+  ],
+  "tone": "dark"
+}
