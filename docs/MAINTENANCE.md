@@ -2,6 +2,17 @@
 
 ## 修改现有页面
 
+### Talkie Web 案例
+
+入口为 `/work/Talkie-Web/`，在 `src/data/projects.json` 的第二位，紧接 MiniMax。三个断点共享 `src/content/talkie-web/` 的正文和图片配置：
+
+- `00-overview.json`：标题、职责、团队、时间、封面和章节跳转。
+- `01-challenge.json` 至 `09-reflection.json`：问题、改版、新功能、交付与反思。
+- `src/design/pages/talkie-web/index.json`：三个断点的章节顺序与全站导航、页尾。
+- `public/assets/images/talkie-web/`：Figma 原设计导出的本地 WebP 图片。
+
+图片来源节点和事实边界见 `docs/TALKIE-CASE.md`。后续有用户反馈或结果数据时更新 `09-reflection.json`，并注明来源和统计口径。项目页底部的下一项目按已发布顺序生成，因此 MiniMax → Talkie → Espoirer 的跳转随项目配置自动更新。
+
 ### MiniMax 预演台案例
 
 入口为 `/work/MiniMax-Previs/`，首页顺序由 `src/data/projects.json` 决定。这个新案例使用共享章节，桌面、平板和手机不需要分别修改正文：

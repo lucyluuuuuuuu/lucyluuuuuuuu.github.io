@@ -1,0 +1,53 @@
+{
+  "id": "foundation",
+  "type": "chapter",
+  "eyebrow": "🔎 THE REDESIGN",
+  "title": "Keep the familiar entry points. Make the hierarchy clearer.",
+  "intro": [
+    "The previous homepage already offered recommendations, categories and conversation starters. The opportunity was to organize those choices into a more coherent Web experience, with navigation that could support both discovery and ongoing chats."
+  ],
+  "blocks": [
+    {
+      "type": "comparison",
+      "items": [
+        {
+          "label": "BEFORE · SIGNED IN",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/old-home-logged.webp",
+            "alt": "Previous signed-in Talkie homepage with top navigation and rows of gold-framed character cards",
+            "caption": "",
+            "width": 1440,
+            "height": 1538
+          },
+          "title": "A browsing page with many similar signals.",
+          "body": [
+            "Repeated gold frames and dense card rows gave many elements similar visual emphasis. Site-level links occupied the top navigation."
+          ]
+        },
+        {
+          "label": "REDESIGN · SIGNED IN",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/new-home.webp",
+            "alt": "Redesigned signed-in Talkie homepage with persistent side navigation, character categories and conversation starters",
+            "caption": "",
+            "width": 1440,
+            "height": 1316
+          },
+          "title": "A workspace for discovering and returning.",
+          "body": [
+            "A persistent sidebar groups product destinations and recent chats. Clearer card hierarchy, quieter borders and larger imagery give character content more room."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "Both versions use a dark interface. The design change is in hierarchy and structure: a consistent navigation system, clearer destinations, and a more restrained visual treatment around the character artwork."
+      ]
+    }
+  ],
+  "tone": "light"
+}

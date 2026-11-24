@@ -1,0 +1,27 @@
+{
+  "id": "continuity",
+  "type": "chapter",
+  "eyebrow": "📖 FEATURE EVOLUTION · MEMORIES",
+  "title": "Give a memorable exchange somewhere to lead.",
+  "intro": [
+    "Memories presents a conversation as something people can revisit and explore. The detail view keeps the dialogue readable and places an entry back into the character chat alongside it."
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/assets/images/talkie-web/memories.webp",
+      "alt": "Talkie Memories detail page showing a conversation, a chat entry and a like control",
+      "caption": "Memories detail · Reading an exchange can become the start of another conversation.",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "type": "text",
+      "body": [
+        "The design specifies the whole chat entry as a click target. For a signed-out visitor, it opens authentication and returns them to the same page afterward. That return path keeps the original intent in view.",
+        "The reading view and the chat entry share the same visual language. A conversation can be explored as a story, then continued as an interaction with its character."
+      ]
+    }
+  ],
+  "tone": "light"
+}

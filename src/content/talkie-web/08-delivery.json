@@ -1,0 +1,42 @@
+{
+  "id": "delivery",
+  "type": "chapter",
+  "eyebrow": "🤝 MY OWNERSHIP & DELIVERY",
+  "title": "Designing the experience between the screens.",
+  "intro": [
+    "I was the only Product Designer, working with one PM, two frontend engineers and two backend engineers. My scope covered the Web redesign and the features that followed, across desktop and mobile web."
+  ],
+  "blocks": [
+    {
+      "type": "responsibilities",
+      "items": [
+        {
+          "label": "STRUCTURE",
+          "title": "A shared product foundation",
+          "text": "Navigation, discovery hierarchy and the conversation layout provide a consistent place for subsequent features."
+        },
+        {
+          "label": "INTERACTION",
+          "title": "The states around the happy path",
+          "text": "The design file defines hover, selection, loading, empty, error, confirmation and text-overflow states alongside the main screens."
+        },
+        {
+          "label": "HANDOFF",
+          "title": "Behavior engineers can build",
+          "text": "Annotations specify component changes, panel behavior, responsive layouts and motion timing. For example, the Chat Now reveal specifies a 20 px movement, opacity transition and 300 ms duration."
+        },
+        {
+          "label": "COLLABORATION",
+          "title": "One design owner, a shared delivery",
+          "text": "I owned the product design work within the team. Product management and frontend/backend implementation were separate responsibilities held by my collaborators."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "A SMALL DETAIL WITH A LARGE EFFECT",
+      "text": "A suggested reply becomes useful when its loading, selection, editing and failure states all make sense."
+    }
+  ],
+  "tone": "dark"
+}

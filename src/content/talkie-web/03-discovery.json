@@ -1,0 +1,63 @@
+{
+  "id": "discovery",
+  "type": "chapter",
+  "eyebrow": "✨ DESIGN DECISION · DISCOVERY",
+  "title": "Start with the experience someone wants.",
+  "intro": [
+    "Knowing that you want an adventure is different from knowing which character to search for. Scenario-led discovery gives people another way in: choose a mood or situation, then explore the characters connected to it."
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/assets/images/talkie-web/scenarios.webp",
+      "alt": "Talkie scenario discovery with an experience prompt, emoji selectors and a central character carousel",
+      "caption": "Scenario exploration adds an experience-led entry point above the familiar recommendations.",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "label": "A REASON TO EXPLORE",
+          "title": "Lead with a situation.",
+          "body": [
+            "The scenario prompt and emoji choices introduce the kind of encounter a visitor can enter before asking them to choose an individual character."
+          ]
+        },
+        {
+          "label": "A CHARACTER TO CHOOSE",
+          "title": "Reveal the next action.",
+          "body": [
+            "Card hover states expose the chat action when the visitor focuses on a character. The design notes specify the reveal, movement and timing."
+          ]
+        },
+        {
+          "label": "A DIFFERENT WAY IN",
+          "title": "Support browsing and searching.",
+          "body": [
+            "Recommendations, category tags and a dedicated search surface support different levels of intent."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "label": "SEARCH EVOLUTION",
+      "title": "Make search useful before the first keyword.",
+      "body": [
+        "The search design combines a visible input with recommendations, topical tabs and tags. Someone who knows a character can search directly; someone who is still exploring can narrow the field visually.",
+        "The interaction design also includes loading, no-results and network-error states, so the experience has an answer when a query does not return characters."
+      ],
+      "figure": {
+        "type": "figure",
+        "src": "/assets/images/talkie-web/search.webp",
+        "alt": "Talkie search exploration page with a search field, recommendations, topical tabs and tags",
+        "caption": "Search design · Recommendations and categories provide alternatives to a blank input.",
+        "width": 1440,
+        "height": 1538
+      }
+    }
+  ],
+  "tone": "lavender"
+}

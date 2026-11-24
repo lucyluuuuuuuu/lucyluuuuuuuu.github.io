@@ -16,6 +16,22 @@
     "accent": "#a38be0"
   },
   {
+    "id": "talkie-web",
+    "path": "/work/Talkie-Web/",
+    "name": "TALKIE WEB",
+    "published": true,
+    "summary": "From Finding a Character to Feeling Part of Their Story",
+    "status": "Redesign & Feature Evolution · 2024–2025",
+    "tags": [
+      "AI Companions",
+      "Sole Product Designer",
+      "Web Redesign",
+      "Feature Design"
+    ],
+    "cover": "/assets/images/talkie-web/cover.webp",
+    "accent": "#b7a8f7"
+  },
+  {
     "id": "espoirer",
     "path": "/work/Espoirer/",
     "name": "ESPOIRER",

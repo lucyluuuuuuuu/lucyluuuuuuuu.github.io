@@ -1,0 +1,58 @@
+{
+  "id": "immersion",
+  "type": "chapter",
+  "eyebrow": "🎭 DESIGN DECISION · CONVERSATION",
+  "title": "Let the conversation hold the stage.",
+  "intro": [
+    "A character needs a world and a personality, but every visible element competes with the conversation. I refined the dark interface to separate navigation, dialogue and character context, while keeping them connected."
+  ],
+  "blocks": [
+    {
+      "type": "comparison",
+      "items": [
+        {
+          "label": "BEFORE",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/old-chat.webp",
+            "alt": "Previous Talkie chat screen with a textured background, gold character card and top navigation",
+            "caption": "",
+            "width": 2160,
+            "height": 1350
+          },
+          "title": "Strong artwork, a busy surrounding frame.",
+          "body": [
+            "The illustrated background, large character card and site header share attention with the message thread."
+          ]
+        },
+        {
+          "label": "REDESIGN",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/new-chat.webp",
+            "alt": "Redesigned Talkie chat with quieter background, message column and character information panel",
+            "caption": "",
+            "width": 1440,
+            "height": 900
+          },
+          "title": "A clearer center for the exchange.",
+          "body": [
+            "A quieter backdrop supports the messages. Character information and cards sit in their own panel, while recent chats stay in the shared navigation."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "THE BALANCE",
+      "text": "Keep the character present without making every part of the interface compete for attention."
+    },
+    {
+      "type": "text",
+      "body": [
+        "The interaction notes define collapsible supporting panels and a compact character identity when content scrolls. These details preserve access to context while allowing the conversation to occupy more of the experience."
+      ]
+    }
+  ],
+  "tone": "dark"
+}

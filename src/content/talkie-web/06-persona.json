@@ -1,0 +1,43 @@
+{
+  "id": "persona",
+  "type": "chapter",
+  "eyebrow": "🪞 FEATURE EVOLUTION · PERSONA",
+  "title": "The character has a role. The user should have one too.",
+  "intro": [
+    "Emotional connection also depends on how a person is recognized within the story. Persona settings give the user a way to describe who they are, with a reusable default and a separate persona for an individual character."
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/assets/images/talkie-web/persona.webp",
+      "alt": "Talkie Persona Card editor with a Default label, name, gender and Who I Am fields",
+      "caption": "The editor makes the scope visible: this card is the default applied across chats.",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "type": "split",
+      "label": "ONE MODEL, TWO SCOPES",
+      "title": "Make reuse and specificity understandable.",
+      "body": [
+        "A default persona can carry across chats; a character-specific persona supports a different role in a particular story. Labels and separate entries make that distinction visible.",
+        "The mobile design carries the same distinction into the character panel. The interaction notes cover first creation, editing an existing persona, and making a new persona the default for all chats."
+      ],
+      "figure": {
+        "type": "figure",
+        "src": "/assets/images/talkie-web/persona-mobile.webp",
+        "alt": "Mobile character panel showing Default persona and a separate persona for Arlene McCoy",
+        "caption": "Mobile web · Default and character-specific personas remain distinct.",
+        "width": 629,
+        "height": 2400,
+        "class": "case-phone-figure"
+      }
+    },
+    {
+      "type": "callout",
+      "label": "DESIGN TRADEOFF",
+      "text": "A reusable identity saves repetition. A local override leaves room to play a different role."
+    }
+  ],
+  "tone": "lavender"
+}

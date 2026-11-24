@@ -1,0 +1,59 @@
+{
+  "id": "overview",
+  "type": "hero",
+  "tone": "dark",
+  "eyebrow": "TALKIE WEB · REDESIGN & FEATURE EVOLUTION",
+  "title": "Find a character.",
+  "emphasis": "Step into their story.",
+  "description": "Making character discovery more inviting and AI conversations more immersive, personal, and easy to continue.",
+  "meta": [
+    {
+      "label": "My role",
+      "value": "Sole Product Designer · Redesign & subsequent features"
+    },
+    {
+      "label": "Core team",
+      "value": "Me + 1 PM, 2 frontend engineers & 2 backend engineers"
+    },
+    {
+      "label": "Timeline / platform",
+      "value": "Jul 2024–Apr 2025 · Desktop & mobile web"
+    }
+  ],
+  "figure": {
+    "type": "figure",
+    "src": "/assets/images/talkie-web/scenarios.webp",
+    "alt": "Redesigned Talkie discovery page with scenario selection, recommended characters and categories",
+    "caption": "",
+    "width": 1440,
+    "height": 900
+  },
+  "inset": {
+    "type": "figure",
+    "src": "/assets/images/talkie-web/new-chat.webp",
+    "alt": "Redesigned Talkie conversation with character information in a separate side panel",
+    "caption": "",
+    "width": 1440,
+    "height": 900
+  },
+  "insetLabel": "From the first choice to the next reply.",
+  "artLabel": "Original product designs from Figma",
+  "chapters": [
+    {
+      "id": "challenge",
+      "label": "The challenge"
+    },
+    {
+      "id": "discovery",
+      "label": "Discovery & immersion"
+    },
+    {
+      "id": "agency",
+      "label": "Feature evolution"
+    },
+    {
+      "id": "delivery",
+      "label": "Ownership & reflection"
+    }
+  ]
+}
