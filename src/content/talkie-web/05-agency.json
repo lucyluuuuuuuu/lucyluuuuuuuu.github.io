@@ -1,0 +1,74 @@
+{
+  "id": "agency",
+  "type": "chapter",
+  "eyebrow": "💡 FEATURE EVOLUTION · REPLY INSPIRATION",
+  "title": "Offer a way forward. Let the user choose the words.",
+  "intro": [
+    "An immersive scene can still stop at an empty reply box. Reply Inspiration introduces assistance inside the conversation: generate three possibilities, choose one, and bring it into the composer for another edit before sending."
+  ],
+  "blocks": [
+    {
+      "type": "comparison",
+      "items": [
+        {
+          "label": "EXPLORE POSSIBILITIES",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/inspiration.webp",
+            "alt": "Reply Inspiration presents three suggested responses inside the Talkie conversation",
+            "caption": "",
+            "width": 2160,
+            "height": 1350
+          },
+          "title": "Show a small set of directions.",
+          "body": [
+            "The choices appear in the context of the current exchange. Loading feedback makes the transition into generated suggestions explicit."
+          ]
+        },
+        {
+          "label": "MAKE THE REPLY YOUR OWN",
+          "figure": {
+            "type": "figure",
+            "src": "/assets/images/talkie-web/inspiration-edit.webp",
+            "alt": "A selected suggested reply appears in the editable message composer before sending",
+            "caption": "",
+            "width": 2160,
+            "height": 1350
+          },
+          "title": "Selection fills the composer.",
+          "body": [
+            "Choosing a suggestion does not send it. Its text appears in the input, where the user can edit it and decide when to send."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Ask for inspiration",
+          "text": "The control introduces the response area immediately, followed by a loading state."
+        },
+        {
+          "title": "Choose a direction",
+          "text": "Three generated options make the next step concrete without presenting an overwhelming list."
+        },
+        {
+          "title": "Edit before sending",
+          "text": "The selected text remains an editable draft. Sending stays a separate action."
+        },
+        {
+          "title": "Recover from interruption",
+          "text": "The designs cover cancellation, retained text, generation failure and trying again."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "The later message-management designs extend that sense of control through editing, recall and rewind. Confirmation and limit states are part of those flows, so changing a conversation is an explicit decision."
+      ]
+    }
+  ],
+  "tone": "light"
+}

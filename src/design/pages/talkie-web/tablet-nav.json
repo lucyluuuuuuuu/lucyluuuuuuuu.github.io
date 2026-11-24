@@ -1,0 +1,9 @@
+{
+  "tag": "div",
+  "class": "case-site-nav",
+  "children": [
+    {
+      "include": "navigation/tablet-8b2fd36d"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "reflection",
+  "type": "chapter",
+  "eyebrow": "🌱 OUTCOME & REFLECTION",
+  "title": "A more connected path from discovery to participation.",
+  "intro": [
+    "The design work brought discovery, conversation and subsequent features into a shared Web experience: clearer ways to find a character, a more focused conversation space, and more control over how to take part.",
+    "The strongest thread through this work is user agency. A scenario suggests where to begin. A reply offers a possible next line. A persona describes a role. In each case, the experience is stronger when the user can still choose, adjust and continue."
+  ],
+  "blocks": [
+    {
+      "type": "points",
+      "items": [
+        {
+          "label": "DISCOVERY",
+          "title": "Can people find a fit?",
+          "body": [
+            "I would evaluate time to a first suitable conversation and the paths people take from recommendations, scenarios and search."
+          ]
+        },
+        {
+          "label": "PARTICIPATION",
+          "title": "Does assistance help them respond?",
+          "body": [
+            "I would examine whether suggested replies lead to a message, how often people edit them, and where generation or cancellation interrupts the flow."
+          ]
+        },
+        {
+          "label": "CONNECTION",
+          "title": "Do they want to continue?",
+          "body": [
+            "I would pair return-to-chat behavior with qualitative feedback on immersion, personal relevance and emotional connection."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "The work shown here is the product design and interaction specification. The questions above describe how I would evaluate its effectiveness beyond the design deliverables."
+      ]
+    }
+  ],
+  "tone": "light"
+}

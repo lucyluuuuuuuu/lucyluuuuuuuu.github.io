@@ -1,0 +1,56 @@
+{
+  "desktop": {
+    "class": "case-root talkie-case-root",
+    "sections": [
+      "desktop-nav.json",
+      "00-overview.json",
+      "01-challenge.json",
+      "02-foundation.json",
+      "03-discovery.json",
+      "04-immersion.json",
+      "05-agency.json",
+      "06-persona.json",
+      "07-continuity.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "desktop-footer.json"
+    ]
+  },
+  "tablet": {
+    "class": "case-root talkie-case-root",
+    "sections": [
+      "tablet-nav.json",
+      "00-overview.json",
+      "01-challenge.json",
+      "02-foundation.json",
+      "03-discovery.json",
+      "04-immersion.json",
+      "05-agency.json",
+      "06-persona.json",
+      "07-continuity.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "tablet-footer.json"
+    ]
+  },
+  "phone": {
+    "class": "case-root talkie-case-root",
+    "sections": [
+      "phone-nav.json",
+      "00-overview.json",
+      "01-challenge.json",
+      "02-foundation.json",
+      "03-discovery.json",
+      "04-immersion.json",
+      "05-agency.json",
+      "06-persona.json",
+      "07-continuity.json",
+      "08-delivery.json",
+      "09-reflection.json",
+      "10-related.json",
+      "phone-footer.json"
+    ]
+  }
+}

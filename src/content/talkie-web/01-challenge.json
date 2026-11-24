@@ -1,0 +1,50 @@
+{
+  "id": "challenge",
+  "type": "chapter",
+  "eyebrow": "💬 PROJECT OVERVIEW",
+  "title": "A connection starts before the first message.",
+  "intro": [
+    "A new visitor arrives at Talkie with a choice: who do I want to talk to? After choosing a character, the challenge changes—finding a way into the conversation and feeling part of its world.",
+    "As the sole Product Designer, I owned the Web redesign and subsequent feature design. The work connected two goals: helping people find a suitable character on arrival, and deepening immersion and emotional connection once they started chatting."
+  ],
+  "blocks": [
+    {
+      "type": "callout",
+      "label": "DESIGN QUESTION",
+      "text": "How might we help someone choose a character, enter their world, and make the conversation their own?"
+    },
+    {
+      "type": "points",
+      "items": [
+        {
+          "label": "FIND",
+          "title": "Give people a starting point.",
+          "body": [
+            "Help visitors explore through character cues, interests and scenarios—even when they do not have a name to search for."
+          ]
+        },
+        {
+          "label": "ENTER",
+          "title": "Keep the conversation in focus.",
+          "body": [
+            "Make character context accessible while giving the exchange itself a clear visual center."
+          ]
+        },
+        {
+          "label": "PARTICIPATE",
+          "title": "Leave room for the user.",
+          "body": [
+            "Support what to say, who to be, and how to continue without taking the final choice away from the person chatting."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": [
+        "The redesign established the shared navigation and visual structure. Subsequent features extended that foundation through discovery, reply assistance, persona settings and ways to revisit conversations."
+      ]
+    }
+  ],
+  "tone": "light"
+}
